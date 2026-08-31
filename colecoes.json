@@ -1,0 +1,82 @@
+[
+ {
+  "slug": "busca-por-vida-extraterrestre",
+  "nome": "Busca por vida extraterrestre",
+  "descricao": "O que a procura por outra inteligência no universo diz sobre a ciência — e sobre nós. Megaestruturas, o silêncio cósmico, os protocolos de contato e a psicologia de quem procura.",
+  "capa": "",
+  "ordem": 1,
+  "publicada": true
+ },
+ {
+  "slug": "religioes-do-mundo",
+  "nome": "Religiões do mundo",
+  "descricao": "Um panorama por tradição: origem, textos, cosmovisão, ritos e comunidade. Do cristianismo ao candomblé, cada volume percorre uma fé de dentro para fora.",
+  "capa": "",
+  "ordem": 2,
+  "publicada": true
+ },
+ {
+  "slug": "religioes-comparadas",
+  "nome": "Religiões comparadas",
+  "descricao": "Duas tradições lado a lado em cada volume. Menos “quem está certo” e mais o que cada uma resolve à sua maneira: reforma e carisma, mistério e disciplina, terreiro e templo.",
+  "capa": "",
+  "ordem": 3,
+  "publicada": true
+ },
+ {
+  "slug": "fe-poder-e-sociedade",
+  "nome": "Fé, poder e sociedade",
+  "descricao": "O que acontece quando a fé encontra o Estado, o dinheiro, a mídia e o crime. A série mais dura da estante — e a mais atual.",
+  "capa": "",
+  "ordem": 4,
+  "publicada": true
+ },
+ {
+  "slug": "axe-matriz-africana",
+  "nome": "Axé / matriz africana",
+  "descricao": "Ancestralidade, economia, memória e disputa cultural nas religiões de matriz africana. Do terreiro à aldeia global.",
+  "capa": "",
+  "ordem": 5,
+  "publicada": true
+ },
+ {
+  "slug": "dilemas-bioeticos",
+  "nome": "Dilemas bioéticos",
+  "descricao": "Os casos em que a medicina avança mais rápido que o consenso: CRISPR, células-tronco, triagem em pandemia, fim de vida, IA no diagnóstico.",
+  "capa": "",
+  "ordem": 6,
+  "publicada": true
+ },
+ {
+  "slug": "protecao-infantil",
+  "nome": "Proteção infantil",
+  "descricao": "Violência contra a criança sob todos os ângulos: a família, a escola, o sistema de justiça e o ambiente digital. Prevenção como escudo.",
+  "capa": "",
+  "ordem": 7,
+  "publicada": true
+ },
+ {
+  "slug": "educacao-para-o-futuro",
+  "nome": "Educação para o futuro",
+  "descricao": "Como se aprende hoje e como se deveria aprender: leitura, alfabetização digital, inteligências múltiplas, avaliação, diversidade e o papel do professor.",
+  "capa": "",
+  "ordem": 8,
+  "publicada": true
+ },
+ {
+  "slug": "desenvolvimento-pessoal",
+  "nome": "Desenvolvimento pessoal",
+  "descricao": "Resiliência, medo, hábito de leitura, visualização e redes de apoio — em linguagem direta, com método e sem promessa fácil.",
+  "capa": "",
+  "ordem": 9,
+  "publicada": true
+ },
+ {
+  "slug": "contracultura",
+  "nome": "Contracultura",
+  "descricao": "Das raízes da rebeldia ao tropicalismo, do punk à espiritualidade alternativa: a história de quem disse não e o que sobrou disso.",
+  "capa": "",
+  "ordem": 10,
+  "publicada": true
+ }
+]
