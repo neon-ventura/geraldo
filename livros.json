@@ -47,7 +47,7 @@
   "slug": "mundos-habitaveis",
   "titulo": "Mundos Habitáveis",
   "subtitulo": "Uma esperançosa busca cósmica",
-  "sinopse": "Primeiro paragrafo do teste.\n\n## Um subtitulo\n\n- item um\n- item dois\n\nUltimo paragrafo.",
+  "sinopse": "",
   "autor": "Rust Köhlen",
   "colecao": "Busca por vida extraterrestre",
   "preco": null,
@@ -56,14 +56,14 @@
   "publicado": true,
   "destaque": false,
   "ordem": 3,
-  "paginas": 184,
-  "ano": 2024,
+  "paginas": null,
+  "ano": null,
   "isbn": "",
-  "formato": "Impresso e PDF",
+  "formato": "",
   "idioma": "pt-BR",
   "tags": [],
   "criado": "2026-08-31T18:19:21.182Z",
-  "atualizado": "2026-08-31T18:25:17.033Z"
+  "atualizado": "2026-08-31T18:26:00.704Z"
  },
  {
   "slug": "alem-do-radio-a-proxima-fronteira-do-seti",
