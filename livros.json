@@ -53,7 +53,7 @@
   "preco": null,
   "capa": "/img/capas/mundos-habitaveis.webp",
   "galeria": [],
-  "publicado": true,
+  "publicado": false,
   "destaque": false,
   "ordem": 3,
   "paginas": null,
@@ -63,7 +63,7 @@
   "idioma": "pt-BR",
   "tags": [],
   "criado": "2026-08-31T18:19:21.182Z",
-  "atualizado": "2026-08-31T18:19:21.182Z"
+  "atualizado": "2026-08-31T18:25:10.945Z"
  },
  {
   "slug": "alem-do-radio-a-proxima-fronteira-do-seti",
