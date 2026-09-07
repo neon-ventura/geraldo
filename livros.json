@@ -1763,7 +1763,7 @@
   "slug": "testes-geneticos-e-privacidade-de-dados",
   "titulo": "Testes Genéticos e Privacidade de Dados",
   "subtitulo": "",
-  "sinopse": "",
+  "sinopse": "###  Testes Genéticos e Privacidade de Dados\n\nO sequenciamento do genoma humano abriu portas para a medicina de precisão, mas também criou um dos maiores desafios éticos do século XXI: a proteção da privacidade dos dados genéticos. *Testes Genéticos e Privacidade de Dados* é uma obra essencial que explora os dilemas da era genômica, desde a promessa de testes preditivos até os riscos de discriminação genética e a comercialização do DNA. Jeremias Heilgut conduz o leitor por uma análise profunda dos direitos, dos riscos e das responsabilidades na era da informação genética.\n\nHeilgut examina a dualidade dos testes preditivos, que podem antecipar doenças como Alzheimer e Huntington, mas também trazem angústia e incerteza. A obra investiga a privacidade do DNA na era digital, o papel de empresas como 23andMe e MyHeritage, e os riscos de hackeamento e reidentificação de dados. O autor analisa a discriminação genética no emprego e nos seguros, e a legislação existente, como a GINA nos EUA, e suas limitações.\n\nA força do livro está na abordagem dos direitos individuais. Heilgut discute o direito de não saber, a autonomia do paciente e o impacto nas dinâmicas familiares. A obra explora a regulamentação de bancos de dados genéticos, o aconselhamento genético, os testes diretos ao consumidor e a exploração comercial do genoma humano. O autor aborda o impacto psicológico dos resultados preditivos, a genética na medicina de precisão e o futuro da privacidade genética, com tecnologias como blockchain. *Testes Genéticos e Privacidade de Dados* é uma leitura indispensável para compreender os desafios éticos da era genômica e proteger a autonomia individual.",
   "autor": "Jeremias Heilgut",
   "colecao": "Dilemas bioéticos",
   "preco": null,
@@ -1779,7 +1779,7 @@
   "idioma": "pt-BR",
   "tags": [],
   "criado": "2026-08-31T18:19:21.182Z",
-  "atualizado": "2026-08-31T18:19:21.182Z"
+  "atualizado": "2026-09-07T15:01:53.904Z"
  },
  {
   "slug": "a-engenharia-da-crueldade",
