@@ -69,7 +69,7 @@
   "slug": "alem-do-radio-a-proxima-fronteira-do-seti",
   "titulo": "Além do Rádio: A Próxima Fronteira do SETI",
   "subtitulo": "Das ondas gravitacionais à IA, as novas ferramentas da caça",
-  "sinopse": "",
+  "sinopse": "### Além do Rádio: A Próxima Fronteira do SETI\n\nA busca por inteligência extraterrestre está prestes a passar por sua maior revolução. Em *Além do Rádio*, Rust Köhlen declara o fim da era das ondas de rádio como a única fronteira do SETI, guiando-nos por um arsenal de novas ferramentas que prometem redefinir a caçada cósmica.\n\nKöhlen começa com uma análise crítica da \"Era de Ouro do Rádio\", revisitando o Projeto Ozma e o famoso sinal \"Wow!\" para entender as lições e limitações do passado. A partir daí, ele nos conduz por um futuro de detecção multimodal. Aprenda como a comunicação por pulsos de laser no espectro óptico pode superar o rádio em clareza e alcance, e como as ondas gravitacionais, os \"mensageiros fantasma\" do universo, podem revelar a presença de megaestruturas ou motores de dobra espacial.\n\nA inteligência artificial é a estrela do show. Köhlen mostra como algoritmos de machine learning e redes neurais estão filtrando o ruído cósmico com uma eficiência inédita, identificando padrões complexos que a mente humana jamais conseguiria. O livro também explora o poder do \"crowdsourcing cósmico\", onde cidadãos cientistas se tornam parceiros essenciais na análise de dados, e a promessa da interferometria, que combina telescópios para criar \"super-olhos\" com resolução astronômica.\n\n*Além do Rádio* não é apenas um livro sobre novas tecnologias, mas sobre um novo paradigma. De sensores quânticos a nanossondas espaciais, Köhlen nos prepara para uma era em que a busca por inteligência se torna uma verdadeira ciência de dados, uma arqueologia alienígena que decodifica o universo em todas as suas frequências.",
   "autor": "Rust Köhlen",
   "colecao": "Busca por vida extraterrestre",
   "preco": null,
@@ -85,7 +85,7 @@
   "idioma": "pt-BR",
   "tags": [],
   "criado": "2026-08-31T18:19:21.182Z",
-  "atualizado": "2026-08-31T18:19:21.182Z"
+  "atualizado": "2026-09-08T00:49:58.987Z"
  },
  {
   "slug": "o-silencio-cosmico",
