@@ -47,7 +47,7 @@
   "slug": "mundos-habitaveis",
   "titulo": "Mundos Habitáveis",
   "subtitulo": "Uma esperançosa busca cósmica",
-  "sinopse": "",
+  "sinopse": "### Mundos Habitáveis: Uma Esperançosa Busca Cósmica\n\nA pergunta mais antiga da humanidade está prestes a ganhar uma resposta: estamos sozinhos? Em *Mundos Habitáveis*, Rust Köhlen nos leva a uma expedição otimista e rigorosa pelo cosmos em busca de um novo lar para a vida, um \"Ponto Azul Pálido 2.0\".\n\nKöhlen rompe com a visão limitada da \"Zona Cachinhos Dourados\" para explorar a diversidade de mundos que podem abrigar vida. Viaje para além da zona clássica e descubra oceanos subterrâneos em luas como Europa e Encélado, planetas errantes com atmosferas densas e a resiliência da vida em torno de violentas anãs vermelhas. A busca não se limita a mundos \"parecidos com a Terra\"; Köhlen apresenta o conceito revolucionário de planetas \"super-habitáveis\", ambientes que podem ser ainda mais acolhedores para a vida do que o nosso.\n\nO livro é uma aula magistral sobre as ferramentas da astrobiologia. Você aprenderá a ler biossinaturas como oxigênio e metano na atmosfera de exoplanetas, entenderá o promissor sistema TRAPPIST-1 e revisitará Vênus e Marte com novos olhos. Köhlen discute a teoria da Panspermia, a possibilidade de que a vida seja uma semente cósmica, e como o estudo dos extremófilos na Terra é a chave para entender a vida extraterrestre.\n\n*Mundos Habitáveis* é uma celebração da descoberta e um manifesto de esperança. Mais do que uma busca por vida, este livro nos convida a redefinir nosso lugar no universo, transformando a curiosidade científica em uma profunda reflexão filosófica sobre a resiliência e a ubiquidade da vida.",
   "autor": "Rust Köhlen",
   "colecao": "Busca por vida extraterrestre",
   "preco": null,
@@ -63,7 +63,7 @@
   "idioma": "pt-BR",
   "tags": [],
   "criado": "2026-08-31T18:19:21.182Z",
-  "atualizado": "2026-08-31T18:26:00.704Z"
+  "atualizado": "2026-09-08T00:49:11.202Z"
  },
  {
   "slug": "alem-do-radio-a-proxima-fronteira-do-seti",
