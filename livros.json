@@ -391,9 +391,11 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Crime Organizado · Facções Criminosas · "
+  ],
   "criado": "2026-10-12T18:11:38.484Z",
-  "atualizado": "2026-10-12T18:11:38.484Z"
+  "atualizado": "2026-10-12T19:04:25.051Z"
  },
  {
   "slug": "crime-e-vulnerabilidade-social",
