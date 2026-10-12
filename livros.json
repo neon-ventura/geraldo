@@ -519,13 +519,18 @@
   "destaque": false,
   "ordem": 0,
   "paginas": null,
-  "ano": null,
+  "ano": 2025,
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Acesso à Justiça · Defensoria Pública",
+   "Direitos Humanos",
+   "Vulnerabilidade Social",
+   "Democratização do Direito"
+  ],
   "criado": "2026-10-12T17:57:19.474Z",
-  "atualizado": "2026-10-12T18:54:54.474Z"
+  "atualizado": "2026-10-12T18:56:51.433Z"
  },
  {
   "slug": "o-que-o-bhagavad-gita-ensina-sobre-etica-vol-ii",
