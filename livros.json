@@ -501,9 +501,15 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Ato Infracional",
+   "Socioeducação",
+   "Estatuto da Criança e do Adolescente",
+   "Juventude Periférica",
+   "Justiça Restaurativa"
+  ],
   "criado": "2026-10-12T17:59:41.586Z",
-  "atualizado": "2026-10-12T17:59:41.586Z"
+  "atualizado": "2026-10-12T18:59:46.009Z"
  },
  {
   "slug": "acesso-a-justica-e-defensoria-publica",
