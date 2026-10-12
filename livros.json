@@ -1,5 +1,27 @@
 [
  {
+  "slug": "criminologia-critica-e-marxismo",
+  "titulo": "CRIMINOLOGIA CRÍTICA E MARXISMO",
+  "subtitulo": "CRIME, ESTADO E CONTROLE SOCIAL NA SOCIEDADE CAPITALISTA",
+  "sinopse": "Por que a justiça pune com rigor o jovem pobre que rouba um celular, mas trata com leniência o executivo que desvia milhões? Por que as prisões estão cheias de negros e periféricos, enquanto os crimes do colarinho branco raramente terminam em cela? A resposta não está na \"natureza criminosa\" de uns e na \"honestidade\" de outros — está na estrutura de classes, no poder e na ideologia. É isso que Jonas M. Bauer demonstra com rigor em Criminologia Crítica e Marxismo, uma obra essencial para entender o crime como fenômeno político.\n\nO livro reconstrói as origens da criminologia crítica, sua ruptura com o positivismo e a influência decisiva do marxismo, da Escola de Frankfurt e de outras correntes do pensamento crítico. Bauer examina a relação entre base econômica e superestrutura jurídica, revelando como o Direito Penal funciona como instrumento de dominação de classe e como o Estado organiza o controle social das camadas subalternas.\n\nA obra percorre a criminalização da pobreza, a seletividade penal, o racismo estrutural do sistema de justiça, a dualidade do Estado penal — mínimo nas garantias sociais, máximo na repressão —, a indústria do encarceramento, a privatização das prisões e a gestão capitalista do excedente populacional. Analisa a função histórica da polícia como ferramenta de controle, a ideologia da segurança, o populismo penal, o pânico moral midiático e o Direito Penal simbólico.\n\nBauer não se limita à crítica: discute a falência do modelo carcerário, a reincidência como sintoma do fracasso institucional, o abolicionismo penal, suas resistências e limites, e o papel dos movimentos sociais na construção de alternativas. Encerra com uma análise da criminologia crítica hoje, diante de novas formas de controle social — vigilância digital, algoritmos, big data — e com um chamado à transformação social.\n\nEste é um livro para quem quer entender o crime para além do senso comum. Para juristas, cientistas sociais, ativistas, estudantes e todos que percebem que a justiça não é neutra — e que o Direito Penal nunca é aplicado igualmente a todos. Leitura indispensável para quem busca uma sociedade verdadeiramente justa.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "CRIMINOLOGIA E JUSTIÇA SOCIAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1791829342892.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [],
+  "criado": "2026-10-12T18:23:43.188Z",
+  "atualizado": "2026-10-12T18:23:43.188Z"
+ },
+ {
   "slug": "criminalidade-de-colarinho-branco-e-impunidade",
   "titulo": "CRIMINALIDADE DE COLARINHO BRANCO E IMPUNIDADE",
   "subtitulo": "PODER ECONÔMICO, CRIMES DE ELITE E OS LIMITES DA JUSTIÇA BRASILEIRA",
