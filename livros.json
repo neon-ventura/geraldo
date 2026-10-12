@@ -1,5 +1,27 @@
 [
  {
+  "slug": "seguranca-privada-e-desigualdade",
+  "titulo": "SEGURANÇA PRIVADA E DESIGUALDADE",
+  "subtitulo": "QUEM O ESTADO NÃO PROTEGE, O MERCADO VIGIA E SEGREGA",
+  "sinopse": "Existem duas cidades dentro da mesma cidade. Em uma, muros altos, câmeras por todo lado, seguranças armados, drones sobrevoando. Na outra, ausência total do Estado, ruas escuras, medo constante. A diferença entre elas? O poder de pagar. Em Segurança Privada e Desigualdade, Jonas M. Bauer escancara como a segurança se tornou mercadoria — e como essa mercantilização aprofunda o abismo social que separa protegidos de abandonados.\n\nO livro reconstrói a expansão histórica da segurança privada, das origens medievais ao complexo industrial global contemporâneo, passando pela guinada neoliberal e pela terceirização de funções estatais a partir dos anos 1970. Bauer analisa o marco jurídico do setor — a Lei 7.102/83, o controle de armamentos, o uso da força, a fragilidade da fiscalização e a dificuldade de responsabilização por abusos.\n\nA obra percorre a segregação urbana produzida pelos enclaves fortificados — condomínios fechados, shoppings, aeroportos —, a arquitetura do medo, o direito à cidade negado, a economia política da proteção. Discute o mercado de trabalho dos vigilantes, a precariedade, a rotatividade, os impactos na saúde mental. Examina as tecnologias de vigilância — CFTV, reconhecimento facial, Big Data, drones — e seus efeitos sobre privacidade e liberdades civis.\n\nBauer enfrenta temas duros: a letalidade da segurança privada, os abusos subnotificados, a seletividade racial, os linchamentos, a \"lei do moreno\", a responsabilidade corporativa. Analisa as interfaces com a segurança pública — cooperação, desvio de armamentos, troca de profissionais, terceirização. Discute a segurança corporativa e seu papel controverso em conflitos fundiários e ambientais, compliance e financeirização do setor.\n\nE vai além: examina as milícias como mercado ilegal de proteção, monopólio territorial, extorsão, conexões com a política, expansão para outras atividades. Propõe modelos alternativos — segurança cidadã, mediação, economia solidária, design urbano inclusivo — e encerra com propostas de regulação progressista, fortalecimento da segurança pública universal e a visão da segurança como direito social, não mercadoria.\n\nEste é um livro para quem entende que segurança não pode ser privilégio de quem pode pagar. Para juristas, gestores públicos, urbanistas, profissionais de segurança e cidadãos indignados com a segregação disfarçada de proteção. Leitura indispensável para repensar o futuro das cidades.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "CRIMINOLOGIA E JUSTIÇA SOCIAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1791830655915.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [],
+  "criado": "2026-10-12T18:45:50.640Z",
+  "atualizado": "2026-10-12T18:45:50.640Z"
+ },
+ {
   "slug": "prisao-ressocializacao-e-fracasso-institucional",
   "titulo": "PRISÃO, RESSOCIALIZAÇÃO E FRACASSO INSTITUCIONAL",
   "subtitulo": "O DISCURSO DA RECUPERAÇÃO X A REPRODUÇÃO DA EXCLUSÃO SOCIAL",
