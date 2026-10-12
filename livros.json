@@ -1,5 +1,27 @@
 [
  {
+  "slug": "teorias-criminologicas-contemporaneas",
+  "titulo": "TEORIAS CRIMINOLÓGICAS CONTEMPORÂNEAS",
+  "subtitulo": "CRIMINALIDADE, DESIGUALDADES E NOVAS FRONTEIRAS DE PUNIÇÃO",
+  "sinopse": "Por que as pessoas cometem crimes? Por que determinados grupos são mais punidos do que outros? Por que o crime muda de forma conforme a sociedade se transforma? Em Teorias Criminológicas Contemporâneas, Jonas M. Bauer oferece um panorama completo, crítico e atualizado das principais teorias que explicam o crime — e mostra como elas precisam evoluir para enfrentar os desafios do século XXI.\n\nO livro começa com a evolução histórica da criminologia, das escolas clássicas ao positivismo, das abordagens críticas às integrativas. Apresenta a criminologia como ciência empírica e interdisciplinar, discutindo o impacto da globalização, urbanização e digitalização na redefinição do crime e da punição, e introduzindo as novas fronteiras da neurocriminologia e da genética comportamental.\n\nA obra percorre as principais teorias: biológicas e psicológicas contemporâneas, neurociência, psicologia cognitivo-comportamental, transtornos mentais e violência; a Escola de Chicago e as teorias ecológicas aplicadas às megacidades; a teoria da anomia e a strain theory relidas em contextos de crise e precarização; a teoria do etiquetamento e a estigmatização na era digital; as teorias do conflito e a criminologia crítica; a associação diferencial e o aprendizado social em comunidades online; a teoria do controle social e as novas tecnologias de vigilância.\n\nBauer também aborda a criminologia feminista e de gênero, a interseccionalidade, a violência online e movimentos como o #MeToo; as teorias pós-modernas e culturais, o crime como fenômeno simbólico, o consumo de transgressão, as fake news; a criminologia verde e ambiental, o ecocídio e a justiça ambiental. Encerra com uma reflexão sobre as perspectivas futuras, a integração teórica, a ética na pesquisa criminológica, as tecnologias preditivas e a necessidade de políticas públicas baseadas em evidências.\n\nEste é um livro para quem quer compreender o crime para além do senso comum. Para juristas, cientistas sociais, estudantes, pesquisadores e profissionais de segurança que buscam uma abordagem crítica e atualizada. Leitura essencial para entender a criminalidade no mundo contemporâneo.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "CRIMINOLOGIA E JUSTIÇA SOCIAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1791830782311.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [],
+  "criado": "2026-10-12T18:47:49.012Z",
+  "atualizado": "2026-10-12T18:47:49.012Z"
+ },
+ {
   "slug": "seguranca-privada-e-desigualdade",
   "titulo": "SEGURANÇA PRIVADA E DESIGUALDADE",
   "subtitulo": "QUEM O ESTADO NÃO PROTEGE, O MERCADO VIGIA E SEGREGA",
