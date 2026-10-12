@@ -1,5 +1,27 @@
 [
  {
+  "slug": "crime-cibernetico-e-legislacao",
+  "titulo": "CRIME CIBERNÉTICO E LEGISLAÇÃO",
+  "subtitulo": "LIBERDADE DIGITAL, SEGURANÇA DE DADOS E HIPERCONTROLE PENAL",
+  "sinopse": "Enquanto você lê esta sinopse, milhões de ataques cibernéticos estão acontecendo ao redor do mundo. Hackers invadem sistemas, governos espionam cidadãos, deepfakes manipulam eleições e criptomoedas financiam o crime organizado. Em *Crime Cibernético e Legislação*, Jonas M. Bauer conduz o leitor por um dos territórios mais complexos e urgentes do Direito contemporâneo: a fronteira entre liberdade digital, proteção de dados e hipercontrole penal.\n\nA obra começa definindo o que é o crime cibernético no século XXI, distinguindo crimes informáticos próprios e impróprios, e mostrando como a digitalização de serviços essenciais — energia, bancos, internet — ampliou exponencialmente a superfície de risco penal. Bauer reconstrói a evolução histórica dos crimes digitais, da profissionalização de grupos hackers à ascensão das criptomoedas e da dark web.\n\nO autor enfrenta as lacunas normativas e os desafios de tipificar condutas em rápida transformação, discutindo atualizações legislativas, agravantes específicos e a persistência punitiva que, muitas vezes, amplia o Direito Penal em nome da segurança. Examina a proteção de crianças e adolescentes no ambiente digital, as tensões entre cuidado e hipercontrole, e a cibersegurança como política de Estado.\n\nBauer também analisa prova digital, cadeia de custódia, quebra de sigilo telemático, responsabilidade de plataformas e provedores, moderação algorítmica e os conflitos entre liberdade de expressão, anonimato e responsabilização. Discute a vigilância algorítmica, o reconhecimento facial, o big data policial e os princípios de necessidade, proporcionalidade e transparência. E projeta o futuro: inteligência artificial, internet das coisas, robótica, crimes transnacionais, cooperação internacional e os dilemas da soberania digital.\n\n*Este é um livro para quem entende que o Direito precisa evoluir na mesma velocidade da tecnologia. Para juristas, profissionais de segurança, gestores públicos, estudantes e cidadãos conscientes de que a liberdade digital é uma conquista — e não uma ameaça.* Leitura essencial para quem quer entender o futuro do crime, da lei e da própria democracia na era digital.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "CRIMINOLOGIA E TECNOLOGIA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1791828238645.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [],
+  "criado": "2026-10-12T18:06:06.104Z",
+  "atualizado": "2026-10-12T18:06:06.104Z"
+ },
+ {
   "slug": "crime-ambiental-e-ecocidio",
   "titulo": "CRIME AMBIENTAL E ECOCÍDIO",
   "subtitulo": "A DIMENSÃO JURÍDICA DA DESTRUIÇÃO PLANETÁRIA",
