@@ -193,9 +193,11 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Justiça Transicional · Memória Coletiva "
+  ],
   "criado": "2026-10-12T18:38:15.042Z",
-  "atualizado": "2026-10-12T18:38:15.042Z"
+  "atualizado": "2026-10-12T19:11:58.579Z"
  },
  {
   "slug": "justica-restaurativa-e-justica-retributiva",
