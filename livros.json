@@ -1,5 +1,27 @@
 [
  {
+  "slug": "criminologia-digital-e-nova-ordem-criminal",
+  "titulo": "CRIMINOLOGIA DIGITAL E NOVA ORDEM CRIMINAL",
+  "subtitulo": "DA DEEP WEB À IA: DESVENDANDO ESTRATÉGIAS DA NOVA ORDEM DELITIVA",
+  "sinopse": "O crime mudou. Não está mais apenas nas ruas, nos becos ou nos territórios — está nos servidores, nos algoritmos, nos criptoativos, nos deepfakes, nas redes neurais. Bem-vindo à nova ordem criminal. Em Criminologia Digital e a Nova Ordem Criminal, Jonas M. Bauer conduz o leitor por um território ainda pouco compreendido: o ciberespaço como cenário criminogênico, onde a velocidade da inovação tecnológica supera em muito a capacidade de resposta do Direito.\n\nO livro começa pelos fundamentos da criminologia digital, introduzindo o conceito de \"Socialidade Algorítmica\" e enfrentando a cifra negra digital — crimes que nunca aparecem nas estatísticas. Bauer revisita teorias clássicas e mostra como elas precisam ser adaptadas ao ambiente virtual: atividades rotineiras, aprendizagem social em fóruns da deep web, prevenção situacional digital.\n\nA obra percorre a tipologia dos cybercrimes — ciberdependentes e ciber-habilitados —, fraudes financeiras, phishing, ransomware, espionagem, ataques a cidades inteligentes e à Internet das Coisas. Mergulha no impacto da inteligência artificial na criminalidade: deepfakes, algoritmos discriminatórios, vigilância automatizada, e desenvolve a provocativa \"Criminologia dos Algoritmos\". Discute cyber-vitimologia, revitimização por vazamento de dados, direitos digitais e o direito ao esquecimento.\n\nBauer analisa a economia do crime digital, criptomoedas, \"Crime-as-a-Service\", Darknet, lavagem de dinheiro. Enfrenta o terrorismo digital, a radicalização online e a guerra híbrida. Discute vigilância estatal, panoptismo, policiamento preditivo, prova digital, cadeia de custódia, cooperação internacional e soberania digital. E encerra com governança da internet, educação digital e cooperação público-privada.\n\nEste é um livro para quem entende que o futuro do crime já começou. Para juristas, profissionais de segurança, jornalistas, pesquisadores, gestores públicos e cidadãos conscientes de que a liberdade digital depende de compreender as ameaças que a cercam. Leitura indispensável para navegar — com segurança — no século XXI.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "CRIMINOLOGIA E TECNOLOGIA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1791829447818.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [],
+  "criado": "2026-10-12T18:25:44.624Z",
+  "atualizado": "2026-10-12T18:25:44.624Z"
+ },
+ {
   "slug": "criminologia-critica-e-marxismo",
   "titulo": "CRIMINOLOGIA CRÍTICA E MARXISMO",
   "subtitulo": "CRIME, ESTADO E CONTROLE SOCIAL NA SOCIEDADE CAPITALISTA",
