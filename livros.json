@@ -435,9 +435,11 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Palavras-chave: Favelas · Segregação Urb"
+  ],
   "criado": "2026-10-12T18:08:23.365Z",
-  "atualizado": "2026-10-12T18:08:23.365Z"
+  "atualizado": "2026-10-12T19:02:38.465Z"
  },
  {
   "slug": "crime-cibernetico-e-legislacao",
