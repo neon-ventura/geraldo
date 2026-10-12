@@ -83,9 +83,11 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Criminologia · Teorias Criminológicas · "
+  ],
   "criado": "2026-10-12T18:47:49.012Z",
-  "atualizado": "2026-10-12T18:47:49.012Z"
+  "atualizado": "2026-10-12T19:16:18.405Z"
  },
  {
   "slug": "seguranca-privada-e-desigualdade",
