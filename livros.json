@@ -413,9 +413,11 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Vulnerabilidade Social · Desigualdade · "
+  ],
   "criado": "2026-10-12T18:09:56.794Z",
-  "atualizado": "2026-10-12T18:09:56.794Z"
+  "atualizado": "2026-10-12T19:03:44.433Z"
  },
  {
   "slug": "crime-e-territorio-favelas-periferias-e-guetos",
