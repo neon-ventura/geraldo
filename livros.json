@@ -105,9 +105,11 @@
   "isbn": "",
   "formato": "",
   "idioma": "pt-BR",
-  "tags": [],
+  "tags": [
+   "Segurança Privada · Desigualdade Social "
+  ],
   "criado": "2026-10-12T18:45:50.640Z",
-  "atualizado": "2026-10-12T18:45:50.640Z"
+  "atualizado": "2026-10-12T19:15:30.548Z"
  },
  {
   "slug": "prisao-ressocializacao-e-fracasso-institucional",
