@@ -1,5 +1,33 @@
 [
  {
+  "slug": "hackeando-o-habito",
+  "titulo": "HACKEANDO O HÁBITO",
+  "subtitulo": "REPROGRAME SUA MENTE E VENÇA A RESISTÊNCIA",
+  "sinopse": "Você já se prometeu que começaria a academia na segunda-feira, que leria mais ou que pararia de procrastinar, mas, na hora H, a força de vontade simplesmente desapareceu? Em \"Hackeando o Hábito\", George Scheid revela que o problema não é você, mas a forma como seu cérebro foi programado. Este livro é um manual prático e científico para assumir o controle do seu piloto automático e construir uma vida com hábitos que sustentam seus objetivos, em vez de sabotá-los.\n\nA obra desmistifica a mecânica do ciclo do hábito – gatilho, rotina e recompensa – e mostra por que a força de vontade é uma estratégia frágil. Você aprenderá a desconstruir o mito da motivação e a usar a \"Lei dos Dois Minutos Avançada\" para iniciar novas ações sem depender de um estado de espírito inspirado. Com base na neuroplasticidade, o autor ensina como a repetição consciente consolida novos caminhos neurais, e como hackear os gatilhos ambientais e emocionais que disparam comportamentos indesejados.\n\nO livro também explora a importância das recompensas e como estruturá-las de forma inteligente para solidificar hábitos saudáveis, além de oferecer um \"Mapa de Desconstrução\" para quebrar hábitos ruins de maneira realista, aceitando recaídas como parte do processo. Você descobrirá os \"4 Pilares da Permanência\" para construir hábitos duradouros e como a identidade pessoal se conecta diretamente às suas rotinas. A obra aborda ainda a ciência das rotinas matinais, a superação da fadiga de decisão, o impacto do contexto social e a neurobiologia da disciplina.\n\nSeja para vencer a procrastinação, melhorar a saúde, aumentar a produtividade ou simplesmente ter mais consistência, \"Hackeando o Hábito\" oferece um caminho acessível e baseado em evidências. Com ferramentas como o \"Raio X do Hábito Atual\", a \"Substituição de Estímulo\" e o \"Protocolo de Reinvenção Pessoal em 90 Dias\", este livro é um convite para transformar pequenas ações em mudanças duradouras. Afinal, a liberdade começa quando você deixa de ser refém dos próprios automatismos.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792224772025.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "formação de hábitos",
+   "neuroplasticidade",
+   "quebra de hábitos",
+   "força de vontade",
+   "rotina matinal"
+  ],
+  "criado": "2026-10-17T08:15:13.545Z",
+  "atualizado": "2026-10-17T08:15:13.545Z"
+ },
+ {
   "slug": "o-vies-invisivel",
   "titulo": "O VIÉS INVISÍVEL",
   "subtitulo": "COMO O SEU CÉREBRO DISTORCE A REALIDADE",
