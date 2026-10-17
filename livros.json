@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-sono-e-a-memoria",
+  "titulo": "O SONO E A MEMÓRIA",
+  "subtitulo": "DURMA 7 HORAS E LEMBRE DE TUDO - AUMENTE SUA PRODUTIVIDADE E PODER DE MEMÓRIA",
+  "sinopse": "Você já passou horas estudando para, na hora da prova, sentir que esqueceu tudo? Ou já se pegou lendo a mesma página várias vezes porque não consegue reter nada? Em \"O Sono e a Memória\", George Scheid revela um segredo que muitos ignoram: a qualidade do seu sono é o fator mais poderoso para a sua capacidade de memorizar, aprender e produzir. Este livro é um guia prático e científico para transformar suas noites e, consequentemente, sua vida diurna.\n\nA obra começa mostrando como a má qualidade do sono pode fazer você esquecer até 70% do que estudou, explicando o papel crucial do sono REM e do sono profundo na consolidação das memórias. Você descobrirá o protocolo \"zero esquecimento\" e um exercício simples de seis minutos que pode aumentar o sono profundo em até 34%. O autor aborda o impacto da luz azul dos dispositivos eletrônicos e apresenta a regra dos 90 minutos e o \"kit blackout total\" para proteger seu cérebro e aumentar a retenção de informações.\n\nO livro também explora a \"janela de ouro\" do sono, entre 22h e 2h, e oferece uma reprogramação de 21 dias para ajustar sua rotina. Você aprenderá sobre o poder dos sonhos para a resolução de problemas e a criatividade, o efeito de substâncias como cafeína, álcool e maconha no sono, e a prática do sono bifásico de gênios como Da Vinci. Técnicas de memorização, como o palácio da memória, são ensinadas, assim como estratégias para combater a ansiedade noturna e a insônia.\n\nA obra ainda discute a relação entre sono, envelhecimento e o medo de \"virar esquecido\", com um plano para manter a memória afiada aos 70 anos. Para pais e educadores, há uma reflexão sobre o sono roubado de crianças e adolescentes pela escola. Ao final, um desafio de 30 dias \"Memória de Aço\" e um plano de ação vitalício são propostos. Se você quer estudar melhor, trabalhar com mais foco ou simplesmente não esquecer onde deixou as chaves, este livro é o seu novo superpoder.",
+  "autor": "",
+  "colecao": "",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792225061607.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "qualidade do sono",
+   "consolidação da memória",
+   "produtividade",
+   "higiene do sono",
+   "aprendizado"
+  ],
+  "criado": "2026-10-17T08:19:49.047Z",
+  "atualizado": "2026-10-17T08:19:49.047Z"
+ },
+ {
   "slug": "o-cerebro-emocional",
   "titulo": "O CÉREBRO EMOCIONAL",
   "subtitulo": "A CIÊNCIA DOS SENTIMENTOS E COMO TRANSFORMÁ-LOS",
