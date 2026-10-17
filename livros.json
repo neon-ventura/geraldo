@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-neuromitologia",
+  "titulo": "A NEUROMITOLOGIA",
+  "subtitulo": "DESMASCARANDO OS MITOS POPULARES SOBRE O CÉREBRO",
+  "sinopse": "Você já ouviu dizer que usamos apenas 10% do cérebro? Ou que existem pessoas \"do lado esquerdo\" e \"do lado direito\" do cérebro? Essas e outras crenças populares estão tão arraigadas na cultura que poucos questionam sua veracidade. Em \"A Neuromitologia\", George Scheid desmascara os mitos mais difundidos sobre o cérebro, oferecendo uma análise crítica e baseada em evidências que vai transformar a maneira como você entende a mente humana.\n\nA obra começa explorando por que somos tão atraídos por explicações simplistas e como a indústria dos neuromitos se beneficia da propagação de ideias equivocadas. Você receberá um \"kit básico de ceticismo\", com cinco perguntas essenciais para avaliar qualquer afirmação sobre o cérebro. O mito dos 10% é desvendado com estudos de neuroimagem que provam que não existem áreas inativas, e a \"guerra dos hemisférios\" é desmontada, mostrando que a criatividade floresce na integração entre as redes neurais.\n\nO livro também aborda a farsa dos estilos de aprendizagem (visual, auditivo, cinestésico), defendendo a codificação múltipla como a abordagem realmente eficaz. O \"Efeito Mozart\" é desmascarado, revelando que a interação humana e as brincadeiras espontâneas são o que realmente estimula o desenvolvimento infantil. A questão de gênero é tratada com rigor, mostrando que a plasticidade e a socialização moldam o cérebro muito mais do que o sexo biológico.\n\nA obra desconstrói o modelo do cérebro triuno e a ideia da \"amígdala sequestrada\", apresentando um modelo mais integrado de regulação emocional. Você descobrirá a verdade sobre quebra-cabeças e aplicativos na prevenção do Alzheimer, sobre os \"superalimentos\" e a dieta do cérebro, e sobre a multitarefa como uma habilidade que você acha que tem, mas não tem. O mito de que \"cães velhos não aprendem truques novos\" é refutado com histórias inspiradoras de neuroplasticidade na vida adulta.\n\nAo final, um manual de instruções baseado em evidências é proposto, com os pilares para uma vida neuro saudável. Se você quer se tornar um \"curador do seu cérebro\" e navegar com senso crítico pelas informações que recebe, este livro é uma leitura indispensável.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792226398488.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "neuromitologia",
+   "mitos sobre o cérebro",
+   "ceticismo científico",
+   "neurociência",
+   "pensamento crítico"
+  ],
+  "criado": "2026-10-17T08:41:54.298Z",
+  "atualizado": "2026-10-17T08:41:54.298Z"
+ },
+ {
   "slug": "a-interface-do-sono",
   "titulo": "A INTERFACE DO SONO",
   "subtitulo": "DESVENDANDO OS MISTÉRIOS DO DESCANSO REPARADOR",
