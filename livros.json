@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-cerebro-emocional",
+  "titulo": "O CÉREBRO EMOCIONAL",
+  "subtitulo": "A CIÊNCIA DOS SENTIMENTOS E COMO TRANSFORMÁ-LOS",
+  "sinopse": "Por que sentimos o que sentimos? Por que, às vezes, uma emoção parece tomar conta de tudo, enquanto em outros momentos mal conseguimos identificá-la? Em \"O Cérebro Emocional\", George Scheid conduz o leitor por uma jornada fascinante e acessível pela neurociência das emoções, revelando como o cérebro constrói sentimentos e, mais importante, como podemos transformá-los para viver com mais equilíbrio e clareza.\n\nA obra começa desvendando o que é uma emoção, explorando a interação entre cérebro, corpo e percepções sensoriais, e mostrando como as emoções são, muitas vezes, decisões automáticas. Você aprenderá a anatomia da emoção, com foco na amígdala, na ínsula e no córtex pré-frontal, e entenderá como os circuitos emocionais se formam desde a infância. O livro aborda o medo e a ansiedade, oferecendo um protocolo para desativar a resposta de ameaça, e explora a tristeza e o luto como emoções adaptativas, com o \"Caminho da Aceitação Ativa\".\n\nA raiva é desmistificada como uma emoção protetora, e técnicas para transmutar sua energia em ação construtiva são apresentadas. Em contrapartida, a alegria e a gratidão são exploradas com base na neuroquímica da felicidade, com o \"Jornal das Microrrecompensas\". A obra também mergulha na vergonha e na culpa, oferecendo a \"Entrevista com o Crítico Interno\", e discute o afeto e o apego com um protocolo de \"Reconstrução do Apego Seguro\". O trauma é abordado com a \"Regulação Somática em 4 Etapas\", e a regulação emocional é ensinada com a \"Matriz de Regulação\".\n\nPara quem deseja desenvolver uma inteligência emocional avançada, o livro apresenta o \"Feedback Compassivo\" e, ao final, um \"Plano de Reprogramação Emocional em 30 Dias\". Seja você alguém que lida com ansiedade, busca relacionamentos mais saudáveis ou simplesmente quer entender melhor a si mesmo, \"O Cérebro Emocional\" é um guia essencial para transformar a maneira como você sente e vive.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792224925494.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "inteligência emocional",
+   "regulação emocional",
+   "neurociência das emoções",
+   "ansiedade",
+   "trauma"
+  ],
+  "criado": "2026-10-17T08:17:28.410Z",
+  "atualizado": "2026-10-17T08:17:28.410Z"
+ },
+ {
   "slug": "hackeando-o-habito",
   "titulo": "HACKEANDO O HÁBITO",
   "subtitulo": "REPROGRAME SUA MENTE E VENÇA A RESISTÊNCIA",
