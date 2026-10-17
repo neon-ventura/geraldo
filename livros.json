@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-pedagogia-do-afeto",
+  "titulo": "A PEDAGOGIA DO AFETO",
+  "subtitulo": "COLOCANDO AS EMOÇÕES NO CENTRO DA APRENDIZAGEM",
+  "sinopse": "Em um mundo onde a educação frequentemente se resume a números, notas e currículos engessados, Gerald Scheid propõe uma revolução silenciosa e transformadora: colocar o afeto no coração do processo educativo. \"A Pedagogia do Afeto\" é um convite apaixonado para repensar a sala de aula como um espaço de acolhimento, onde as emoções não são um obstáculo ao aprendizado, mas sim o seu motor mais poderoso.\n\nBaseando-se em descobertas da neurociência, Scheid demonstra como ambientes emocionalmente seguros estimulam a dopamina, hormônio ligado ao prazer e à motivação, enquanto o estresse crônico, mediado pelo cortisol, paralisa a capacidade de concentração e memória. A obra desmistifica a figura do professor \"neutro\" e impessoal, revelando que a verdadeira educação exige vínculo, empatia e presença genuína.\n\nAo longo de doze capítulos, o autor entrelaça teoria e relatos pessoais, explorando desde a arquitetura do acolhimento — como o espaço físico influencia o aprendizado — até a escuta ativa como ferramenta revolucionária. Scheid aborda ainda a gestão emocional da sala de aula, o poder das narrativas na educação das emoções, a importância do autocuidado docente para evitar o burnout e a necessidade de uma aliança afetiva entre família e escola.\n\nMais do que um manual pedagógico, este livro é um manifesto por uma educação integral, que reconhece cada aluno como um ser humano completo, cheio de histórias, anseios e emoções. É uma leitura essencial para educadores, pais e todos aqueles que acreditam que aprender pode, sim, ser um ato de amor.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792277055500.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Pedagogia do afeto",
+   "Emoções",
+   "Aprendizagem",
+   "Neurociência",
+   "Empatia"
+  ],
+  "criado": "2026-10-17T22:49:12.260Z",
+  "atualizado": "2026-10-17T22:49:12.260Z"
+ },
+ {
   "slug": "libertacao-2-0",
   "titulo": "LIBERTAÇÃO 2.0",
   "subtitulo": "USANDO PAULO FREIRE PARA DECODIFICAR A INFORMAÇÃO E RESISTIR À SOBRECARGA FATAL",
