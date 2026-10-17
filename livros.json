@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-sinestesia",
+  "titulo": "A SINESTESIA",
+  "subtitulo": "QUANDO OS SENTIDOS SE CRUZAM E REVELAM MUNDOS SECRETOS DENTRO DO CÉREBRO HUMANO",
+  "sinopse": "E se você pudesse ouvir cores, saborear palavras ou sentir a textura de uma música? Para algumas pessoas, essa não é uma fantasia, mas uma realidade cotidiana. Em \"A Sinestesia\", George Scheid convida o leitor a explorar um dos fenômenos mais fascinantes e misteriosos da mente humana: a capacidade do cérebro de cruzar os sentidos e criar experiências perceptivas extraordinárias.\n\nA obra começa apresentando o universo sinestésico, revelando como o cérebro é capaz de misturar sentidos e como essa interconexão influencia a percepção da realidade. Você conhecerá as múltiplas formas de sinestesia – cromoestesia, sinestesia gráfica, entre outras –, com histórias vívidas de pessoas que vivenciam essas experiências singulares. A neurociência da percepção cruzada é desvendada, explicando a \"hiperconectividade neural\", o papel da genética e da plasticidade cerebral.\n\nO livro explora a profunda relação entre sinestesia e criatividade, mostrando como muitos artistas e pensadores usaram essa percepção ampliada para inovar. A construção da realidade é discutida, desafiando a ideia de uma experiência objetiva e revelando como a sinestesia pode ativar memórias sensoriais e emoções de forma única. Os desafios também são abordados, como a sobrecarga sensorial, a ansiedade e a necessidade de protocolos de regulação.\n\nA sinestesia induzida é investigada, com técnicas que vão da música à meditação, e a relação entre sinestesia e imaginação é explorada, mostrando o poder do córtex parietal na criação de realidades internas. A obra também discute o impacto da tecnologia e da economia da atenção no mundo moderno, e apresenta as novas fronteiras da pesquisa, incluindo o papel da inteligência artificial. Ao final, uma reflexão filosófica sobre o que a sinestesia revela sobre a consciência e a beleza da experiência humana encerra a jornada. Se você é curioso sobre a mente, a arte ou a percepção, este livro é uma janela para mundos secretos.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792226118568.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "sinestesia",
+   "percepção sensorial",
+   "neurociência da criatividade",
+   "consciência",
+   "sentidos cruzados"
+  ],
+  "criado": "2026-10-17T08:37:14.988Z",
+  "atualizado": "2026-10-17T08:37:14.988Z"
+ },
+ {
   "slug": "a-interface-cerebro-computador",
   "titulo": "A INTERFACE CÉREBRO - COMPUTADOR",
   "subtitulo": "COMO A FUSÃO MENTE/MÁQUINA DEFINIRÁ LINGUAGEM, MEMÓRIA, PODER E HUMANIDADE",
