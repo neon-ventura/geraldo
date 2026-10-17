@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-analfabetismo-funcional",
+  "titulo": "O ANALFABETISMO FUNCIONAL",
+  "subtitulo": "O FRACASSO DA ESCOLA EM ENSINAR A PENSAR",
+  "sinopse": "O Brasil lê. Mas o Brasil pensa? Em *O Analfabetismo Funcional*, Gerald Scheid confronta um dado alarmante: 69% dos adultos brasileiros não conseguem compreender o que leem. Têm diplomas. Têm celulares. Têm acesso à informação. Mas não conseguem interpretar, refletir ou questionar. E a escola tem culpa nisso.\n\nEste livro é um diagnóstico corajoso e um manual de sobrevivência intelectual. Scheid mostra como a escola matou o pensamento crítico ao priorizar decoreba e respostas prontas, como professores são punidos por incentivar perguntas e como o ENEM premia clichês em vez de expressão autêntica. Você vai entender por que fake news começam na sala de aula, porque o currículo forma robôs e não cidadãos, e por que a dependência exclusiva do livro didático é um veneno cognitivo.\n\nMas há caminho. O autor apresenta alternativas concretas: clubes de leitura, educação midiática, um projeto prático de 30 dias para desconstruir memes e identificar desinformação, e um \"protocolo anti-bobagem\" para famílias e escolas. Defende a inclusão urgente de filosofia e sociologia na grade, uma matemática que faça sentido para a vida e a valorização dos alunos que aprendem a pensar — mesmo que sejam rotulados de \"incontroláveis\".\n\nNo capítulo final, Scheid propõe uma escolha decisiva: Brasil Pensante ou Brasil Rebanho. E oferece um plano de ação vitalício para famílias, educadores e gestores que querem erradicar o analfabetismo funcional de uma vez por todas.\n\nEscrito para pais que querem filhos críticos, professores que se recusam a formar replicadores e cidadãos que suspeitam que \"saber ler\" não é suficiente, este livro é um chamado urgente à revolução do pensamento.\n\nLer sem compreender é apenas decodificar. Leia este livro e aprenda — de verdade — a pensar.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792264147536.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "analfabetismo funcional",
+   "pensamento crítico",
+   "fake news",
+   "educação midiática",
+   "leitura crítica"
+  ],
+  "criado": "2026-10-17T19:11:15.055Z",
+  "atualizado": "2026-10-17T19:11:15.055Z"
+ },
+ {
   "slug": "o-curriculo-oculto",
   "titulo": "O CURRÍCULO OCULTO",
   "subtitulo": "O QUE A ESCOLA REALMENTE ENSINA SEM ESTAR NO PLANO",
