@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-plasticidade-neural-ao-longo-da-vida",
+  "titulo": "A PLASTICIDADE NEURAL AO LONGO DA VIDA",
+  "subtitulo": "É SEMPRE POSSÍVEL MUDAR O CÉREBRO",
+  "sinopse": "A ideia de que o cérebro adulto é fixo e imutável é um dos maiores equívocos da história da ciência. Em \"A Plasticidade Neural ao Longo da Vida\", George Scheid apresenta a revolucionária capacidade do cérebro de se remodelar, criar novas conexões e se adaptar a mudanças em qualquer idade. Este livro é um convite para descobrir que nunca é tarde para mudar e que o potencial de transformação cerebral é uma jornada para toda a vida.\n\nA obra começa desmistificando a visão determinista do cérebro, comparando-o a um jardim que pode ser cultivado e podado. Você conhecerá os mecanismos biológicos da plasticidade: a potenciação de longo prazo, a poda neural, a neurogênese no hipocampo e a mielinização. A plasticidade é explorada em diferentes fases da vida, da \"explosão de aprendizagem\" na infância à tempestade adolescente, e à importância do engajamento na maturidade e na velhice.\n\nO livro enfatiza o papel da atenção focada como combustível da mudança e apresenta o erro como o \"fertilizante\" do crescimento cerebral, com a teoria da dopamina como sinalizador de erro e a dificuldade desejável. A plasticidade é aplicada à recuperação de lesões e traumas, com exemplos de reabilitação após um AVC e terapias como o EMDR. A mudança de hábitos é abordada com o ciclo do hábito e estratégias para quebrar padrões indesejados.\n\nA obra também explora o cérebro social e como os relacionamentos remodelam nossos neurônios, o impacto do exercício físico e do BDNF, e o aprendizado de línguas e instrumentos como forma de expansão cognitiva. Os inimigos da plasticidade – estresse crônico, rotina excessiva, falta de sono e ambientes empobrecidos – são discutidos com estratégias para superá-los. Ao final, um \"Projeto de Uma Vida Plástica\" é proposto, com um check-up, objetivos de mudança e um plano de 90 dias. Se você quer assumir o controle da sua mente e transformar sua vida, este livro é o seu guia.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792226531512.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "plasticidade neural",
+   "neuroplasticidade",
+   "aprendizado ao longo da vida",
+   "mudança cerebral",
+   "desenvolvimento cognitivo"
+  ],
+  "criado": "2026-10-17T08:43:43.228Z",
+  "atualizado": "2026-10-17T08:43:43.228Z"
+ },
+ {
   "slug": "a-neuromitologia",
   "titulo": "A NEUROMITOLOGIA",
   "subtitulo": "DESMASCARANDO OS MITOS POPULARES SOBRE O CÉREBRO",
