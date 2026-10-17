@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-fabrica-do-consenso",
+  "titulo": "A FÁBRICA DO CONSENSO",
+  "subtitulo": "COMO A ESCOLA PADRONIZA O PENSAMENTO: COMO REACENDER A AUTONOMIA INTELECTUAL",
+  "sinopse": "Você já parou para pensar se a escola realmente ensina a pensar ou apenas a reproduzir? Em \"A Fábrica de Consenso\", Gerald Scheid conduz uma investigação corajosa e provocativa sobre os mecanismos invisíveis que moldam o pensamento nas instituições de ensino. O livro desmascara o mito da educação neutra, revelando como currículos padronizados, avaliações uniformes e práticas pedagógicas rígidas atuam como engrenagens de uma verdadeira linha de montagem de mentes conformadas.\n\nScheid traça uma crítica contundente à herança industrial da escola, que prioriza a obediência e a repetição em detrimento da criatividade e do questionamento. A obra explora como a linguagem pode se tornar uma prisão, limitando a expressão e o pensamento crítico dos alunos, e como a arquitetura escolar, com suas fileiras de carteiras e corredores labirínticos, reforça o controle e a vigilância.\n\nMas este não é um livro de lamentações. É um chamado à ação. O autor propõe caminhos concretos para reacender a autonomia intelectual: a criação de círculos de palavra livre, a valorização da diversidade de pensamentos, a leitura crítica da mídia e o incentivo à mentalidade dissidente. Scheid também discute o papel fundamental dos pais como coeducadores na formação de pensadores autônomos e a urgência de uma escola que celebre a individualidade em vez de suprimi-la.\n\nCom uma escrita envolvente e instigante, \"A Fábrica de Consenso\" é um convite à resistência e à transformação. É uma leitura indispensável para educadores, gestores, pais e todos que sonham com uma educação que não apenas informe, mas que liberte e emancipe.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792277374282.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "A Fábrica de Consenso",
+   "Pensamento crítico",
+   "Educação neutra",
+   "Autonomia intelectual",
+   "Transformação escolar"
+  ],
+  "criado": "2026-10-17T22:52:30.957Z",
+  "atualizado": "2026-10-17T22:52:30.957Z"
+ },
+ {
   "slug": "a-pedagogia-do-afeto",
   "titulo": "A PEDAGOGIA DO AFETO",
   "subtitulo": "COLOCANDO AS EMOÇÕES NO CENTRO DA APRENDIZAGEM",
