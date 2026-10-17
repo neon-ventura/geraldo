@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-sala-de-aula-vazia",
+  "titulo": "A SALA DE AULA VAZIA",
+  "subtitulo": "COMO EDUCAR CRIANÇAS PARA UM MUNDO QUE A ESCOLA ATUAL NÃO ENTENDE",
+  "sinopse": "As carteiras estão enfileiradas. O sinal toca. O professor fala. E os alunos — desconectados — olham para o vazio. Em *A Sala de Aula Vazia*, Gerald Scheid escancara uma verdade incômoda: 70% dos estudantes brasileiros se sentem desconectados da escola. O problema não é a falta de alunos. É a falta de sentido.\n\nEste livro é um diagnóstico corajoso e um manual de reinvenção. Scheid mostra por que o modelo prussiano, que ainda estrutura a educação atual, falha em atender as necessidades dos alunos modernos. Você vai descobrir por que o cérebro infantil não foi feito para carteiras enfileiradas, como o movimento e a interação são cruciais para a aprendizagem, e como práticas pedagógicas inovadoras — que removem carteiras e promovem o lúdico — se mostram mais eficazes que aulas expositivas.\n\nO autor confronta o \"professor palco\" com o \"professor mentor\", apresenta a sala de aula invertida e o aprendizado ativo, e mostra como os pais podem exigir essa mudança. Critica o uso errado da tecnologia — que, mal aplicada, é pior que giz — e revela inovações como IA e realidade virtual que, bem usadas, transformam o ensino. Discute o crime biológico dos horários escolares rígidos e oferece modelos de petições para pais que querem mudanças.\n\nScheid vai além: mostra por que a nota é inimiga do aprendizado e como avaliações qualitativas e feedback descritivo funcionam melhor. Critica a escola que prepara para a prova e não para a vida, e apresenta o conceito de \"currículo paralelo\" que os pais podem adotar. Analisa tendências como microescolas e homeschooling, descreve o professor do futuro — curador de experiências — e convoca os pais a se tornarem catalisadores da revolução educacional.\n\nO livro termina com um convite à ação: um desafio de 100 dias para implementar mudanças concretas e uma visão inspiradora do \"primeiro dia do novo mundo\".\n\nEscrito para pais, educadores e gestores que sentem que a escola está desconectada da realidade, esta é a obra que vai fazer você repensar tudo o que acredita sobre ensino — e agir.\n\nA escola está vazia de sentido. Leia este livro e ajude a preenchê-la com o que realmente importa: a vida.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792265022951.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "alienação escolar",
+   "neurociência infantil",
+   "aprendizagem ativa",
+   "homeschooling",
+   "futuro da educação"
+  ],
+  "criado": "2026-10-17T19:25:25.915Z",
+  "atualizado": "2026-10-17T19:25:25.915Z"
+ },
+ {
   "slug": "a-escola-dos-sonhos",
   "titulo": "A ESCOLA DOS SONHOS",
   "subtitulo": "UM MANIFESTO POR UMA EDUCAÇÃO BASEADA NA CURIOSIDADE",
