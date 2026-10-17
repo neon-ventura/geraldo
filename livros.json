@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-interface-do-sono",
+  "titulo": "A INTERFACE DO SONO",
+  "subtitulo": "DESVENDANDO OS MISTÉRIOS DO DESCANSO REPARADOR",
+  "sinopse": "Em uma sociedade que valoriza a produtividade a qualquer custo, o sono tornou-se uma vítima silenciosa. Em \"A Interface do Sono\", Rust Köhlen revela que essa dívida oculta está deixando você doente e sabotando seu sucesso. Este livro é um guia prático e tecnológico para transformar suas noites de descanso e, consequentemente, sua vida diurna, mostrando como a tecnologia pode ser uma aliada poderosa para otimizar o sono.\n\nA obra começa abordando a epidemia do cansaço crônico e os cinco pilares biológicos do sono: restauração celular, limpeza metabólica, consolidação da memória, regulação emocional e homeostase energética. Você aprenderá a identificar os \"assassinos do descanso profundo\" – luz azul, temperatura inadequada, ruídos e ansiedade antecipatória – e a combatê-los. O livro apresenta o \"laboratório pessoal\" de monitoramento, com wearables, radares não contactáveis e as métricas essenciais, como sono profundo, REM e latência.\n\nA obra explora como criar o ambiente noturno perfeito com luz inteligente, máquinas de som, termostatos e cortinas automatizadas, e discute a revolução da cama, dos colchões viscoelásticos aos travesseiros com sensores e cobertores de peso. Aplicativos e IA são apresentados como um treinador pessoal de sono 24/7, com meditação, terapia cognitivo-comportamental e despertadores inteligentes. Para os mais avançados, o biohacking do sono é desvendado, com estimulação sonora de onda lenta, neurofeedback e técnicas de recuperação para atletas.\n\nO livro também aborda o sono em fases especiais da vida – gravidez, menopausa e terceira idade – e alerta sobre a armadilha da dependência tecnológica, com o conceito de ortossonia e a paralisia pela análise. Ao final, você é convidado a construir seu protocolo noturno infalível, com um checklist de 60 minutos e adaptações ao seu cronotipo. Se você quer parar de sobreviver e começar a prosperar, este livro é o seu guia para transformar o sono na sua maior vantagem competitiva.",
+  "autor": "RUST KÖHLEN",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792226246686.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "qualidade do sono",
+   "tecnologia do sono",
+   "biohacking",
+   "higiene do sono",
+   "monitoramento do sono"
+  ],
+  "criado": "2026-10-17T08:39:47.029Z",
+  "atualizado": "2026-10-17T08:39:47.029Z"
+ },
+ {
   "slug": "a-sinestesia",
   "titulo": "A SINESTESIA",
   "subtitulo": "QUANDO OS SENTIDOS SE CRUZAM E REVELAM MUNDOS SECRETOS DENTRO DO CÉREBRO HUMANO",
