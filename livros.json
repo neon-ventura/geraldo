@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-interface-cerebro-computador",
+  "titulo": "A INTERFACE CÉREBRO - COMPUTADOR",
+  "subtitulo": "COMO A FUSÃO MENTE/MÁQUINA DEFINIRÁ LINGUAGEM, MEMÓRIA, PODER E HUMANIDADE",
+  "sinopse": "Estamos no limiar de uma nova era: a fusão entre o cérebro humano e a tecnologia. Em \"A Interface Cérebro-Computador\", Rust Köhlen apresenta uma exploração profunda e provocativa das interfaces cérebro-máquina (ICMs) e de como elas estão prestes a redefinir o que significa ser humano. Este livro não é apenas sobre tecnologia; é sobre o futuro da nossa consciência, identidade e liberdade.\n\nA obra traça a história secreta das ICMs, desde suas primeiras concepções na neurociência até os avanços que hoje permitem que o cérebro \"converse\" com a máquina. Você descobrirá como as neuropróteses estão redesenhando o corpo humano, com membros biónicos controlados por pensamentos e chips que restauram a visão e a audição, e refletirá sobre o que significa \"ser humano\" quando as capacidades biológicas são superadas pela engenharia. O livro também aborda a \"guerra pela leitura da mente\", discutindo a privacidade neural como a última fronteira da liberdade e os riscos da manipulação de pensamentos.\n\nA memória expandida é explorada, com a possibilidade de armazenar, editar e até falsificar lembranças, e a IA é apresentada como uma extensão cognitiva. A comunicação telepática tecnológica, que dispensa palavras, e o \"cérebro híbrido\", metade humano e metade algoritmo, são discutidos com suas implicações para a autonomia e a dependência cognitiva. O livro também investiga a superhumanização do desempenho, os chips cerebrais no tratamento da saúde mental e a transformação do mundo corporativo.\n\nPara o futuro, a obra propõe um manifesto sobre os \"neurodireitos\" e a liberdade mental, estabelecendo a necessidade de proteções legais para a identidade em um mundo onde a mente pode ser manipulada externamente. O horizonte transumano é projetado com uma reflexão profunda sobre o que significa ser humano na era da tecnologia. Se você se interessa pelo futuro da humanidade, pela ética da tecnologia ou simplesmente quer entender as forças que moldarão a próxima década, este livro é uma leitura essencial.",
+  "autor": "RUST KÖHLEN",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792225891001.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "interface cérebro-computador",
+   "neurotecnologia",
+   "transumanismo",
+   "neurodireitos",
+   "futuro da humanidade"
+  ],
+  "criado": "2026-10-17T08:35:07.100Z",
+  "atualizado": "2026-10-17T08:35:07.100Z"
+ },
+ {
   "slug": "o-que-o-cerebro-decide-antes-de-voce",
   "titulo": "O QUE O CÉREBRO DECIDE ANTES DE VOCÊ",
   "subtitulo": "COMO RECUPERAR O CONTROLE DO PRÓPRIO DESTINO",
