@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-escola-dos-sonhos",
+  "titulo": "A ESCOLA DOS SONHOS",
+  "subtitulo": "UM MANIFESTO POR UMA EDUCAÇÃO BASEADA NA CURIOSIDADE",
+  "sinopse": "E se a escola não matasse a curiosidade — mas a alimentasse? E se aprender fosse, de novo, a coisa mais fascinante do mundo? Em *A Escola dos Sonhos*, Gerald Scheid apresenta um manifesto apaixonado por uma educação baseada na curiosidade — e mostra que ela não é utopia. É possibilidade.\n\nEste livro começa com um diagnóstico honesto: a curiosidade está em declínio. A padronização sufocou a cultura da pergunta, a economia da atenção roubou o foco dos alunos e a neurociência explica o que acontece no cérebro quando a curiosidade é desmotivada. Scheid apresenta o \"Inventário de Engajamento\" como ferramenta prática para professores e pais medirem o fascínio em aulas e lares.\n\nMas o coração do livro é a reinvenção. Você vai descobrir a ciência da pergunta, o \"Efeito Tesler\" e o protocolo \"3 Perguntas Antes de Responder\". Vai aprender a redesenhar o currículo para o estado de \"flow\", com módulos interligados, o poder do inacabado e o modelo 70/20/10. Vai entender o educador como \"guia de exploração\", com feedback preditivo, escuta radical e o ambiente como \"terceiro professor\".\n\nScheid defende o aprendizado pela criação, o Ciclo Maker, a cultura do erro como parte da descoberta. Critica o \"estudo para a prova\" e apresenta o portfólio de evidências, a revisão espaçada e as pausas estratégicas. Discute a tecnologia a serviço da curiosidade — inteligência artificial como co-piloto, realidade virtual, gamificação ética e um \"filtro de ruído digital\". E mostra como escola e família podem cultivar, juntas, uma mentalidade investigativa, com rituais como o \"jantar da dúvida\".\n\nVocê vai entender também a relação entre curiosidade e bem-estar mental, a redução da ansiedade e os \"intervalos de inquietação\" que fazem a mente vagar e gerar ideias. O livro termina com um manifesto pela educação do século XXI e três compromissos práticos para transformar a escola em um espaço de ação, inspiração e liberdade.\n\nEscrito para educadores, pais e estudantes que ainda acreditam que aprender pode ser mágico, este é o livro que vai reacender a chama da curiosidade — em você e em quem você educa.\n\nA curiosidade é a habilidade mais importante do século XXI. Leia este livro e ajude a devolvê-la a quem mais precisa: às crianças.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792264923056.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "curiosidade",
+   "neurociência da aprendizagem",
+   "estado de flow",
+   "aprendizagem ativa",
+   "educação do futuro"
+  ],
+  "criado": "2026-10-17T19:23:24.934Z",
+  "atualizado": "2026-10-17T19:23:24.934Z"
+ },
+ {
   "slug": "a-descolonizacao-do-curriculo",
   "titulo": "A DESCOLONIZAÇÃO DO CURRÍCULO",
   "subtitulo": "PARA UMA EDUCAÇÃO PLURAL E INCLUSIVA",
