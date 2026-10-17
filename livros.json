@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-ilusao-da-multitarefa",
+  "titulo": "A ILUSÃO DA MULTITAREFA",
+  "subtitulo": "FAÇA UMA COISA SÓ E GANHE O TRIPLO- O SEGREDO DA PRODUTIVIDADE",
+  "sinopse": "Você se orgulha de conseguir responder mensagens, assistir a uma palestra e almoçar ao mesmo tempo? A ciência tem uma notícia urgente para você: a multitarefa é o novo fumar. Em \"A Ilusão da Multitarefa\", George Scheid desmonta o mito da produtividade multitarefa e revela por que essa prática está, na verdade, destruindo sua capacidade de concentração, aumentando seus erros e reduzindo drasticamente sua eficiência. Este livro é um convite para abandonar a fragmentação da atenção e descobrir o poder transformador de fazer uma coisa de cada vez.\n\nA obra começa com dados alarmantes: a alternância entre tarefas está diretamente ligada à redução do QI e ao aumento do estresse. Scheid explica a neurociência por trás da atenção e mostra que o cérebro humano foi biologicamente projetado para focar em uma única tarefa. Você aprenderá a desenvolver o \"Foco Laser\" de cinco minutos e a adotar o *deep work* (trabalho profundo) como um superpoder que vale milhões, com um guia passo a passo para alcançar quatro horas diárias de concentração extrema.\n\nO livro também ataca os ladrões de foco do século 21: a caixa de entrada infinita de e-mails, com a regra 3-1-0; as reuniões inúteis, com estratégias para transformá-las em blocos de trabalho focado; e o celular, com o \"Modo Monge Digital\" e um protocolo de desintoxicação. A monotarefa é aplicada também aos relacionamentos, com exercícios de escuta profunda, e ao gerenciamento de tempo, com a técnica de *time blocking* impiedoso, usada pelos ultraprodutivos. A obra aborda ainda a gestão de energia (não apenas de tempo), o medo do tédio como aliado da criatividade e as técnicas de guerrilha para manter o foco no caos do dia a dia brasileiro.\n\nSeja você um profissional sobrecarregado, um estudante que não consegue se concentrar ou alguém que sente que o dia passa sem que nada de importante seja feito, \"A Ilusão da Multitarefa\" oferece um caminho prático e baseado em evidências para recuperar o controle da sua atenção. Com um desafio de 30 dias e um convite a adotar a monotarefa como uma nova identidade, este livro é o antídoto para a era da distração.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792225324842.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "monotarefa",
+   "produtividade",
+   "foco profundo",
+   "deep work",
+   "gestão do tempo"
+  ],
+  "criado": "2026-10-17T08:24:31.294Z",
+  "atualizado": "2026-10-17T08:24:31.294Z"
+ },
+ {
   "slug": "o-cerebro-executivo",
   "titulo": "O CÉREBRO EXECUTIVO",
   "subtitulo": "ACABE COM A PROCRASTINAÇÃO, INDECISÃO E FALTA DE DISCIPLINA COM A NEUROCIÊNCIA",
