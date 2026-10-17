@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-ditadura-do-merito",
+  "titulo": "A DITADURA DO MÉRITO",
+  "subtitulo": "UMA CRÍTICA AO MITO DA MERITOCRACIA NA EDUCAÇÃO",
+  "sinopse": "\"Estude que você chega lá.\" Quantas vezes você ouviu essa frase? E quantas vezes ela foi uma mentira? Em *A Ditadura do Mérito*, Gerald Scheid desmonta, com dados, histórias e coragem, o maior mito da educação brasileira: a ideia de que o sucesso depende apenas de esforço individual.\n\nA verdade é mais cruel — e mais libertadora. Neste livro, você vai descobrir por que o jogo é viciado desde o berço, como a renda familiar determina o desempenho escolar, e por que a comparação entre cursinhos de elite e escolas públicas revela um abismo social que nenhuma frase motivacional é capaz de transpor. Scheid analisa a ansiedade fabricada em série, o mito do \"esforço infinito\" e a cultura que premia o robô, não o humano.\n\nMas este não é apenas um livro sobre injustiça. É um livro sobre saúde mental, sobre famílias que adoeceram perseguindo troféus e sobre crianças transformadas em extensões das ambições dos pais. Você vai entender o perigo do \"filho-troféu\", a chantagem emocional disfarçada de amor e o colapso de um modelo que já está ruindo no mercado de trabalho — onde habilidades práticas começam a valer mais que diplomas.\n\nE há alternativa. Scheid apresenta modelos internacionais bem-sucedidos (Finlândia, Singapura), alternativas como homeschooling, microescolas e unschooling, e um plano passo a passo para famílias que querem sair da corrida de ratos. O livro termina com o Desafio 90 Dias: Educação Sem Mérito — um convite prático para viver uma nova era educativa.\n\nEscrito para pais exaustos, alunos ansiosos e educadores que se recusam a reproduzir a lógica da exclusão, esta é a obra que vai fazer você repensar tudo o que acreditou sobre mérito, esforço e sucesso.\n\nPare de correr uma corrida que foi viciada antes de você nascer. Leia este livro e descubra o que realmente define o futuro dos seus filhos.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792263921193.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "meritocracia",
+   "desigualdade educacional",
+   "ansiedade",
+   "filho-troféu",
+   "educação alternativa"
+  ],
+  "criado": "2026-10-17T19:06:47.451Z",
+  "atualizado": "2026-10-17T19:06:47.451Z"
+ },
+ {
   "slug": "a-desobediencia-epistemica",
   "titulo": "A DESOBEDIÊNCIA EPISTÊMICA",
   "subtitulo": "A RECUSA EM APRENDER O QUE O PODER ENSINA",
