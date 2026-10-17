@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-vies-invisivel",
+  "titulo": "O VIÉS INVISÍVEL",
+  "subtitulo": "COMO O SEU CÉREBRO DISTORCE A REALIDADE",
+  "sinopse": "Você já teve a certeza de que estava certo sobre algo, para depois descobrir que foi vítima de uma armadilha da própria mente? Em \"O Viés Invisível\", George Scheid revela que nosso cérebro, embora brilhante, é uma máquina de atalhos que, para nos proteger, distorce a realidade. Este livro é um guia essencial para reconhecer e neutralizar os vieses cognitivos que influenciam silenciosamente suas decisões.\n\nA obra apresenta a arquitetura oculta da mente, mostrando como a evolução nos programou para priorizar a rapidez em detrimento da precisão. Você aprenderá a identificar o Viés de Confirmação, que cria bolhas cognitivas e limita nossa visão de mundo, e a Ancoragem, que faz com que o primeiro número ou informação influencie decisões subsequentes. O Viés de Disponibilidade é explorado para mostrar como supervalorizamos eventos memoráveis, gerando medos desproporcionais.\n\nO livro também aborda o Viés do Status Quo, que nos mantém na inércia, e o Viés do Otimismo, que pode sabotar planejamentos. Você entenderá como o Viés de Atribuição nos leva a julgar os outros de forma injusta e como o Viés de Representatividade alimenta estereótipos e preconceitos. O Viés da Escassez é desmascarado, revelando como a sensação de falta pode ser manipulada para nos fazer agir por impulso. A obra ainda discute o Hindsight Bias (a ilusão do \"eu já sabia\") e o Efeito Dunning-Kruger, que nos faz superestimar nossas habilidades.\n\nMais do que apontar falhas, \"O Viés Invisível\" oferece um arsenal de ferramentas práticas: o Diário da Percepção Distorcida, o Método 3 Confrontos Mentais, o Mapa Probabilístico Pessoal, a Reversão de Narrativa e o Protocolo de Avaliação Cega. O capítulo final integra todos os conceitos em um plano de 30 dias para uma verdadeira \"Desintoxicação Cognitiva\", transformando vieses em virtudes estratégicas por meio do Método VAC (Vigilância, Autonomia e Consciência).\n\nPara quem deseja tomar decisões mais justas, relacionamentos mais saudáveis e uma compreensão mais clara do mundo, este livro é uma leitura transformadora. Afinal, a verdadeira clareza começa quando reconhecemos as lentes invisíveis através das quais enxergamos.",
+  "autor": "GEORGE SCHEID",
+  "colecao": "NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792224656678.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "vieses cognitivos",
+   "clareza mental",
+   "tomada de decisão",
+   "psicologia cognitiva",
+   "desintoxicação cognitiva"
+  ],
+  "criado": "2026-10-17T08:12:40.880Z",
+  "atualizado": "2026-10-17T08:12:40.880Z"
+ },
+ {
   "slug": "memoria-de-trabalho",
   "titulo": "MEMÓRIA DE TRABALHO",
   "subtitulo": "FORTALEÇA SUA MEMÓRIA OPERACIONAL E DECISÓRIA",
