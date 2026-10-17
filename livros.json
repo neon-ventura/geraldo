@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-apartheid-educacional-no-brasil",
+  "titulo": "O APARTHEID EDUCACIONAL NO BRASIL",
+  "subtitulo": "A ESCOLA QUE SEPARA RICOS DE POBRES, DESDE OS 4 ANOS DE IDADE",
+  "sinopse": "O Brasil é um país de contrastes, e poucos lugares refletem tão brutalmente suas desigualdades quanto o sistema educacional. Em \"O Apartheid Educacional no Brasil\", Gerald Scheid expõe com coragem e sensibilidade a realidade de duas escolas paralelas que coexistem no mesmo território: uma para os ricos, outra para os pobres. Desde os quatro anos de idade, o destino de milhões de crianças é traçado não pelo seu potencial, mas pelo CEP de suas casas e pela cor de sua pele.\n\nCom uma narrativa que mistura dados alarmantes e histórias reais de estudantes como Clara, Lucas, Amanda e Gabriel, o autor revela como a localização geográfica das escolas, o investimento financeiro e o racismo estrutural criam um abismo intransponível entre alunos da rede pública e privada. A obra desmonta a farsa da \"escola para todos\" e questiona a meritocracia que culpa o indivíduo por um fracasso construído socialmente.\n\nScheid também celebra as resistências: as hortas escolares nas periferias, as bibliotecas comunitárias, os jovens que criam aplicativos para ajudar colegas e as escolas que ousaram dessegregar. Ele aponta caminhos possíveis, como a educação integral de tempo integral, a valorização dos professores e a mobilização comunitária, além de traçar um horizonte de esperança: o fim do apartheid educacional até 2035.\n\nEste é um livro urgente e necessário, um grito por equidade que convida cada leitor a se tornar um agente de transformação. Afinal, como o próprio autor afirma, a educação é um milagre que pode e deve ser acessível a todos.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792277574454.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Desigualdade educacional",
+   "Racismo estrutural",
+   "Meritocracia",
+   "Equidade",
+   "Rede pública"
+  ],
+  "criado": "2026-10-17T22:55:51.337Z",
+  "atualizado": "2026-10-17T22:55:51.337Z"
+ },
+ {
   "slug": "a-fabrica-do-consenso",
   "titulo": "A FÁBRICA DO CONSENSO",
   "subtitulo": "COMO A ESCOLA PADRONIZA O PENSAMENTO: COMO REACENDER A AUTONOMIA INTELECTUAL",
