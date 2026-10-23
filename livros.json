@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-psicologia-das-fake-news",
+  "titulo": "A PSICOLOGIA DAS FAKE NEWS",
+  "subtitulo": "COMO BLINDAR SUA MENTE CONTRA A ENGENHARIA DO ENGANO",
+  "sinopse": "Você consegue distinguir o que é real do que é engenhosamente falso? Proteja sua mente contra a engenharia do engano.\n\nEm \"A Psicologia das Fake News\", Jonas M. Bauer entrega um escudo cognitivo para os tempos modernos. Este livro não é apenas sobre notícias falsas; é uma investigação profunda sobre como nossa biologia e o design das plataformas digitais nos tornam vulneráveis à desinformação.\n\nO autor revela a economia da atenção e como o design persuasivo, o FOMO (medo de ficar de fora) e a viralidade da negatividade nos mantêm presos em um ciclo de exaustão mental. Você entenderá a neurobiologia da crença, como a dopamina e o \"efeito de fluência ilusória\" nos levam a aceitar repetições como verdades.\n\nMergulhe na arquitetura oculta dos algoritmos e das bolhas de filtro, que aprisionam os usuários em câmaras de eco, amplificando o extremismo. Bauer explora a indústria da dúvida, a fadiga do ceticismo e a ética da partilha, oferecendo ferramentas práticas como a Verificação Tripla Antes de Postar e a Matriz de Decisão.\n\nVocê aprenderá a desconstruir narrativas com a Navalha de Occam, a hackear sua neuroplasticidade para cultivar a dúvida saudável e a se preparar para o \"futuro sombrio\" das *deepfakes* com o Framework Confiança Zero.\n\nEste é um manifesto pela clareza. Um chamado à ação para você se tornar um agente de mudança, criar zonas de diálogo seguro e construir os cinco pilares da antifragilidade para resistir à desinformação.\n\nBlinde sua mente, recupere sua capacidade de discernir a verdade e ajude a construir uma sociedade mais clara e resiliente.\n Adquira seu exemplar agora.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "PSICOLOGIA DA MULTIDÃO- COMPORTAMENTO COLETIVO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792763958338.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "fake news",
+   "desinformação",
+   "pensamento crítico",
+   "algoritmos",
+   "neurociência"
+  ],
+  "criado": "2026-10-23T14:01:23.056Z",
+  "atualizado": "2026-10-23T14:01:23.056Z"
+ },
+ {
   "slug": "a-psicologia-da-obediencia",
   "titulo": "A PSICOLOGIA DA OBEDIÊNCIA",
   "subtitulo": "RECUPERE A AUTONOMIA NUM MUNDO QUE RECOMPENSA QUEM COSTUMA OBEDECER",
