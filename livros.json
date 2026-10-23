@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-opiniao-publica",
+  "titulo": "A OPINIÃO PÚBLICA",
+  "subtitulo": "A ENGENHARIA DA PERSUASÃO E A CONSTRUÇÃO DO CONSENSO NA ERA DOS ALGORITMOS",
+  "sinopse": "Você realmente escolhe o que pensa ou suas opiniões são o resultado de uma engenharia invisível de persuasão?\n\nEm \"A Opinião Pública\", Jonas M. Bauer desmantela o mito da espontaneidade do pensamento coletivo. Ele revela, com um olhar crítico e revelador, as forças invisíveis que moldam nossas crenças, desde o princípio da repetição até os *gatekeepers* que controlam o que entra na pauta do debate público.\n\nAdentrando na era algorítmica, o autor expõe como as plataformas digitais personalizam nossa realidade, criando bolhas cognitivas e utilizando *nudges* invisíveis para controlar comportamentos e decisões. Você descobrirá como as emoções — medo, indignação e urgência — são usadas como armas poderosas para viralizar conteúdo e manter ciclos de dependência digital.\n\nBauer desvenda a \"máquina de narrativas\" do *storytelling* político e a \"ilusão de maioria\" criada por minorias barulhentas, que nos leva à espiral do silêncio. Ele analisa a dinâmica da polarização, o poder dos influenciadores carismáticos e os meandros da indústria da desinformação, mostrando como mentiras são projetadas para viralizar.\n\nNo entanto, este não é um livro para deprimir, mas para libertar. O autor oferece ferramentas práticas para resgatar a autonomia psicológica, como o Plano de Lucidez, um programa de 30 dias para fortalecer a autonomia intelectual e a participação em uma esfera pública mais madura.\n\nPrepare-se para uma leitura transformadora que mudará a forma como você consome informação e se relaciona com o espaço social. \"A Opinião Pública\" é a chave para recuperar a soberania do seu pensamento em um mundo repleto de opiniões mercantis.\n\nNão seja uma marionete da manipulação. Assuma o controle da sua mente e adquira seu exemplar.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "PSICOLOGIA DA MULTIDÃO- COMPORTAMENTO COLETIVO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792763482495.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "opinião pública",
+   "manipulação midiática",
+   "algoritmos",
+   "polarização",
+   "pensamento crítico"
+  ],
+  "criado": "2026-10-23T13:54:16.359Z",
+  "atualizado": "2026-10-23T13:54:16.359Z"
+ },
+ {
   "slug": "a-mente-da-multidao-inteligente",
   "titulo": "A MENTE DA MULTIDÃO INTELIGENTE",
   "subtitulo": "O PODER DA COLABORAÇÃO EM MASSA PARA SOLUÇÃO DE PROBLEMAS COMPLEXOS",
