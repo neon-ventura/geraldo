@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-psicologia-das-massas",
+  "titulo": "A PSICOLOGIA DAS MASSAS",
+  "subtitulo": "O INDIVÍDUO VERSUS O COLETIVO",
+  "sinopse": "Quem é você quando está no meio da multidão? Descubra como o coletivo pode sequestrar a sua mente individual.\n\nEm \"A Psicologia das Massas\", Jonas M. Bauer explora a fascinante e perigosa tensão entre o indivíduo e o coletivo. Este livro é uma investigação profunda sobre o desaparecimento da mente individual na multidão, um processo que fragmenta a autoconsciência e nos torna presas fáceis do contágio emocional e da conformidade.\n\nO autor desvenda a programação evolutiva que nos faz buscar o pertencimento, mostrando como a rejeição ativa as mesmas áreas cerebrais que a dor física. Você entenderá a engenharia social por trás de rituais, símbolos e slogans que criam coesão, e como a \"economia da ansiedade\" é usada por líderes para manipular a opinião pública.\n\nBauer analisa o ciclo vicioso da indignação e da raiva coletiva nas redes sociais, impulsionado por algoritmos, e os perigos do *groupthink* e da desindividualização. Ele investiga a neuropsicologia do líder carismático, revelando por que cérebros sobrecarregados pela complexidade moderna tendem a depender dessas figuras.\n\nMas este livro é, acima de tudo, um guia para a sobrevivência do indivíduo no século XXI. O autor apresenta um Framework de Autonomia Cognitiva, com técnicas de contenção emocional, análise simbólica e coragem para discordar. Você aprenderá a arte de pensar devagar no caos informacional e a lidar com a hiperconexão digital que cria \"massas de um só\".\n\nNão se perca na multidão. Preserve sua individualidade, cultive sua autoliderança e recupere a soberania da sua mente. Este é um projeto existencial indispensável para os tempos de hoje. Garanta o seu exemplar.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "PSICOLOGIA DA MULTIDÃO- COMPORTAMENTO COLETIVO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792764148436.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "psicologia das massas",
+   "conformidade",
+   "individualidade",
+   "groupthink",
+   "contágio emocional"
+  ],
+  "criado": "2026-10-23T14:04:12.668Z",
+  "atualizado": "2026-10-23T14:04:12.668Z"
+ },
+ {
   "slug": "a-psicologia-das-fake-news",
   "titulo": "A PSICOLOGIA DAS FAKE NEWS",
   "subtitulo": "COMO BLINDAR SUA MENTE CONTRA A ENGENHARIA DO ENGANO",
