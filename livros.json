@@ -1,5 +1,33 @@
 [
  {
+  "slug": "manadas-digitais",
+  "titulo": "MANADAS DIGITAIS",
+  "subtitulo": "O EFEITO SOCIAL DAS BOLHAS DIGITAIS E O CONDICIONAMENTO DE VALIDAÇÃO",
+  "sinopse": "Você é o que posta ou o que os algoritmos decidem que você deve ser? Descubra como as bolhas digitais condicionam sua validação e sua identidade.\n\nEm \"Manadas Digitais\", Jonas M. Bauer traça uma linha do tempo da evolução das multidões, da praça pública ao feed infinito. Ele revela como o cérebro humano, adaptado à escassez, colapsa diante do fluxo incessante de informações, abrindo caminho para comportamentos de manada nas redes sociais.\n\nO autor desvenda a Economia da Atenção e o sequestro da mente pelas plataformas digitais, que exploram a biologia humana através da dopamina. Você aprenderá como a viralização é um fenômeno emocional — medo, indignação e pertencimento são os gatilhos — e como o teatro da indignação e o cancelamento se tornaram novas formas de coerção social.\n\nBauer investiga as bolhas cognitivas que criam realidades paralelas e empobrecem o pensamento crítico, além do poder dos influenciadores e da neurociência da imitação. Ele analisa a psicologia dos likes e a externalização da autoestima, mostrando como a validação digital contribui para a ansiedade e o vazio emocional.\n\nEm um mundo de panóptico digital e vigilância invisível, o autor oferece práticas de autoproteção informacional e protocolos de regulação emocional para lidar com a ansiedade coletiva e as multidões tóxicas. \nO livro culmina com a Higiene Mental e Dieta Cognitiva, ferramentas essenciais para recuperar a autonomia psíquica.\n\nO futuro das manadas digitais já está sendo moldado pela inteligência artificial e pela hiperpersonalização. Prepare-se para os desafios que virão e mantenha sua sanidade e liberdade interior. Adquira seu exemplar.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "PSICOLOGIA DA MULTIDÃO- COMPORTAMENTO COLETIVO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792764855908.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Palavras-chave: bolhas digitais",
+   "validação",
+   "redes sociais",
+   "ansiedade digital",
+   "comportamento de manada"
+  ],
+  "criado": "2026-10-23T14:18:03.515Z",
+  "atualizado": "2026-10-23T14:18:03.515Z"
+ },
+ {
   "slug": "a-viralidade-das-ideias",
   "titulo": "A VIRALIDADE DAS IDEIAS",
   "subtitulo": "PORQUE PENSAMENTOS SE ESPALHAM COMO PANDEMIAS MENTAIS",
