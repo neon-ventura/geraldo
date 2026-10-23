@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-psicologia-da-obediencia",
+  "titulo": "A PSICOLOGIA DA OBEDIÊNCIA",
+  "subtitulo": "RECUPERE A AUTONOMIA NUM MUNDO QUE RECOMPENSA QUEM COSTUMA OBEDECER",
+  "sinopse": "Até que ponto você vai para se encaixar? O que o faz dizer \"sim\" quando deveria dizer \"não\"?\n\nEm \"A Psicologia da Obediência\", Jonas M. Bauer convida você a uma jornada profunda e, por vezes, perturbadora, sobre a anatomia da submissão. Partindo do famoso experimento de Stanley Milgram, o autor revela como pessoas comuns podem obedecer a ordens que ferem a ética e a moral, entrando no \"estado de agente\".\n\nEste livro explora o mal-estar da conformidade, a transferência de responsabilidade e o paradoxo da liberdade, onde abrimos mão da nossa vontade para fugir da angústia decisória. Você aprenderá como símbolos e gatilhos de autoridade — de fardas a interfaces de software — influenciam nossa obediência cega.\n\nBauer mergulha na neurociência da dissidência, mostrando como o medo da exclusão pode suprimir a empatia e o julgamento moral. Ele analisa como os algoritmos se tornaram as novas figuras de autoridade na era digital e como a burocratização da violência desconecta quem decide de quem executa, facilitando a obediência a ordens desumanas.\n\n\"A Psicologia da Obediência\" é um alerta sobre o poder do silêncio coletivo e o sequestro da identidade em cultos e fanatismos. Mas, acima de tudo, é um manual de libertação. O autor apresenta a Desobediência Ética como uma prática essencial para a saúde mental e a autonomia pessoal, introduzindo o conceito de \"ordem invertida\" como ferramenta para estimular uma avaliação crítica de comandos.\n\nRecupere a autonomia num mundo que recompensa quem costuma obedecer. Este é um convite para reavaliar sua relação com a autoridade e o papel que você desempenha na sociedade. Adquira seu livro e comece a exercer a maestria da escolha.",
+  "autor": "JONAS M. BAUER",
+  "colecao": "PSICOLOGIA DA MULTIDÃO- COMPORTAMENTO COLETIVO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792763754395.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "obediência",
+   "autonomia",
+   "experimento de Milgram",
+   "conformidade",
+   "desobediência ética"
+  ],
+  "criado": "2026-10-23T13:58:59.738Z",
+  "atualizado": "2026-10-23T13:58:59.738Z"
+ },
+ {
   "slug": "a-opiniao-publica",
   "titulo": "A OPINIÃO PÚBLICA",
   "subtitulo": "A ENGENHARIA DA PERSUASÃO E A CONSTRUÇÃO DO CONSENSO NA ERA DOS ALGORITMOS",
