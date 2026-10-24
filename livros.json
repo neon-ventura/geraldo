@@ -1,5 +1,33 @@
 [
  {
+  "slug": "leitura-multiconceitual",
+  "titulo": "LEITURA MULTICONCEITUAL",
+  "subtitulo": "EXTRAIA MÚLTIPLOS SIGNIFICADOS DE CADA TEXTO QUE VOCÊ LÊ",
+  "sinopse": "A maioria das pessoas lê um livro de cada vez, de forma linear, como se cada obra fosse uma ilha isolada. Mas e se você pudesse ler vários livros simultaneamente, conectando ideias de áreas completamente diferentes e criando uma rede de conhecimento única? \"Leitura Multiconceitual\" é o guia revolucionário para quem deseja transcender a leitura tradicional e se tornar um pensador conectivo. Neste livro, você aprenderá a ler múltiplos autores em paralelo, a identificar temas transversais entre diferentes disciplinas e a construir pontes conceituais que revelam insights inesperados. A obra ensina como criar um \"mapa de leitura\" que integra literatura, filosofia, ciência e arte, como fazer anotações cruzadas e como usar a técnica da \"polinização de ideias\" para gerar originalidade. Você descobrirá como grandes intelectuais da história liam de forma Multiconceitual e como aplicar esse método à sua própria jornada. Se você quer parar de acumular informações fragmentadas e começar a pensar de forma integrada, este livro é o seu novo paradigma. A leitura do futuro é Multiconceitual.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792864168645.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Leitura Multiconceitual",
+   "conexões conceituais",
+   "pensamento integrado",
+   "leitura paralela",
+   "rede de conhecimento"
+  ],
+  "criado": "2026-10-24T17:51:57.777Z",
+  "atualizado": "2026-10-24T17:51:57.777Z"
+ },
+ {
   "slug": "leitura-estrategica-de-livros-complexos",
   "titulo": "LEITURA ESTRATÉGICA DE LIVROS COMPLEXOS",
   "subtitulo": "DOMINE OBRAS DENSAS SEM SOFRIMENTO E COM MÉTODO CLARO",
