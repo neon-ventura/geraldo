@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-leitor-profissional",
+  "titulo": "O LEITOR PROFISSIONAL",
+  "subtitulo": "LEIA COM TÉCNICA E TRANSFORME INFORMAÇÃO EM VANTAGEM",
+  "sinopse": "Existe uma diferença abissal entre o leitor amador e o leitor profissional. O amador lê por prazer ou obrigação; o profissional lê com propósito, método e estratégia. \"O Leitor Profissional\" é o guia definitivo para transformar sua leitura em uma ferramenta de poder intelectual e vantagem competitiva. Neste livro, você aprenderá a definir objetivos claros para cada leitura, a selecionar obras que realmente agregam valor ao seu repertório, a extrair o máximo de cada página e a sistematizar o conhecimento adquirido para consulta futura. A obra ensina técnicas de leitura ativa, como fazer anotações que funcionam, como construir resenhas analíticas e como criar um banco de ideias organizado. Você descobrirá como ler de forma mais rápida sem perder profundidade, como lidar com diferentes gêneros textuais e como integrar a leitura à sua rotina profissional de forma sustentável. Se você é um estudante, pesquisador, executivo ou autodidata, este livro é o seu passaporte para o próximo nível. Pare de ler por ler e comece a ler para transformar. A leitura profissional é o superpoder dos intelectuais de elite.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865591737.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Leitura profissional",
+   "leitura ativa",
+   "método de leitura",
+   "extração de conhecimento",
+   "resenha analítica"
+  ],
+  "criado": "2026-10-24T18:14:50.721Z",
+  "atualizado": "2026-10-24T18:14:50.721Z"
+ },
+ {
   "slug": "o-cerebro-produtivo",
   "titulo": "O CÉREBRO PRODUTIVO",
   "subtitulo": "PRODUZA MAIS COM MÉTODO, FOCO E CLAREZA MENTAL",
