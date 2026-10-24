@@ -1,5 +1,33 @@
 [
  {
+  "slug": "aprendizagem-multidisciplinar",
+  "titulo": "APRENDIZAGEM MULTIDISCIPLINAR",
+  "subtitulo": "CRUZE ÁREAS DO SABER E PENSE COMO O MUNDO REAL FUNCIONA",
+  "sinopse": "Os problemas mais complexos do mundo não podem ser resolvidos por uma única disciplina. A inovação surge nas interseções entre áreas do conhecimento, e os profissionais mais valorizados são aqueles capazes de conectar saberes aparentemente distantes. \"Aprendizagem Multidisciplinar\" é o guia prático para quem deseja romper as barreiras da especialização e se tornar um pensador conectivo. Neste livro, você aprenderá a construir pontes entre a filosofia e a tecnologia, entre a arte e a biologia, entre a história e a economia. Descubra como usar a técnica de \"polinização cruzada de ideias\", como desenvolver a flexibilidade cognitiva e como criar projetos de estudo que integrem múltiplas áreas. A obra apresenta exemplos de grandes gênios da história que dominaram a arte da multidisciplinaridade e mostra como aplicar esses princípios nos dias de hoje. Se você deseja ser um solucionador de problemas criativo e um inovador no seu campo, este livro é o seu mapa. A era dos silos acabou; a era das conexões começou.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792862010520.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "multidisciplinaridade",
+   "pensamento conectivo",
+   "inovação",
+   "flexibilidade cognitiva",
+   "polinização de ideias"
+  ],
+  "criado": "2026-10-24T17:16:02.884Z",
+  "atualizado": "2026-10-24T17:16:02.884Z"
+ },
+ {
   "slug": "aprender-a-aprender",
   "titulo": "APRENDER A APRENDER",
   "subtitulo": "DOMINE A HABILIDADE MAIS VALIOSA DO SÉCULO XXI",
