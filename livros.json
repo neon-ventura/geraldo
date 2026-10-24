@@ -1,5 +1,33 @@
 [
  {
+  "slug": "memorizacao-de-numeros-sem-esforco",
+  "titulo": "MEMORIZAÇÃO DE NÚMEROS SEM ESFORÇO",
+  "subtitulo": "TRANSFORME DATAS, FÓRMULAS E CÓDIGOS EM HISTÓRIAS MEMORÁVEIS",
+  "sinopse": "Números sempre foram um desafio para você? Sente dificuldade em lembrar datas, senhas, fórmulas ou sequências numéricas importantes? A boa notícia é que a memorização de números não depende de talento inato, mas de técnica. \"Memorização de Números sem Esforço\" revela o segredo dos campeões mundiais de memória para transformar sequências numéricas áridas em histórias vívidas e inesquecíveis. Neste livro, você aprenderá o método fonético, a técnica de associação de números a imagens e o sistema de revisão espaçada, que garantem a retenção de qualquer informação numérica. A obra ensina desde como memorizar números de telefone e senhas até como recordar grandes sequências de dígitos, como as casas decimais do número pi. Você descobrirá como aplicar essas técnicas no estudo de matemática, química, física e estatística, transformando o aprendizado de exatas em uma experiência leve e prazerosa. Se você é estudante, concurseiro ou profissional que precisa lidar com dados diariamente, este livro é o seu divisor de águas. Pare de sofrer com números e comece a dominá-los com facilidade.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865112793.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Memorização numérica",
+   "método fonético",
+   "associação de números",
+   "retenção",
+   "aprendizado de exatas"
+  ],
+  "criado": "2026-10-24T18:07:22.711Z",
+  "atualizado": "2026-10-24T18:07:22.711Z"
+ },
+ {
   "slug": "memorizacao-avancada-de-palavras",
   "titulo": "MEMORIZAÇÃO AVANÇADA DE PALAVRAS",
   "subtitulo": "AMPLIE SEU VOCABULÁRIO E FIXE CONCEITOS PARA SEMPRE",
