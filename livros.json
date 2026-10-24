@@ -1,5 +1,33 @@
 [
  {
+  "slug": "como-ler-classicos-usando-inteligencia-artificial",
+  "titulo": "COMO LER CLÁSSICOS USANDO INTELIGÊNCIA ARTIFICIAL",
+  "subtitulo": "USE IA PARA LER MAIS, ENTENDER MELHOR E NÃO PERDER O TOQUE HUMANO",
+  "sinopse": "A literatura clássica é a base da civilização ocidental, mas muitos leitores se sentem intimidados pela densidade das obras de Dostoiévski, Shakespeare ou Machado de Assis. E se a Inteligência Artificial pudesse ser a sua aliada nessa jornada? \"Como Ler Clássicos com Inteligência Artificial\" é um manual inovador que une a tradição literária com as ferramentas mais modernas de processamento de linguagem. Você aprenderá a usar IAs para gerar resumos contextualizados, a criar perguntas socráticas que aprofundam a leitura, a analisar o estilo dos autores e a comparar diferentes traduções. \n\nMas não se engane: a IA não substitui a leitura; ela a potencializa. O livro ensina como usar a tecnologia para desbloquear camadas de significado que passariam despercebidas em uma leitura tradicional. Se você sempre quis ler os grandes clássicos mas não sabia por onde começar, este é o seu passaporte. \n\nDescubra como a tecnologia pode tornar a literatura eterna mais acessível, prazerosa e transformadora do que nunca.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792862370637.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "literatura clássica",
+   "inteligência artificial",
+   "leitura assistida",
+   "análise literária",
+   "tecnologia educacional"
+  ],
+  "criado": "2026-10-24T17:21:48.145Z",
+  "atualizado": "2026-10-24T17:21:48.145Z"
+ },
+ {
   "slug": "como-ler-classicos-da-filosofia",
   "titulo": "COMO LER CLÁSSICOS DA FILOSOFIA",
   "subtitulo": "DOMINE CLÁSSICOS DA FILOSOFIA COM MÉTODO E PROFUNDIDADE",
