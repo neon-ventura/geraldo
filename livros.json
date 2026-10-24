@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-metodo-da-sintese-intelectual",
+  "titulo": "O MÉTODO DA SÍNTESE INTELECTUAL",
+  "subtitulo": "CONDENSE QUALQUER CONTEÚDO SEM PERDER O ESSENCIAL",
+  "sinopse": "Você já terminou de ler um livro inteiro e sentiu que não conseguiu explicar o que aprendeu para outra pessoa? A capacidade de sintetizar é a habilidade mais subestimada do aprendizado. \"O Método da Síntese Intelectual\" é o guia prático para quem deseja transformar informações dispersas em conhecimento estruturado e memorável. Neste livro, você aprenderá a identificar as ideias centrais de qualquer texto, a separar o essencial do acessório e a construir resumos que realmente funcionam. A obra ensina técnicas como o método Feynman, a pirâmide de argumentação e a construção de mapas de síntese visual. Você descobrirá como sintetizar livros, artigos, palestras e reuniões em poucas páginas sem perder a profundidade, e como usar essas sínteses para revisar conteúdos, preparar apresentações e compartilhar conhecimento. Se você é um estudante que precisa estudar para provas, um profissional que participa de inúmeras reuniões ou um leitor ávido que quer reter mais do que lê, este livro é a sua ferramenta de produtividade intelectual. A síntese é a arte de transformar informação em sabedoria.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865709534.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Síntese intelectual",
+   "método Feynman",
+   "resumo eficaz",
+   "estruturação de conhecimento",
+   "produtividade intelectual"
+  ],
+  "criado": "2026-10-24T18:16:59.046Z",
+  "atualizado": "2026-10-24T18:16:59.046Z"
+ },
+ {
   "slug": "o-leitor-profissional",
   "titulo": "O LEITOR PROFISSIONAL",
   "subtitulo": "LEIA COM TÉCNICA E TRANSFORME INFORMAÇÃO EM VANTAGEM",
