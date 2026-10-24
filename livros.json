@@ -1,5 +1,33 @@
 [
  {
+  "slug": "aprender-a-aprender",
+  "titulo": "APRENDER A APRENDER",
+  "subtitulo": "DOMINE A HABILIDADE MAIS VALIOSA DO SÉCULO XXI",
+  "sinopse": "O mundo muda em uma velocidade vertiginosa, e a única habilidade que garante a sua relevância é a capacidade de aprender continuamente. \"Aprender a Aprender\" é um convite para você assumir o controle do seu próprio desenvolvimento intelectual. \n\nEste livro não ensina um conteúdo específico, mas sim a metacognição: a arte de pensar sobre o próprio pensamento. Você descobrirá como identificar seu estilo de aprendizagem, como diagnosticar lacunas no conhecimento e como criar um plano de estudos personalizado e eficaz. Através de exercícios práticos, você vai aprender a fazer perguntas poderosas, a construir analogias que facilitam a compreensão e a usar a autorreflexão como ferramenta de evolução.\n A obra aborda desde a importância da curiosidade infantil até a aplicação de métodos científicos no dia a dia. Se você sente que está estagnado ou que a educação formal não foi suficiente para prepará-lo para os desafios atuais, este livro é o seu novo começo. Aprender a aprender é o superpoder do século XXI.\n\n\n metacognição, autodidatismo, plano de estudos, autorreflexão, desenvolvimento intelectual",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792861853497.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "metacognição",
+   "autodidatismo",
+   "plano de estudos",
+   "autorreflexão",
+   "desenvolvimento intelectual"
+  ],
+  "criado": "2026-10-24T17:13:18.495Z",
+  "atualizado": "2026-10-24T17:13:18.495Z"
+ },
+ {
   "slug": "a-ciencia-da-aprendizagem-acelerada",
   "titulo": "A CIÊNCIA DA APRENDIZAGEM ACELERADA",
   "subtitulo": "APRENDA MAIS RÁPIDO SEM PERDER QUALIDADE NEM COMPREENSÃO",
