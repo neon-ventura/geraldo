@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-metodo-dos-mapas-mentais-inteligentes",
+  "titulo": "O MÉTODO DOS MAPAS MENTAIS INTELIGENTES",
+  "subtitulo": "ORGANIZE O CONHECIMENTO VISUALMENTE E LEMBRE-SE DE TUDO",
+  "sinopse": "Você já tentou fazer mapas mentais, mas eles ficaram bagunçados, confusos e sem utilidade prática? A maioria das pessoas usa essa ferramenta de forma errada, perdendo seu imenso potencial. \"O Método dos Mapas Mentais Inteligentes\" é o guia definitivo para dominar a arte da visualização do conhecimento de forma estratégica e eficaz. Neste livro, você aprenderá os princípios neurocientíficos por trás dos mapas mentais, como as cores, as formas e as conexões espaciais potencializam a memória e a criatividade. A obra ensina desde os fundamentos da técnica até os níveis mais avançados, com aplicações práticas para estudo, planejamento de projetos, organização de ideias e apresentações. Você descobrirá como criar mapas que realmente funcionam, como evitar a poluição visual, como usar softwares de última geração e como integrar mapas mentais à sua rotina de aprendizado. Se você é um estudante visual, um profissional que precisa organizar o caos ou um pensador que busca clareza, este livro é a sua bússola. Transforme suas ideias em mapas visuais que iluminam o caminho do conhecimento.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865848513.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Mapas mentais",
+   "visualização de conhecimento",
+   "técnicas de estudo",
+   "organização de ideias",
+   "aprendizagem visual"
+  ],
+  "criado": "2026-10-24T18:19:12.661Z",
+  "atualizado": "2026-10-24T18:19:12.661Z"
+ },
+ {
   "slug": "o-metodo-da-sintese-intelectual",
   "titulo": "O MÉTODO DA SÍNTESE INTELECTUAL",
   "subtitulo": "CONDENSE QUALQUER CONTEÚDO SEM PERDER O ESSENCIAL",
