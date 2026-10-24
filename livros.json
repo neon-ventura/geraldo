@@ -1,5 +1,33 @@
 [
  {
+  "slug": "memorizacao-de-simbolos-e-conceitos",
+  "titulo": "MEMORIZAÇÃO DE SÍMBOLOS E CONCEITOS",
+  "subtitulo": "FIXE IDEIAS ABSTRATAS COM ANALOGIAS, METÁFORAS E MAPAS",
+  "sinopse": "O mundo está cheio de símbolos, fórmulas, diagramas e conceitos abstratos que precisam ser memorizados, mas a maioria das pessoas não sabe como fazer isso de forma eficaz. \"Memorização de Símbolos e Conceitos\" é o guia definitivo para quem deseja fixar informações complexas na memória de longo prazo sem depender da decoreba tradicional. Neste livro, você aprenderá a transformar conceitos abstratos em imagens concretas, a usar analogias e metáforas para facilitar a compreensão e a criar mapas mentais visuais que conectam símbolos a significados. A obra ensina técnicas específicas para memorizar fórmulas matemáticas, símbolos químicos, termos jurídicos, conceitos filosóficos e até mesmo linguagens de programação. Você descobrirá como usar a sinestesia, as emoções e as histórias para potencializar a memorização de qualquer conteúdo simbólico. Se você é um estudante de exatas, um concurseiro ou um profissional que precisa dominar nomenclaturas técnicas, este livro é a sua ferramenta de produtividade intelectual. Transforme a decoreba em compreensão duradoura.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865253560.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Memorização de símbolos",
+   "conceitos abstratos",
+   "analogias",
+   "mapas mentais",
+   "retenção de fórmulas"
+  ],
+  "criado": "2026-10-24T18:10:06.494Z",
+  "atualizado": "2026-10-24T18:10:06.494Z"
+ },
+ {
   "slug": "memorizacao-de-numeros-sem-esforco",
   "titulo": "MEMORIZAÇÃO DE NÚMEROS SEM ESFORÇO",
   "subtitulo": "TRANSFORME DATAS, FÓRMULAS E CÓDIGOS EM HISTÓRIAS MEMORÁVEIS",
