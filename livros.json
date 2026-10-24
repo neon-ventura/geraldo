@@ -1,5 +1,33 @@
 [
  {
+  "slug": "dominio-da-atencao",
+  "titulo": "DOMÍNIO DA ATENÇÃO",
+  "subtitulo": "RECUPERE SUA ATENÇÃO EM UM MUNDO CHEIO DE DISTRAÇÕES",
+  "sinopse": "Vivemos na era da distração. Notificações, redes sociais e o bombardeio constante de informações sequestraram a nossa capacidade de concentração. O resultado é uma geração de pessoas ansiosas, improdutivas e incapazes de mergulhar em tarefas profundas. \"Domínio da Atenção\" é o antídoto para esse cenário. Neste livro, você aprenderá a recuperar o controle sobre o seu foco e a treinar sua mente para o estado de flow — o estado de imersão total em uma atividade. Baseado em neurociência e psicologia cognitiva, a obra ensina técnicas para eliminar distrações digitais, criar rituais de concentração, gerenciar a energia mental e construir uma rotina de trabalho profundo. Você descobrirá como a atenção é o ativo mais valioso do século XXI e como protegê-la das forças que tentam capturá-la. Se você sente que está sempre ocupado mas nunca produtivo, este livro é a sua salvação. Recupere o domínio da sua mente e descubra o poder transformador da atenção plena.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792862943825.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "foco",
+   "atenção plena",
+   "estado de flow",
+   "concentração",
+   "produtividade profunda"
+  ],
+  "criado": "2026-10-24T17:30:33.345Z",
+  "atualizado": "2026-10-24T17:30:33.345Z"
+ },
+ {
   "slug": "diagramas-de-conhecimento",
   "titulo": "DIAGRAMAS DE CONHECIMENTO",
   "subtitulo": "TRANSFORME TEXTOS EM IMAGENS E COMPREENDA MAIS RÁPIDO",
