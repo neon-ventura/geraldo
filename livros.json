@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-cerebro-produtivo",
+  "titulo": "O CÉREBRO PRODUTIVO",
+  "subtitulo": "PRODUZA MAIS COM MÉTODO, FOCO E CLAREZA MENTAL",
+  "sinopse": "Você já se perguntou por que algumas pessoas parecem produzir muito mais em menos tempo, enquanto outras vivem exaustas e improdutivas? A resposta não está no relógio, mas na neurociência. \"O Cérebro Produtivo\" é o manual definitivo para quem deseja alinhar sua rotina com o funcionamento natural do cérebro, maximizando a energia, o foco e a criatividade. Neste livro, você aprenderá como os ciclos de atenção, os picos de energia e as necessidades de descanso afetam a sua produtividade. A obra ensina a construir uma rotina que respeita os ritmos ultradianos, a gerenciar a carga cognitiva, a alternar entre tarefas profundas e superficiais e a usar o descanso como ferramenta de desempenho. Você descobrirá como evitar o esgotamento, como manter a motivação em projetos longos e como criar um ambiente de trabalho que favorece o estado de flow. Se você sente que trabalha muito mas produz pouco, ou se quer elevar seu nível de excelência sem comprometer a saúde, este livro é o seu guia. A produtividade não é sobre fazer mais; é sobre fazer o que importa com o cérebro ao seu favor.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865418331.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Neurociência da produtividade",
+   "ciclos de energia",
+   "foco",
+   "descanso estratégico",
+   "desempenho cerebral"
+  ],
+  "criado": "2026-10-24T18:12:07.055Z",
+  "atualizado": "2026-10-24T18:12:07.055Z"
+ },
+ {
   "slug": "memorizacao-de-simbolos-e-conceitos",
   "titulo": "MEMORIZAÇÃO DE SÍMBOLOS E CONCEITOS",
   "subtitulo": "FIXE IDEIAS ABSTRATAS COM ANALOGIAS, METÁFORAS E MAPAS",
