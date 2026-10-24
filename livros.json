@@ -1,5 +1,33 @@
 [
  {
+  "slug": "pensamento-critico-para-leitores",
+  "titulo": "PENSAMENTO CRÍTICO PARA LEITORES",
+  "subtitulo": "ANALISE ARGUMENTOS, IDENTIFIQUE FALÁCIAS E PENSE COM RIGOR",
+  "sinopse": "Em um mundo dominado por fake news, opiniões superficiais e argumentos manipuladores, a capacidade de pensar criticamente é uma questão de sobrevivência intelectual. \"Pensamento Crítico para Leitores\" é o guia para quem deseja desenvolver uma mente questionadora, capaz de avaliar informações com rigor e formar opiniões fundamentadas. Neste livro, você aprenderá a identificar falácias lógicas, a reconhecer vieses cognitivos, a avaliar a credibilidade de fontes e a construir argumentos sólidos. A obra ensina técnicas de leitura crítica, como questionar as premissas do autor, como distinguir fatos de opiniões e como analisar a estrutura de um texto para revelar suas intenções ocultas. Você descobrirá como aplicar o pensamento crítico na leitura de notícias, artigos científicos, obras literárias e discursos políticos. Se você deseja ser um leitor independente, um cidadão consciente e um profissional diferenciado, este livro é o seu treinamento essencial. O pensamento crítico não é ceticismo vazio; é a arte de perguntar com inteligência. Desenvolva-o e nunca mais seja manipulado.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792866127550.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Pensamento crítico",
+   "falácias lógicas",
+   "viés cognitivo",
+   "leitura crítica",
+   "argumentação"
+  ],
+  "criado": "2026-10-24T18:23:58.606Z",
+  "atualizado": "2026-10-24T18:23:58.606Z"
+ },
+ {
   "slug": "o-poder-da-releitura-estrategica",
   "titulo": "O PODER DA RELEITURA ESTRATÉGICA",
   "subtitulo": "EXTRAIA NOVAS CAMADAS DE SENTIDO A CADA RELEITURA",
