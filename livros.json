@@ -1,5 +1,33 @@
 [
  {
+  "slug": "criatividade-aplicada-ao-conhecimento",
+  "titulo": "CRIATIVIDADE APLICADA AO CONHECIMENTO",
+  "subtitulo": "GERE IDEIAS ORIGINAIS E TRANSFORME SABER EM INOVAÇÃO",
+  "sinopse": "A criatividade não é um dom divino reservado a artistas; é uma habilidade cognitiva que pode ser treinada e aplicada a qualquer área do conhecimento. \"Criatividade Aplicada ao Conhecimento\" é o manual prático para quem deseja transformar a forma como aprende, ensina e resolve problemas. Neste livro, você aprenderá técnicas de brainstorming, pensamento lateral, analogias forçadas e inversão de premissas para gerar ideias originais em qualquer campo. A obra mostra como a criatividade está intrinsecamente ligada à memória e à capacidade de fazer conexões inesperadas entre conceitos. Você descobrirá como criar um ambiente propício para a inovação, como superar o medo do julgamento e como transformar pequenas ideias em projetos grandiosos. \nCom exemplos práticos de aplicação em educação, negócios e ciência, este livro é um convite para você se tornar um pensador criativo e um solucionador de problemas de elite. O conhecimento sem criatividade é estéril; a criatividade sem conhecimento é caos. Aqui, você aprende a unir os dois.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792862699276.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "criatividade aplicada",
+   "pensamento lateral",
+   "brainstorming",
+   "inovação",
+   "solução de problemas"
+  ],
+  "criado": "2026-10-24T17:27:06.874Z",
+  "atualizado": "2026-10-24T17:27:06.874Z"
+ },
+ {
   "slug": "conhecimento-exponencial",
   "titulo": "CONHECIMENTO EXPONENCIAL",
   "subtitulo": "APRENDA COM MÉTODO E MULTIPLIQUE SEU SABER A CADA DIA",
