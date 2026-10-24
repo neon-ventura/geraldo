@@ -1,5 +1,33 @@
 [
  {
+  "slug": "diagramas-de-conhecimento",
+  "titulo": "DIAGRAMAS DE CONHECIMENTO",
+  "subtitulo": "TRANSFORME TEXTOS EM IMAGENS E COMPREENDA MAIS RÁPIDO",
+  "sinopse": "Você já terminou de ler um livro e sentiu que não conseguiu organizar as ideias na cabeça? A mente humana não foi feita para armazenar informações de forma linear, mas sim visual e relacional. \"Diagramas de Conhecimento\" é o guia definitivo para você aprender a visualizar o saber e multiplicar sua capacidade de compreensão. Neste livro, você aprenderá a construir mapas mentais, mapas conceituais, diagramas de fluxo e esquemas visuais que revelam as conexões ocultas entre diferentes áreas do conhecimento. A obra ensina desde os fundamentos da teoria dos grafos até as ferramentas digitais mais modernas para criação de diagramas. Você descobrirá como usar a visualização para estudar para concursos, para planejar projetos complexos e para apresentar ideias de forma clara e memorável. Se você é um estudante visual, um profissional que precisa organizar o caos ou um pensador que busca clareza, este livro é a sua bússola. Transforme informações dispersas em um mapa visual do seu intelecto.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792862839414.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "mapas mentais",
+   "mapas conceituais",
+   "visualização do conhecimento",
+   "organização visual",
+   "diagramas"
+  ],
+  "criado": "2026-10-24T17:28:53.461Z",
+  "atualizado": "2026-10-24T17:28:53.461Z"
+ },
+ {
   "slug": "criatividade-aplicada-ao-conhecimento",
   "titulo": "CRIATIVIDADE APLICADA AO CONHECIMENTO",
   "subtitulo": "GERE IDEIAS ORIGINAIS E TRANSFORME SABER EM INOVAÇÃO",
