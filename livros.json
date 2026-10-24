@@ -1,5 +1,33 @@
 [
  {
+  "slug": "inteligencia-de-estudo",
+  "titulo": "INTELIGÊNCIA DE ESTUDO",
+  "subtitulo": "ESTUDE COM MÉTODO E TRANSFORME ESFORÇO EM APROVAÇÃO",
+  "sinopse": "Você já se pegou estudando por horas a fio, mas sentindo que não absorveu quase nada? A quantidade de tempo dedicada ao estudo é muito menos importante do que a qualidade da sua abordagem. \"Inteligência de Estudo\" é o guia prático para transformar sua rotina de aprendizado em um sistema altamente eficiente. Neste livro, você aprenderá a diagnosticar seu estilo de aprendizagem, a identificar as técnicas que realmente funcionam para você e a construir um plano de estudos personalizado que respeita seus ritmos biológicos. A obra aborda desde a gestão do tempo e a criação de um ambiente livre de distrações até o uso de ferramentas digitais para potencializar a retenção de conteúdo. Você descobrirá como estudar para diferentes tipos de provas, como lidar com a ansiedade pré-exame e como manter a motivação em longo prazo. Se você é concurseiro, estudante universitário ou profissional em busca de qualificação, este livro é o seu treinador pessoal. Pare de estudar no piloto automático e comece a estudar com inteligência estratégica.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792863305474.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Método de estudo",
+   "gestão do tempo",
+   "plano de estudos",
+   "produtividade acadêmica",
+   "técnicas de aprendizado"
+  ],
+  "criado": "2026-10-24T17:36:53.764Z",
+  "atualizado": "2026-10-24T17:36:53.764Z"
+ },
+ {
   "slug": "inteligencia-analitica-avancada",
   "titulo": "INTELIGÊNCIA ANALÍTICA AVANÇADA",
   "subtitulo": "DECOMPONHA PROBLEMAS E DECIDA COM BASE EM DADOS E LÓGICA",
