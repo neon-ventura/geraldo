@@ -1,5 +1,33 @@
 [
  {
+  "slug": "escrita-inteligente",
+  "titulo": "ESCRITA INTELIGENTE",
+  "subtitulo": "ESCREVA COM CLAREZA, CONCISÃO E PODER DE PERSUASÃO",
+  "sinopse": "Você já teve uma ideia brilhante, mas na hora de colocá-la no papel tudo virou um emaranhado de frases confusas? A escrita é a ferramenta mais poderosa do intelecto, mas poucos sabem usá-la com maestria. \"Escrita Inteligente\" é o guia definitivo para transformar pensamentos dispersos em textos claros, coesos e magnéticos. Neste livro, você aprenderá a estruturar argumentos de forma lógica, a construir parágrafos que fluem naturalmente e a usar a pontuação como recurso de ritmo e ênfase. A obra vai além da gramática: ensina a psicologia da comunicação escrita, mostrando como adaptar sua linguagem ao público, como criar aberturas que capturam a atenção e como finalizar textos que ecoam na mente do leitor. Você descobrirá técnicas de edição e revisão que eliminam redundâncias, fortalecem a mensagem e dão brilho a cada frase. Seja para escrever e-mails profissionais, artigos acadêmicos, posts em redes sociais ou relatórios, este livro é o seu manual de estilo. A escrita inteligente não é um dom; é uma habilidade que pode ser treinada. Comece hoje a escrever com clareza, propósito e impacto.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792863044806.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "escrita clara",
+   "comunicação escrita",
+   "estrutura textual",
+   "revisão",
+   "estilo de escrita"
+  ],
+  "criado": "2026-10-24T17:32:33.346Z",
+  "atualizado": "2026-10-24T17:32:33.346Z"
+ },
+ {
   "slug": "dominio-da-atencao",
   "titulo": "DOMÍNIO DA ATENÇÃO",
   "subtitulo": "RECUPERE SUA ATENÇÃO EM UM MUNDO CHEIO DE DISTRAÇÕES",
