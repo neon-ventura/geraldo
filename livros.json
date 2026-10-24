@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-ciencia-da-aprendizagem-acelerada",
+  "titulo": "A CIÊNCIA DA APRENDIZAGEM ACELERADA",
+  "subtitulo": "APRENDA MAIS RÁPIDO SEM PERDER QUALIDADE NEM COMPREENSÃO",
+  "sinopse": "Quanto tempo você já perdeu estudando de forma errada, decorando conteúdos que esquecia no dia seguinte? A ciência já provou que a maioria das técnicas tradicionais de estudo é ineficaz. \"A Ciência da Aprendizagem Acelerada\" revela os segredos da neurociência para que você aprenda qualquer assunto em uma fração do tempo. Baseado em décadas de pesquisas sobre plasticidade cerebral, memória e cognição, este livro desmistifica o mito do \"dom\" e mostra que a aprendizagem é uma habilidade treinável.\n Você aprenderá técnicas como repetição espaçada, prática intercalada, recordação ativa e o método Feynman, que transformam a forma como você absorve e retém informações. Descubra como criar um ambiente de estudo neurocompatível, como gerenciar a curva do esquecimento e como manter a motivação mesmo em temas complexos. \nSe você é estudante, concurseiro ou profissional em busca de requalificação, este livro é o divisor de águas que faltava. Pare de estudar mais e comece a estudar melhor. O conhecimento está ao seu alcance.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792861677190.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "aprendizagem acelerada",
+   "neurociência",
+   "técnicas de estudo",
+   "memorização",
+   "plasticidade cerebral"
+  ],
+  "criado": "2026-10-24T17:10:06.223Z",
+  "atualizado": "2026-10-24T17:10:06.223Z"
+ },
+ {
   "slug": "a-biblioteca-do-intelectual-moderno",
   "titulo": "A BIBLIOTECA DO INTELECTUAL MODERNO",
   "subtitulo": "CONSTRUA UM ACERVO QUE FORMA, INFORMA E TRANSFORMA",
