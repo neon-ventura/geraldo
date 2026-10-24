@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-biblioteca-do-intelectual-moderno",
+  "titulo": "A BIBLIOTECA DO INTELECTUAL MODERNO",
+  "subtitulo": "CONSTRUA UM ACERVO QUE FORMA, INFORMA E TRANSFORMA",
+  "sinopse": "Você já sentiu que tem acesso a milhares de informações, mas não consegue transformá-las em conhecimento real? A era digital trouxe uma abundância de dados, mas também uma paralisia intelectual. \"A Biblioteca do Intelectual Moderno\" é o seu guia definitivo para construir um acervo pessoal estratégico, seja físico ou digital, que realmente funcione para o seu crescimento. Neste livro, você aprenderá a curadoria de fontes confiáveis, a organização de arquivos e a criação de um sistema de catalogação que permite encontrar qualquer ideia em segundos. Muito além de \"juntar livros\", a obra ensina como selecionar obras que dialogam entre si, como criar conexões entre diferentes áreas do saber e como transformar sua biblioteca em um laboratório de ideias. \nVocê descobrirá como usar ferramentas digitais para potencializar sua memória e como manter um fluxo constante de leitura ativa. Se você deseja parar de acumular informações soltas e começar a construir um legado intelectual sólido, este é o primeiro passo. \nSua biblioteca não é apenas um depósito de livros; é a base do seu pensamento.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792861530960.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Palavras-chave: curadoria de conheciment",
+   "biblioteca pessoal",
+   "organização intelectual",
+   "leitura ativa",
+   "acervo estratégico"
+  ],
+  "criado": "2026-10-24T17:07:46.944Z",
+  "atualizado": "2026-10-24T17:07:46.944Z"
+ },
+ {
   "slug": "o-silencio-algoritmico-na-era-da-hiperdemocracia",
   "titulo": "O SILÊNCIO ALGORÍTMICO NA ERA DA HIPERDEMOCRACIA",
   "subtitulo": "O CAMINHO PARA UM PLURALISMO RACIONAL",
