@@ -1,5 +1,33 @@
 [
  {
+  "slug": "conhecimento-exponencial",
+  "titulo": "CONHECIMENTO EXPONENCIAL",
+  "subtitulo": "APRENDA COM MÉTODO E MULTIPLIQUE SEU SABER A CADA DIA",
+  "sinopse": "Em um mundo onde a informação dobra a cada dois dias, o conhecimento linear — aquele que se acumula de forma lenta e isolada — já não é suficiente. \"Conhecimento Exponencial\" é um convite para você repensar a forma como constrói o seu saber. Neste livro, você descobrirá como criar sistemas de aprendizagem que se retroalimentam, gerando um crescimento explosivo da sua inteligência.\n\n Aprenda a usar o princípio dos juros compostos aplicado ao conhecimento: cada nova ideia aprendida deve se conectar a outras dez, criando uma rede de significados que se expande de forma acelerada. A obra ensina como identificar os \"pontos de alavancagem\" no seu aprendizado, como criar conexões entre áreas distantes e como usar a tecnologia para escalar a sua capacidade intelectual. \n\nVocê verá como grandes pensadores e empreendedores construíram impérios de conhecimento usando essa abordagem. Se você quer parar de acumular informações de forma rasa e começar a pensar de forma sistêmica e profunda, este livro é o seu mapa do tesouro.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792862537721.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "conhecimento exponencial",
+   "juros compostos intelectuais",
+   "rede de saberes",
+   "alavancagem cognitiva",
+   "pensamento sistêmico"
+  ],
+  "criado": "2026-10-24T17:24:49.306Z",
+  "atualizado": "2026-10-24T17:24:49.306Z"
+ },
+ {
   "slug": "como-ler-classicos-usando-inteligencia-artificial",
   "titulo": "COMO LER CLÁSSICOS USANDO INTELIGÊNCIA ARTIFICIAL",
   "subtitulo": "USE IA PARA LER MAIS, ENTENDER MELHOR E NÃO PERDER O TOQUE HUMANO",
