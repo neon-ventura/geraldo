@@ -1,5 +1,33 @@
 [
  {
+  "slug": "inteligencia-analitica-avancada",
+  "titulo": "INTELIGÊNCIA ANALÍTICA AVANÇADA",
+  "subtitulo": "DECOMPONHA PROBLEMAS E DECIDA COM BASE EM DADOS E LÓGICA",
+  "sinopse": "Em um mundo saturado de dados e opiniões, a capacidade de analisar informações com profundidade é o que separa os pensadores superficiais dos verdadeiros estrategistas. \"Inteligência Analítica Avançada\" é o manual para quem deseja desenvolver uma mente afiada, capaz de desmontar argumentos frágeis, identificar vieses cognitivos e tomar decisões baseadas em evidências. Neste livro, você aprenderá a aplicar frameworks analíticos como a árvore de problemas, a matriz de priorização e o pensamento sistêmico para resolver questões complexas. A obra ensina como formular perguntas poderosas, como coletar e validar dados, como construir hipóteses e como testá-las de forma rigorosa. Você descobrirá como evitar as armadilhas da intuição enganosa e como usar a lógica e a estatística a seu favor. Se você é um profissional que precisa apresentar soluções sólidas, um estudante que busca excelência acadêmica ou um líder que precisa tomar decisões de alto impacto, este livro é o seu diferencial competitivo. A inteligência analítica é a nova alfabetização do século XXI. Domine-a.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792863168849.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Análise de dados",
+   "pensamento sistêmico",
+   "tomada de decisão",
+   "lógica",
+   "raciocínio analítico"
+  ],
+  "criado": "2026-10-24T17:34:55.144Z",
+  "atualizado": "2026-10-24T17:34:55.144Z"
+ },
+ {
   "slug": "escrita-inteligente",
   "titulo": "ESCRITA INTELIGENTE",
   "subtitulo": "ESCREVA COM CLAREZA, CONCISÃO E PODER DE PERSUASÃO",
