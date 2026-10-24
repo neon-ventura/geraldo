@@ -1,5 +1,33 @@
 [
  {
+  "slug": "leitura-comparativa-de-grandes-autores",
+  "titulo": "LEITURA COMPARATIVA DE GRANDES AUTORES",
+  "subtitulo": "CRUZE VISÕES E AMPLIE SUA VISÃO DO MUNDO",
+  "sinopse": "Ler um grande autor é uma experiência transformadora. Ler dois ou mais  autores em diálogo é uma experiência revolucionária. \"Leitura Comparativa de Grandes Autores\" é o guia para quem deseja ir além da leitura isolada e mergulhar no rico universo das conexões literárias. Neste livro, você aprenderá a comparar estilos, temas, argumentos e visões de mundo de autores consagrados, descobrindo como eles conversam entre si através dos séculos. A obra ensina métodos práticos para selecionar autores complementares, construir quadros comparativos, identificar influências e divergências e extrair insights que nenhuma leitura solitária seria capaz de revelar. Você verá como Machado de Assis dialoga com Shakespeare, como Virginia Woolf ressoa em Clarice Lispector e como filósofos gregos influenciam pensadores contemporâneos. Se você é um leitor ávido, um estudante de literatura ou um intelectual em busca de profundidade, este livro é o seu novo laboratório de ideias. A leitura comparativa multiplica seu repertório e afia seu pensamento crítico. Descubra o prazer de ler em diálogo.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792863914120.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "leitura comparativa",
+   "literatura comparada",
+   "grandes autores",
+   "diálogo literário",
+   "análise de estilo"
+  ],
+  "criado": "2026-10-24T17:47:10.929Z",
+  "atualizado": "2026-10-24T17:47:10.929Z"
+ },
+ {
   "slug": "leitura-acelerada-para-alta-performance",
   "titulo": "LEITURA ACELERADA PARA ALTA PERFORMANCE",
   "subtitulo": "LEIA MAIS LIVROS EM MENOS TEMPO MANTENDO ALTA COMPREENSÃO",
