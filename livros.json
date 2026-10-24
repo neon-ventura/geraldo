@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-poder-da-releitura-estrategica",
+  "titulo": "O PODER DA RELEITURA ESTRATÉGICA",
+  "subtitulo": "EXTRAIA NOVAS CAMADAS DE SENTIDO A CADA RELEITURA",
+  "sinopse": "Por que alguns livros parecem completamente diferentes quando os lemos pela segunda vez? A releitura não é perda de tempo; é uma das técnicas mais poderosas de aprendizado profundo. \"O Poder da Releitura Estratégica\" revela como uma segunda, terceira ou quarta leitura pode revelar camadas de significado que passaram despercebidas na primeira vez. Neste livro, você aprenderá a diferença entre a leitura de reconhecimento e a leitura de profundidade, a identificar o que deve ser relido e o que pode ser descartado, e a usar a releitura como ferramenta de consolidação da memória e de desenvolvimento do pensamento crítico. A obra ensina como fazer anotações comparativas entre diferentes leituras, como construir uma relação de intimidade com as grandes obras e como transformar a releitura em um hábito prazeroso e produtivo. Você descobrirá como grandes intelectuais reliam seus clássicos favoritos e como aplicar esse método à sua própria jornada. Se você quer extrair o máximo de cada livro que lê, este guia é o seu aliado. A primeira leitura abre a porta; a releitura revela o tesouro.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1792865981597.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Releitura estratégica",
+   "leitura profunda",
+   "retenção de conhecimento",
+   "consolidação de memória",
+   "pensamento crítico"
+  ],
+  "criado": "2026-10-24T18:21:33.535Z",
+  "atualizado": "2026-10-24T18:21:33.535Z"
+ },
+ {
   "slug": "o-metodo-dos-mapas-mentais-inteligentes",
   "titulo": "O MÉTODO DOS MAPAS MENTAIS INTELIGENTES",
   "subtitulo": "ORGANIZE O CONHECIMENTO VISUALMENTE E LEMBRE-SE DE TUDO",
