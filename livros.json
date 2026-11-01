@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-corpo-que-grita-em-silencio",
+  "titulo": "O CORPO QUE GRITA EM SILÊNCIO",
+  "subtitulo": "QUANDO A DOENÇA É A ÚNICA VOZ QUE RESTA",
+  "sinopse": "Existe uma dor que não aparece em exames, não deixa cicatrizes visíveis e, por isso, é frequentemente desacreditada. \"O Corpo Que Grita em Silêncio\" é uma obra profunda e necessária sobre a realidade das doenças invisíveis e a luta diária de quem vive com dores crônicas em um mundo que exige provas visíveis do sofrimento. Jeremias Heilgut conduz o leitor por uma jornada de empatia e reflexão, dando voz àqueles que, muitas vezes, são silenciados pela incompreensão da sociedade, de familiares e até mesmo de profissionais de saúde.\n\nAtravés de relatos sensíveis, o autor explora a \"Invisibilidade da Dor\" e o estigma particular que recai sobre a \"Dor Feminina\", frequentemente minimizada e tratada como exagero. O livro desvenda como o corpo se torna um mensageiro de emoções reprimidas, comunicando através de sintomas físicos o que a mente não consegue expressar. Heilgut aborda a árdua \"Luta pelo Diagnóstico\", a burocracia e a \"Desumanização do Atendimento\", além das complexas \"Dinâmicas de Poder na Medicina\", onde a voz do paciente é muitas vezes sufocada pela autoridade médica.\n\nA obra também se debruça sobre os impactos sociais e emocionais da dor crônica, discutindo os desafios no ambiente de trabalho, a incompreensão familiar e a profunda \"Solidão da Dor Invisível\". O autor não se limita à dor, mas explora também caminhos de cura e resiliência, apresentando \"Abordagens Alternativas à Medicina Tradicional\" e a importância do autocuidado.\n\nMais do que um livro sobre doenças, esta é uma obra sobre a condição humana e a necessidade urgente de uma medicina mais humanizada e de uma sociedade mais empática. É um convite para ouvir o que o corpo tem a dizer e para validar o sofrimento do outro, mesmo quando ele não é visível. \"O Corpo Que Grita em Silêncio\" é um abraço em quem se sente sozinho na sua dor, e um chamado à ação para todos nós.",
+  "autor": "JEREMIAS HEILGUT",
+  "colecao": "PERDAS, LUTO E ESPERANÇA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793555174228.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Dor Crônica",
+   "Doenças Invisíveis",
+   "Empatia",
+   "Humanização",
+   "Resiliência"
+  ],
+  "criado": "2026-11-01T17:50:16.260Z",
+  "atualizado": "2026-11-01T17:50:16.260Z"
+ },
+ {
   "slug": "a-pessoa-que-teve-a-saude-negligenciada",
   "titulo": "A PESSOA QUE TEVE A SAÚDE NEGLIGENCIADA",
   "subtitulo": "QUANDO O SISTEMA DE SAÚDE ESCOLHE QUEM MERECE VIVER",
