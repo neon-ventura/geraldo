@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-pessoa-que-perdeu-tudo",
+  "titulo": "A PESSOA QUE PERDEU TUDO",
+  "subtitulo": "RECOMEÇAR QUANDO NÃO SOBRA NADA",
+  "sinopse": "Em \"A Pessoa Que Perdeu Tudo: Recomeçar Quando Não Sobra Nada\", Elias Roth nos conduz por uma jornada profundamente humana e comovente sobre a experiência de tocar o fundo do poço e encontrar, ali, a força para renascer. Este livro não é sobre a perda em si, mas sobre o que acontece depois: o silêncio ensurdecedor, o vazio, a culpa e, eventualmente, a descoberta de que a vida pode florescer novamente, mesmo quando tudo parece ter sido levado.\n\nCom uma narrativa sensível e honesta, Roth explora as diversas faces do luto, desde o momento em que \"tudo desmorona\" até a lenta e dolorosa reconstrução. Ele nos apresenta personagens que perdem empregos, relacionamentos e entes queridos, e que se veem diante do desafio de reescrever suas histórias. O autor aborda a solidão do fundo do poço, a vergonha de quem se sente um fracasso e a raiva que pode consumir ou transformar.\n\nA obra oferece um mapa emocional para navegar por esses sentimentos, mostrando que o recomeço não é um ato grandioso, mas sim a soma de pequenos gestos: preparar um café, organizar uma gaveta, cuidar de uma planta. Ele nos lembra que a esperança é uma força ativa que pode ser cultivada diariamente, e que a conexão com outras pessoas é o antídoto mais poderoso contra a solidão.\n\nLonge de oferecer fórmulas mágicas, \"A Pessoa Que Perdeu Tudo\" é um convite à reflexão e à ação. É uma leitura essencial e inspiradora para quem busca não apenas sobreviver à perda, mas encontrar um novo propósito e descobrir a beleza de quem reconstrói a própria vida, mesmo quando parece não sobrar nada.",
+  "autor": "ELIAS ROTH",
+  "colecao": "PERDAS, LUTO E ESPERANÇA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793546716761.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Perda Total",
+   "Recomeço",
+   "Resiliência",
+   "Luto",
+   "Propósito."
+  ],
+  "criado": "2026-11-01T15:27:10.227Z",
+  "atualizado": "2026-11-01T15:27:10.227Z"
+ },
+ {
   "slug": "a-pessoa-que-perdeu-tudo-na-enchente",
   "titulo": "A PESSOA QUE PERDEU TUDO NA ENCHENTE",
   "subtitulo": "RECOMEÇAR QUANDO A ÁGUA LEVOU SUA HISTÓRIA",
