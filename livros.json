@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-medico-que-adoece-cuidando",
+  "titulo": "O MÉDICO QUE ADOECE CUIDANDO",
+  "subtitulo": "O PREÇO DE SALVAR VIDAS, SEM SALVAR A SI",
+  "sinopse": "Em \"O Médico Que Adoece Cuidando\", Jeremias Heilgut lança um olhar corajoso e necessário sobre a saúde mental dos profissionais de saúde. A obra desmistifica a figura do médico como um herói invulnerável, revelando o custo emocional e físico de uma profissão que exige uma entrega sobre-humana.\n\nO livro explora a fundo os diversos fatores que adoecem o médico: a \"mística do herói\" que impõe uma pressão insustentável; o cansaço extremo de jornadas extenuantes; o medo paralisante do erro e a angústia da culpa; e o enfrentamento diário da morte, um luto silencioso que nunca é reconhecido. Heilgut também aborda a \"medicina defensiva\", onde o medo de processos judiciais transforma a relação médico-paciente em um campo de desconfiança, e a desvalorização da profissão, que corrói a paixão e o propósito.\n\nA obra não se limita a diagnosticar o problema. Ela também aponta caminhos para a cura, destacando a importância do autocuidado como um ato de resistência e de amor-próprio. O autor defende que cuidar de si é essencial para poder cuidar do outro de forma plena e humana. A construção de uma comunidade de apoio entre colegas e a luta pela revalorização da vocação surgem como pilares para a superação.\n\nCom uma escrita sincera e por vezes dolorosa, mas sempre empática, Jeremias Heilgut oferece um espaço de reflexão e acolhimento para os médicos e para todos os que se interessam pela humanização da saúde. É um convite para quebrar o silêncio, abraçar a vulnerabilidade e redefinir o que significa ser um curador, lembrando que, por trás do jaleco, existe um ser humano que também precisa de cuidado.",
+  "autor": "JEREMIAS HEILGUT",
+  "colecao": "PERDAS, LUTO E ESPERANÇA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793557416650.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Saúde Mental",
+   "Burnout",
+   "Medicina",
+   "Vulnerabilidade",
+   "Autocuidado"
+  ],
+  "criado": "2026-11-01T18:25:08.869Z",
+  "atualizado": "2026-11-01T18:25:08.869Z"
+ },
+ {
   "slug": "o-idoso-que-perdeu-o-parceiro",
   "titulo": "O IDOSO QUE PERDEU O PARCEIRO",
   "subtitulo": "A SOLIDÃO DO VIÚVO E DA VIÚVA",
