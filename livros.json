@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-idoso-que-perdeu-a-memoria",
+  "titulo": "O IDOSO QUE PERDEU A MEMÓRIA",
+  "subtitulo": "O QUE FICA QUANDO A MENTE COMEÇA A SE APAGAR",
+  "sinopse": "Em \"O Idoso Que Perdeu a Memória\", Hosea Liebenfield conduz o leitor por uma jornada profundamente humana e sensível sobre os desafios da demência e do Alzheimer. Mais do que um relato clínico, a obra é um convite à reflexão sobre a essência da identidade humana quando as lembranças começam a se desvanecer.\n\nO livro aborda desde os primeiros sinais sutis do esquecimento — como a dificuldade de recordar um nome ou um compromisso — até o impacto devastador do diagnóstico, que abala não apenas a vida do idoso, mas de toda a sua rede de apoio. Liebenfield explora a fundo a complexidade das emoções familiares, o desgaste físico e emocional dos cuidadores, e a difícil decisão de institucionalização, sempre com um olhar empático e acolhedor.\n\nA narrativa destaca que, mesmo quando a memória falha, a essência da pessoa permanece. O amor, os sentimentos e a capacidade de conexão transcendem as barreiras cognitivas. Através de histórias reais e reflexões profundas, o autor demonstra como a música, o toque, o olfato e pequenos gestos podem reacender a chama da memória afetiva e proporcionar momentos de lucidez e alegria.\n\nA obra também discute a importância da espiritualidade como um pilar de apoio, a necessidade de comunicação não verbal e a criação de redes de apoio que possam amparar tanto o idoso quanto quem cuida. O livro é um tributo à resiliência do amor, que se reinventa e encontra novas formas de se manifestar, mesmo diante da fragilidade.\n\nCom uma escrita tocante e reflexiva, \"O Idoso Que Perdeu a Memória\" é uma leitura essencial para familiares, cuidadores e para todos que desejam compreender a beleza e a dignidade que persistem naqueles que enfrentam o esquecimento. É uma celebração da vida e da conexão humana que resiste a todas as adversidades.",
+  "autor": "HOSEA LIEBENFIELD",
+  "colecao": "PSICOLOGIA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793557075617.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Demência",
+   "Alzheimer",
+   "Cuidadores",
+   "Memória Afetiva",
+   "Dignidade"
+  ],
+  "criado": "2026-11-01T18:19:33.468Z",
+  "atualizado": "2026-11-01T18:19:33.468Z"
+ },
+ {
   "slug": "o-idoso-que-foi-esquecido-pela-familia",
   "titulo": "O IDOSO QUE FOI ESQUECIDO PELA FAMÍLIA",
   "subtitulo": "A SOLIDÃO DE QUEM ENVELHECE SEM VISITAS",
