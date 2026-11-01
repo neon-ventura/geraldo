@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-pessoa-que-sofreu-abuso-na-infancia",
+  "titulo": "A PESSOA QUE SOFREU ABUSO NA INFÂNCIA",
+  "subtitulo": "A MARCA QUE NINGUÉM VÊ, A CURA QUE É POSSÍVEL",
+  "sinopse": "Existe uma dor que não sangra, mas que aprisiona a alma em um silêncio ensurdecedor. \"A Pessoa Que Sofreu Abuso na Infância\" é uma obra corajosa e profundamente sensível que lança luz sobre a ferida mais invisível e devastadora: a violência contra a inocência. Escrito por Theodor Mancini, este livro não é apenas um relato de sofrimento, mas um mapa para a sobrevivência e a cura. Através de doze capítulos, o autor conduz o leitor por um labirinto de emoções complexas que moldam a vida adulta de quem foi vitimado na infância, oferecendo um espaço seguro para a validação e o acolhimento.\n\nA jornada começa com \"O Segredo Que Não Se Conta\", explorando o peso opressor do silêncio e a vergonha que isola a vítima. O autor aborda a \"Traição da Confiança\", quando figuras de proteção se tornam algozes, e a devastadora experiência de \"A Criança Que Não Foi Acreditada\", mostrando como a incredulidade dos adultos perpetua o trauma. A obra adentra temas espinhosos como \"A Culpa Da Vítima\" e a internalização do estigma, além de discorrer sobre \"As Marcas Invisíveis\" — as dores físicas e psicológicas que o corpo manifesta.\n\nMas este livro é, acima de tudo, sobre resiliência. Mancini não se limita à dor; ele explora \"A Dificuldade De Confiar\", a \"Sexualidade Ferida\" e a complexa \"Raiva Contra Quem Não Protegeu\", oferecendo caminhos para ressignificar essas emoções. O autor propõe \"O Enfrentamento Necessário\" e a \"Terapia Como Caminho\" para a reconstrução da autoestima. O capítulo final, \"A Beleza De Quem Sobreviveu\", é um tributo à força daqueles que, mesmo diante do abismo, encontraram a coragem de se reerguer e florescer.\n\nCom uma escrita que mistura empatia e reflexão profunda, esta obra é um abraço em quem se sente sozinho na escuridão. É a prova de que o passado não precisa definir o futuro e de que a cura, embora lenta e dolorosa, é possível quando encontramos a coragem de quebrar o silêncio e nos permitir ser ouvidos.",
+  "autor": "THEODOR MANCINI",
+  "colecao": "PSICOLOGIA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793548300642.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Abuso Infantil",
+   "Trauma",
+   "Cura",
+   "Resiliência",
+   "Autoestima."
+  ],
+  "criado": "2026-11-01T15:55:31.319Z",
+  "atualizado": "2026-11-01T15:55:31.319Z"
+ },
+ {
   "slug": "a-pessoa-que-perdeu-a-esperanca",
   "titulo": "A PESSOA QUE PERDEU A ESPERANÇA",
   "subtitulo": "ENCONTRANDO UMA LUZ NA ESCURIDÃO MAIS PROFUNDA",
