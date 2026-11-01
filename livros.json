@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-pessoa-que-teve-a-saude-negligenciada",
+  "titulo": "A PESSOA QUE TEVE A SAÚDE NEGLIGENCIADA",
+  "subtitulo": "QUANDO O SISTEMA DE SAÚDE ESCOLHE QUEM MERECE VIVER",
+  "sinopse": "Em um mundo onde a saúde é um direito, por que tantos ainda são tratados como números? \"A Pessoa Que Teve a Saúde Negligenciada\" é um libelo poderoso e comovente sobre a cruel realidade daqueles que, ao buscarem ajuda, encontram o descaso, a indiferença e a burocracia. Jeremias Heilgut conduz o leitor por uma jornada intensa e necessária, revelando as entranhas de um sistema de saúde que, muitas vezes, escolhe quem merece viver, ignorando a dor e a humanidade dos mais vulneráveis.\n\nAtravés de histórias reais e relatos tocantes, o autor expõe as feridas de um sistema falho. O livro começa com \"O Diagnóstico Que Demorou Anos\", mostrando a angústia de pacientes que peregrinam de médico em médico sem respostas. Em seguida, aborda \"O Tratamento Que Não Veio\" e a cruel \"Classe Social Como Determinante\", evidenciando como o poder aquisitivo dita a qualidade e a agilidade do atendimento. Conhecemos personagens como Arnaldo e Carlos, \"O Paciente Sem Vez\", que enfrentam a invisibilidade social e a solidão nos corredores dos hospitais.\n\nHeilgut também mergulha em temas profundos como \"A Doença Rara e o Desamparo\" e o preconceito contra a doença mental, além de discutir \"A Morte Como Fracasso Médico\", criticando a cultura que não aceita a finitude e negligencia os cuidados paliativos. O autor nos apresenta a falta de humanização na relação médico-paciente, onde a voz do paciente é silenciada pela arrogância técnica.\n\nMas este não é um livro sobre desistência. É um chamado à ação. Heilgut celebra \"A Humanização Como Luta\" e o \"Paciente Como Protagonista\", mostrando histórias de profissionais que fazem a diferença e de pacientes que, ao se empoderarem, transformam sua própria jornada. A obra conclui com um convite à reflexão sobre a \"Beleza De Quem Sobreviveu\" ao descaso, destacando a resiliência e a força daqueles que continuam a lutar por dignidade.\n\nCom uma escrita envolvente e crítica, este livro é um espelho para a nossa sociedade. É uma leitura indispensável para pacientes, profissionais de saúde e para todos que acreditam que a empatia e o respeito são os melhores remédios.",
+  "autor": "JEREMIAS HEILGUT",
+  "colecao": "PERDAS, LUTO E ESPERANÇA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793549460906.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Saúde Pública",
+   "Negligência",
+   "Humanização",
+   "Desigualdade",
+   "Resiliência"
+  ],
+  "criado": "2026-11-01T16:13:30.231Z",
+  "atualizado": "2026-11-01T16:13:30.231Z"
+ },
+ {
   "slug": "a-pessoa-que-perdeu-a-propria-identidade",
   "titulo": "A PESSOA QUE PERDEU A PRÓPRIA IDENTIDADE",
   "subtitulo": "O LUTO POR SI MESMO E A CORAGEM DE RENASCER",
