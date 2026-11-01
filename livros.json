@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-pessoa-que-enfrentou-a-doenca-sem-acolhimento",
+  "titulo": "A PESSOA QUE ENFRENTOU A DOENÇA SEM ACOLHIMENTO",
+  "subtitulo": "O SISTEMA DE SAÚDE QUE DESUMANIZA QUEM MAIS PRECISA",
+  "sinopse": "Em \"A Pessoa Que Enfrentou a Doença Sem Acolhimento: O Sistema de Saúde Que Desumaniza Quem Mais Precisa\", Jeremias Heilgut nos conduz por uma jornada brutalmente honesta e necessária sobre as fissuras de um sistema que deveria curar, mas que, muitas vezes, fere a alma. Este livro não é uma crítica técnica à medicina, mas um retrato humano e comovente da luta pela dignidade em meio à doença, revelando a solidão, a frustração e a coragem de quem se vê invisível aos olhos daqueles que deveriam cuidar.\n\nCom uma narrativa sensível e realista, Heilgut explora a experiência de ser um mero dado em uma tela de computador, onde a pressa nas consultas transforma o diálogo em um monólogo sobre sintomas, e o paciente em um questionário a ser preenchido. A obra aborda o drama das filas intermináveis, a agonia da espera por um diagnóstico que não chega e a dor que não é levada a sério, especialmente quando é crônica ou invisível.\n\nO autor mergulha em temas espinhosos como o preconceito contra a doença mental, o tabu da morte vista como um fracasso profissional e o labirinto da falta de informação, onde palavras incompreensíveis criam abismos entre médicos e pacientes. Ele dá voz a histórias como a de Ana, que se sentiu desamparada ao receber um diagnóstico, ou de Carlos, um pai que lutou contra a burocracia para conseguir o tratamento do filho.\n\nNo entanto, em meio ao caos e à desumanização, surge um fio de esperança e resistência. Heilgut celebra a luta pela humanização, o empoderamento do paciente como protagonista de sua jornada e a força que emerge das redes de apoio, onde quem também sofre estende a mão. \"A Pessoa Que Enfrentou a Doença Sem Acolhimento\" é um convite à reflexão e à ação, um chamado para que todos nós, pacientes e profissionais, possamos construir pontes de empatia e transformar o sistema de saúde em um espaço verdadeiramente acolhedor.",
+  "autor": "JEREMIAS HEILGUT",
+  "colecao": "PERDAS, LUTO E ESPERANÇA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793544093366.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Saúde Pública",
+   "Desumanização",
+   "Doença",
+   "Empatia",
+   "Humanização."
+  ],
+  "criado": "2026-11-01T14:43:57.857Z",
+  "atualizado": "2026-11-01T14:43:57.857Z"
+ },
+ {
   "slug": "a-pessoa-que-enfrenta-o-negacionismo",
   "titulo": "A PESSOA QUE ENFRENTA O NEGACIONISMO",
   "subtitulo": "LUTAR CONTRA A MENTIRA ORGANIZADA",
