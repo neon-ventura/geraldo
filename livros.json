@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-idoso-que-perdeu-a-vontade-de-viver",
+  "titulo": "O IDOSO QUE PERDEU A VONTADE DE VIVER",
+  "subtitulo": "A DEPRESSÃO NA VELHICE E O SILÊNCIO QUE MATA",
+  "sinopse": "Em \"O Idoso Que Perdeu a Vontade de Viver\", Hosea Liebenfield lança luz sobre uma das questões mais silenciosas e negligenciadas da sociedade: a depressão na terceira idade. Com uma abordagem honesta e corajosa, o autor desvenda o manto de invisibilidade que cerca o sofrimento emocional dos mais velhos, explorando a solidão, a perda de sentido e o luto antecipado.\n\nA obra convida o leitor a mergulhar nas profundezas da experiência do idoso que, cercado por lembranças de um passado vibrante, se vê diante de um presente monótono e um futuro incerto. Liebenfield aborda a dor da perda de papéis sociais, a ausência de amigos e familiares, e a falta de tratamento adequado, que muitas vezes é mascarada por um preconceito que associa a tristeza à idade.\n\nAtravés de relatos sensíveis, o livro explora como a depressão se manifesta de forma atípica nos idosos, sendo frequentemente confundida com cansaço ou desânimo. O autor critica a desumanização do cuidado em saúde, onde o idoso é reduzido a um diagnóstico, e clama por uma abordagem que valorize a escuta ativa, a empatia e a individualidade de cada paciente.\n\nNo entanto, em meio à escuridão, a obra também aponta caminhos de esperança. Liebenfield destaca a importância da espiritualidade, das redes de apoio, da reconstrução do sentido e da busca por pequenas alegrias cotidianas. Ele mostra que, mesmo diante da adversidade, é possível reacender a chama da vida, seja através de um novo hobby, do voluntariado ou da reconexão com a natureza e com as pessoas.\n\nCom uma escrita comovente, \"O Idoso Que Perdeu a Vontade de Viver\" é um chamado à ação. É um convite para que a sociedade olhe com mais atenção e empatia para os mais velhos, reconhecendo seu valor e sua história. É uma leitura essencial para todos que desejam compreender a complexidade da alma humana e a importância de se cultivar a esperança e a alegria em todas as fases da vida.",
+  "autor": "HOSEA LIEBENFIELD",
+  "colecao": "PSICOLOGIA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793557199918.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Depressão",
+   "Solidão",
+   "Luto",
+   "Reconstrução",
+   "Esperança"
+  ],
+  "criado": "2026-11-01T18:21:31.342Z",
+  "atualizado": "2026-11-01T18:21:31.342Z"
+ },
+ {
   "slug": "o-idoso-que-perdeu-a-memoria",
   "titulo": "O IDOSO QUE PERDEU A MEMÓRIA",
   "subtitulo": "O QUE FICA QUANDO A MENTE COMEÇA A SE APAGAR",
