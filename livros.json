@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-arte-da-camuflagem-urbana",
+  "titulo": "A ARTE DA CAMUFLAGEM URBANA",
+  "subtitulo": "MOVENDO-SE INVISÍVEL NO CAOS DAS CIDADES",
+  "sinopse": "Em um mundo onde cada esquina tem uma câmera, cada transação deixa um rastro e cada rosto é escaneado por algoritmos, ser visto tornou-se um risco. Noah Reinhardt revela que a verdadeira liberdade não está em fugir do sistema, mas em se dissolver dentro dele. \"A Arte da Camuflagem Urbana\" não é um manual de esconderijo, mas um tratado sofisticado sobre como se tornar invisível em plena luz do dia — sem máscaras, sem disfarces óbvios, apenas com a ciência da percepção humana.\n\nO livro começa desvendando como o cérebro decide o que ver e o que ignorar em uma metrópole saturada de estímulos. A partir daí, Reinhardt conduz o leitor por um caminho de transformação: a vestimenta que apaga a presença, a linguagem corporal que não fixa memória, os \"espaços esquecidos\" da cidade — túneis, telhados, áreas industriais abandonadas — que funcionam como refúgios estratégicos. Ele ensina a mapear o ambiente cognitivamente, a navegar por sombras e padrões de iluminação, e a se mover com uma logística furtiva que evita as rotas de exposição.\n\nMas o livro vai além da camuflagem física. Reinhardt mergulha na comunicação clandestina — rádio amador, redes mesh, mensagens criptografadas — e na segurança digital (OpSec), mostrando como a pegada digital pode destruir qualquer esforço de invisibilidade. Ele aborda a aquisição discreta de recursos, a criação de abrigos temporários seguros, a saúde na clandestinidade e até a geração de renda sem chamar atenção.\n\nO clímax é filosófico: a construção do \"homem cinza\", uma ética de vida baseada na discrição consciente, não na paranoia. Reinhardt não promete uma vida de esconderijos, mas uma existência funcional, livre e gratificante em meio ao caos urbano. Para quem sente que o mundo está observando demais, este livro é a chave para desaparecer — e, paradoxalmente, finalmente ser livre.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793886730510.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "camuflagem urbana",
+   "invisibilidade",
+   "sobrevivência urbana",
+   "privacidade",
+   "opsec"
+  ],
+  "criado": "2026-11-05T13:54:23.660Z",
+  "atualizado": "2026-11-05T13:54:23.660Z"
+ },
+ {
   "slug": "o-refugiado-dentro-da-propria-casa",
   "titulo": "O REFUGIADO DENTRO DA PRÓPRIA CASA",
   "subtitulo": "QUANDO O LAR DEIXA DE SER SEGURO",
