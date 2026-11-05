@@ -1,5 +1,33 @@
 [
  {
+  "slug": "psicologia-do-refugiado",
+  "titulo": "PSICOLOGIA DO REFUGIADO",
+  "subtitulo": "A MENTE HUMANA EM SITUAÇÃO DE DESENRAIZAMENTO EXTREMO",
+  "sinopse": "Existe um tipo de perda que não aparece nas estatísticas de guerra: a perda do próprio chão. Noah Reinhardt mergulha na mente de quem foi arrancado de tudo — casa, cultura, futuro — e precisa reconstruir a si mesmo em um mundo que não o reconhece. \"A Psicologia do Refugiado\" não é um livro sobre políticas migratórias. É um estudo profundo, humano e implacável sobre o que acontece com a alma quando o mapa mental fica em branco.\n\nO livro começa com o Choque do Vazio Geográfico: os primeiros dias após a perda do lar, quando espaço e lugar se tornam ausência total. Reinhardt então explora o Luto em Camadas — a perda da casa, da cultura, das expectativas — como experiências simultâneas, não lineares. A Hipervigilância Crônica é dissecada como mecanismo de sobrevivência que se torna carga debilitante, com explicações neurobiológicas do trauma.\n\nA Síndrome do Fantasma Cultural revela o conflito de quem se assimila, mas continua estrangeiro na própria pele. As estratégias de sobrevivência psicológica — as \"ilhas de sentido\" — são examinadas com seus benefícios e limitações. O Efeito Terceira Cultura aborda crianças e adolescentes entre dois mundos, e a Raiva Silenciosa e Gratidão Forçada expõe a ambivalência emocional do acolhimento.\n\nReinhardt não romantiza a resiliência. Ele fala de buracos na alma, de memória seletiva como escudo, de reconstrução de identidade com múltiplas camadas. O capítulo final amplia a reflexão para o século XXI: o que a mente do refugiado ensina sobre crise, empatia e comunidade em um mundo cada vez mais instável.\n\nÉ um livro para quem quer entender a dor do desenraizamento — e a força silenciosa de quem sobrevive a ela.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793887686251.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "refugiados",
+   "desenraizamento",
+   "trauma",
+   "identidade",
+   "luto"
+  ],
+  "criado": "2026-11-05T14:10:12.219Z",
+  "atualizado": "2026-11-05T14:10:12.219Z"
+ },
+ {
   "slug": "psicologia-da-sobrevivencia",
   "titulo": "PSICOLOGIA DA SOBREVIVÊNCIA",
   "subtitulo": "COMO TRANSFORMAR PÂNICO EM PERFORMANCE QUANDO A VIDA DEPENDER DISSO",
