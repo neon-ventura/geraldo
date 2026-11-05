@@ -1,5 +1,33 @@
 [
  {
+  "slug": "psicologia-da-sobrevivencia",
+  "titulo": "PSICOLOGIA DA SOBREVIVÊNCIA",
+  "subtitulo": "COMO TRANSFORMAR PÂNICO EM PERFORMANCE QUANDO A VIDA DEPENDER DISSO",
+  "sinopse": "Seu cérebro quer te matar. Não por maldade, mas por herança: os instintos que salvaram seus antepassados de predadores são os mesmos que, diante de uma crise moderna, travam suas pernas, embolam seu raciocínio e transformam pânico em paralisia. Noah Reinhardt parte dessa premissa chocante para revelar por que tantas pessoas morrem em situações das quais poderiam escapar — e como você pode ser a exceção.\n\n\"A Psicologia da Sobrevivência\" é um mergulho na mente sob pressão extrema. Reinhardt desmonta a reação de luta ou fuga, apresenta as três reações automáticas que causam colapso e oferece um primeiro hack mental para interromper a sequência do pânico. Ele expõe o Efeito Estocolmo do Conforto — como a vida moderna atrofiou nossa resiliência — e propõe um protocolo de desconforto diário para reprogramar o cérebro.\n\nA partir daí, o livro se torna um arsenal de técnicas de elite. A Regra 10-10-10 dos Navy SEALs ensina a dominar o tempo psicológico. A respiração tática reduz o cortisol. O locus de controle separa vítimas de protagonistas. O foco seletivo se transforma em superpoder sob fogo. A raiva é resignificada como arma controlada, e a esperança realista é calibrada para não virar ilusão.\n\nReinhardt também encara o preço da sobrevivência: a síndrome do sobrevivente, o burnout emocional, a necessidade de descarga psicológica. E ensina liderança em crise — como ser o cara que os outros seguem quando tudo desaba. O Efeito Lucidus, a clareza mental no pior momento, é explorado com uma rotina de 28 dias. O capítulo final apresenta a Mente Inquebrável, um novo sistema operacional mental com plano de 365 dias.\n\nÉ um livro para quem entende que, quando a vida depender disso, a diferença entre viver e morrer estará dentro da sua cabeça.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793887511051.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "psicologia",
+   "pânico",
+   "resiliência mental",
+   "Navy SEALs",
+   "foco"
+  ],
+  "criado": "2026-11-05T14:07:46.080Z",
+  "atualizado": "2026-11-05T14:07:46.080Z"
+ },
+ {
   "slug": "a-logistica-da-fuga",
   "titulo": "A LOGÍSTICA DA FUGA",
   "subtitulo": "COMO SAIR VIVO QUANDO NÃO SE TEM MAIS PARA ONDE CORRER",
