@@ -1,5 +1,33 @@
 [
  {
+  "slug": "mentalidade-de-bunker",
+  "titulo": "MENTALIDADE DE BUNKER",
+  "subtitulo": "PREPARAÇÃO PSICOLÓGICA PARA CENÁRIOS DE CRISE",
+  "sinopse": "Em um mundo onde as crises — sejam elas pessoais, sociais ou globais — parecem se multiplicar a cada dia, como podemos nos preparar para o inesperado sem sermos consumidos pelo medo? Em **\"Mentalidade de Bunker\"**, Noah Reinhardt nos convida a uma jornada profunda e transformadora pelo autoconhecimento e pela resiliência psicológica.\n\nMuito além de um simples conceito de sobrevivência, a \"Mentalidade de Bunker\" é apresentada como uma fortaleza emocional que construímos dentro de nós mesmos. Através de uma escrita envolvente e repleta de histórias reais, o autor explora como a nossa mente reage ao estresse extremo, ao pânico e à incerteza, revelando que a verdadeira preparação começa muito antes da tempestade chegar. \n\nAo longo dos capítulos, Reinhardt nos ensina a importância de cultivar hábitos diários de autocuidado, a força da meditação e do mindfulness aplicados em situações de alta pressão, e como transformar emoções negativas — como a raiva e a frustração — em combustível para o crescimento pessoal. O livro também aborda a importância vital das conexões humanas e da preparação comunitária, mostrando que, mesmo diante do caos, não estamos sozinhos.\n\nCom uma abordagem que mescla psicologia, neurociência e relatos inspiradores de superação, esta obra é um guia prático e emocionante. Seja para lidar com um dia difícil no trabalho, uma perda significativa ou um cenário de crise global, \"Mentalidade de Bunker\" oferece as ferramentas necessárias para transformar a adversidade em oportunidade. \n\nPrepare-se para expandir sua mente, descobrir a força que existe dentro de você e construir um espaço seguro de onde será possível não apenas sobreviver, mas prosperar. Afinal, a vida não vem com um manual, mas podemos aprender a nos tornar a nossa própria fortaleza.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793889854814.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "Resiliência Psicológica",
+   "Preparação para Crises",
+   "Autoconhecimento",
+   "Saúde Mental",
+   "Superação e Fortalecimento"
+  ],
+  "criado": "2026-11-05T14:46:52.136Z",
+  "atualizado": "2026-11-05T14:46:52.136Z"
+ },
+ {
   "slug": "resiliencia",
   "titulo": "RESILIÊNCIA",
   "subtitulo": "ENGENHARIA DA CORAGEM EM TEMPOS DE CAOS",
