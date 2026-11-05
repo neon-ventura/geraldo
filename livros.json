@@ -1,5 +1,33 @@
 [
  {
+  "slug": "kit-de-sobrevivencia-urbana",
+  "titulo": "KIT DE SOBREVIVÊNCIA URBANA",
+  "subtitulo": "HABILIDADES PARA O COLAPSO E A CRISE- PRÁTICAS QUE SALVAM VIDAS",
+  "sinopse": "A cidade é uma armadilha disfarçada de conforto. Quando a energia cai, a água para e as prateleiras esvaziam, o concreto se transforma em uma selva hostil — e a maioria das pessoas não tem a menor ideia de como sobreviver nela. Noah Reinhardt parte dessa constatação brutal para entregar o manual definitivo de sobrevivência urbana. \"Kit de Sobrevivência Urbana\" não é sobre esperar o fim do mundo. É sobre estar pronto para os colapsos reais que já estão no horizonte: falência de serviços essenciais, crises econômicas, desastres naturais e rupturas sociais.\n\nO livro começa com uma análise das fragilidades urbanas contemporâneas e um teste rápido de resiliência pessoal. A partir daí, Reinhardt conduz o leitor por um treinamento prático e direto. A água é o primeiro desafio: a regra das 3 horas, os seis pontos inusitados onde encontrá-la e como construir um filtro improvisado com lixo urbano. O fogo vem em seguida, com quatro métodos testados em condições adversas e um treinamento de sete dias.\n\nA comida é tratada sem romantismo: dez alimentos que duram até 25 anos, técnicas de obtenção de proteína em cenários de escassez e um plano de estoque mínimo. Os primeiros socorros de guerra urbana ensinam torniquete e sutura com materiais do dia a dia. A navegação sem GPS, a defesa pessoal quando a lei sumir, a energia no escuro total e o bug-out bag urbano completam o arsenal.\n\nOs capítulos finais abordam a camuflagem na selva de concreto, a comunicação quando o celular for só um tijolo e o grande plano final: um checklist de prontidão, uma simulação de sete dias de colapso urbano e o Compromisso do Sobrevivente. É um livro para quem entende que, na cidade que cai, não há espaço para o meio-termo.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793888873369.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "sobrevivência urbana",
+   "colapso",
+   "primeiros socorros",
+   "defesa pessoal",
+   "bug out bag"
+  ],
+  "criado": "2026-11-05T14:30:54.083Z",
+  "atualizado": "2026-11-05T14:30:54.083Z"
+ },
+ {
   "slug": "autosuficiencia",
   "titulo": "AUTOSUFICIÊNCIA",
   "subtitulo": "TORNE-SE A PESSOA QUE NINGUÉM PRECISA SALVAR QUANDO O CAOS CHEGAR",
