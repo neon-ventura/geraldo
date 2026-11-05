@@ -1,5 +1,33 @@
 [
  {
+  "slug": "leitura-de-cenarios",
+  "titulo": "LEITURA DE CENÁRIOS",
+  "subtitulo": "COMO ANTECIPAR CRISES E AGIR COM VANTAGEM",
+  "sinopse": "A maioria das pessoas é cega para o futuro — não por falta de inteligência, mas por excesso de ruído. Noah Reinhardt parte dessa premissa para ensinar a arte de ler cenários: perceber os sinais fracos que precedem as grandes crises, filtrar a desinformação e agir com vantagem antes que o caos se instale. \"Leitura de Cenários\" não é um livro de previsões mágicas. É um treinamento de percepção, análise e decisão para quem quer parar de ser surpreendido.\n\nO livro começa desmontando as cinco mentiras que contamos todo dia para nos sentir seguros. Reinhardt explica o viés de normalidade, o \"Radar de Anomalias\" e como treinar a percepção para captar sinais que 99% das pessoas ignoram. A regra 80/20 das crises é aplicada aos sinais fracos — aqueles detalhes sutis que, como no Titanic, causam estragos enormes. O mapa não é o território: a mídia pode ser uma armadilha, e Reinhardt ensina a construir uma Rede de Inteligência Humana e um Dashboard de Crise em 15 minutos.\n\nA previsão é tratada como engenharia reversa do futuro, com modelos probabilísticos bayesianos, os 6 Gatilhos Universais de Colapso e a Árvore de Cenários. A Regra dos 72 Horas é dissecada com um protocolo de decisão em 7 passos. A antifragilidade financeira ensina a construir um Portfólio Anti-Colapso. A leitura de multidões revela os sinais que precedem tumultos e revoluções. A desinformação é combatida com filtros mentais e autoverificação.\n\nOs capítulos finais tratam da intuição treinada, da matemática do risco com a simulação de Monte Carlo, e da vantagem assimétrica — como o fraco vence o forte com as 7 Armas do Underdog. O plano final integra tudo em uma auditoria pessoal, um cronograma de 90 dias e um desafio de 30 dias. É um livro para quem quer ser protagonista da própria história — e não vítima dos acontecimentos.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793889350571.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "leitura de cenários",
+   "antecipação",
+   "análise de risco",
+   "inteligência",
+   "crises"
+  ],
+  "criado": "2026-11-05T14:37:53.335Z",
+  "atualizado": "2026-11-05T14:37:53.335Z"
+ },
+ {
   "slug": "kit-de-primeiros-socorros-psicologicos",
   "titulo": "KIT DE PRIMEIROS SOCORROS PSICOLÓGICOS",
   "subtitulo": "COMO PARAR O COLAPSO MENTAL EM 5 MINUTOS E VIRAR O JOGO QUANDO TUDO DESMORONA",
