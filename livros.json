@@ -1,5 +1,33 @@
 [
  {
+  "slug": "agua-fogo-terra-e-abrigo",
+  "titulo": "ÁGUA, FOGO, TERRA E ABRIGO",
+  "subtitulo": "HABILIDADES PRIMITIVAS QUE TE MANTÉM VIVO QUANDO A CIVILIZAÇÃO DESLIGAR",
+  "sinopse": "A civilização é uma camada fina. Sob ela, existe um mundo de habilidades que a maioria de nós esqueceu — e que, quando tudo desligar, serão a diferença entre viver e morrer. Noah Reinhardt resgata esse conhecimento ancestral em \"Água, Fogo, Terra e Abrigo\", um guia prático e profundo sobre as quatro habilidades primitivas que sustentam a sobrevivência humana: a mente primal, a água, o fogo e o abrigo.\n\nO livro começa na mente. Reinhardt explora as reações de pânico, como treinar a mente para reagir com calma e como manter a clareza sob estresse extremo. A partir daí, cada elemento é destrinchado com precisão. A água: como localizar fontes usando sinais naturais, purificar com materiais da natureza, capturar orvalho e construir destiladores solares rudimentares. O fogo: a ciência dos três elementos, as técnicas de arco e broca, percussão, e as aplicações que vão de cozinhar a sinalizar resgate.\n\nO abrigo é tratado como arte: escolha do local, construção com recursos da terra, isolamento térmico e impermeabilização. A terra que alimenta é explorada com identificação de plantas e insetos comestíveis, regras de comestibilidade e reconhecimento de plantas tóxicas. Reinhardt ensina rastreamento e caça com armadilhas primitivas, pesca e coleta em ambientes aquáticos, processamento e preparo de alimentos sem utensílios modernos.\n\nOs capítulos finais abordam navegação natural sem bússola, fabricação de ferramentas e utensílios, primeiros socorros primitivos e medicina da floresta. O encerramento trata da reintegração: como sinalizar por ajuda, readaptar-se à civilização e manter a conexão com as habilidades primordiais.\n\nÉ um livro para quem entende que, quando a civilização desligar, o conhecimento será a única tecnologia que importa.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793888488143.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "habilidades primitivas",
+   "sobrevivência",
+   "natureza",
+   "bushcraft",
+   "autossuficiência"
+  ],
+  "criado": "2026-11-05T14:23:42.720Z",
+  "atualizado": "2026-11-05T14:23:42.720Z"
+ },
+ {
   "slug": "abastecimento-em-situacoes-de-crise",
   "titulo": "ABASTECIMENTO EM SITUAÇÕES DE CRISE",
   "subtitulo": "COMO TER ÁGUA E COMIDA GARANTIDAS QUANDO AS PRATELEIRAS ESVAZIAREM EM 48 HORAS",
