@@ -1,5 +1,33 @@
 [
  {
+  "slug": "resiliencia",
+  "titulo": "RESILIÊNCIA",
+  "subtitulo": "ENGENHARIA DA CORAGEM EM TEMPOS DE CAOS",
+  "sinopse": "O mundo já está quebrando. Não amanhã, não no próximo ano — agora. Quatro crises correm em paralelo: psicológica, econômica, social e existencial. A maioria das pessoas finge que não é com elas. Noah Reinhardt parte dessa constatação incômoda para construir uma obra que não é sobre sobreviver ao apocalipse, mas sobre engenheirar a coragem necessária para viver em um mundo que já está em colapso. \"Resiliência\" é o manifesto definitivo de quem decidiu parar de ser estatística e se tornar protagonista.\n\nO livro começa com um teste-espelho: onde está a sua resiliência hoje? A partir daí, Reinhardt desmonta o cérebro hackeado pelo conforto — o excesso de dopamina, a zona de conforto, o \"modo vítima\" — e apresenta um protocolo para desligá-lo. A Regra dos 3 Segundos entra como ferramenta de sobrevivência mental: a hesitação mata, e dominar a amígdala é a diferença entre agir e paralisar. O corpo entra na equação com a construção de um físico antifrágil, testado e forjado para o caos.\n\nA partir daí, o livro se aprofunda na mente. As mentiras que mantêm o leitor fraco são destruídas e substituídas por novas afirmações. A arte de tomar decisões quando tudo pega fogo é ensinada com filtros mentais e um \"conselho interno\". O poder de dizer não é tratado como habilidade de sobrevivência emocional. A tribo de guerra — a rede de aliados leais — é construída com critérios objetivos e testes de lealdade. O medo é resignificado como combustível, com protocolos de exposição progressiva e um ritual de guerra pessoal.\n\nO capítulo 10 entrega o Plano de 72 Horas: checklists e passos críticos para as primeiras horas de qualquer colapso. A Mentalidade do 1% que Nunca Quebra revela as características dos que perseveram e apresenta um juramento diário de antifragilidade. O encerramento é um renascimento: um plano de 90 dias para consolidar o novo eu forjado pelo caos.\n\nÉ um livro para quem entende que a coragem não é um dom — é uma engenharia. E que, em tempos de colapso, ela pode ser construída.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793889675612.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "resiliência",
+   "coragem",
+   "antifragilidade",
+   "mentalidade",
+   "superação"
+  ],
+  "criado": "2026-11-05T14:43:28.579Z",
+  "atualizado": "2026-11-05T14:43:28.579Z"
+ },
+ {
   "slug": "navegacao-sem-gps",
   "titulo": "NAVEGAÇÃO SEM GPS",
   "subtitulo": "COMO SE ORIENTAR, SOBREVIVER E CHEGAR EM CASA VIVO QUANDO A TECNOLOGIA COLAPSAR",
