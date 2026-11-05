@@ -1,5 +1,33 @@
 [
  {
+  "slug": "navegacao-sem-gps",
+  "titulo": "NAVEGAÇÃO SEM GPS",
+  "subtitulo": "COMO SE ORIENTAR, SOBREVIVER E CHEGAR EM CASA VIVO QUANDO A TECNOLOGIA COLAPSAR",
+  "sinopse": "Seu cérebro nasceu com um GPS interno. O problema é que você o desligou. Noah Reinhardt parte dessa constatação para resgatar uma das habilidades mais esquecidas da humanidade: a navegação sem tecnologia. \"Navegação sem GPS\" não é um livro sobre sobreviver na selva. É sobre voltar para casa vivo quando o celular virar um tijolo, quando as redes caírem e quando o mundo ao redor se tornar irreconhecível.\n\nO livro começa na anatomia do hipocampo, o GPS biológico que a dependência de aplicativos atrofiou. Reinhardt mostra como 80% das pessoas reagem ao ficar sem tecnologia — e oferece exercícios práticos para reativar o senso de direção inato. A partir daí, o céu se torna mapa: o sol, a lua e as estrelas como guias infalíveis, o relógio solar, o método das sombras e um desafio de navegação noturna.\n\nA leitura do terreno é ensinada com mentalidade de predador, não de turista. Reinhardt explica os erros que levam pessoas a se perderem perto da civilização e apresenta técnicas de interpretação de sinais naturais. A bússola e o relógio são combinados em um método de liberdade total, com treinamento de cinco dias. Os mapas mentais são construídos para resistir a qualquer blackout. Os sinais da natureza — vegetação, comportamento animal — gritam quando você está perdido.\n\nOs capítulos finais tratam da navegação urbana pós-colapso, da mentalidade do explorador sob estresse, do equipamento mínimo que cabe no bolso e da navegação em grupo — como não morrer por causa dos outros. Erros reais que mataram pessoas experientes são analisados para evitar armadilhas cognitivas. O plano final de 30 dias transforma o leitor em alguém que nunca mais depende da tecnologia para se orientar. É um livro para quem entende que, quando a tecnologia colapsar, o conhecimento será o único mapa que importa.",
+  "autor": "NOAH REINHARDT",
+  "colecao": "SOBREVIVENCIALISMO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1793889493720.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": null,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "navegação",
+   "orientação",
+   "sobrevivência",
+   "GPS",
+   "natureza"
+  ],
+  "criado": "2026-11-05T14:40:45.631Z",
+  "atualizado": "2026-11-05T14:40:45.631Z"
+ },
+ {
   "slug": "leitura-de-cenarios",
   "titulo": "LEITURA DE CENÁRIOS",
   "subtitulo": "COMO ANTECIPAR CRISES E AGIR COM VANTAGEM",
