@@ -1,5 +1,33 @@
 [
  {
+  "slug": "a-arte-do-debate",
+  "titulo": "A ARTE DO DEBATE",
+  "subtitulo": "ARGUMENTE COM LÓGICA, ELEGÂNCIA E EFICIÊNCIA",
+  "sinopse": "Em um mundo onde as opiniões são gritadas e o diálogo muitas vezes se perde em meio ao ruído e à intolerância, saber argumentar tornou-se uma das habilidades mais valiosas e raras. \"A Arte do Debate\", escrito por Geraldo Oscar Scheid, não é apenas um manual de oratória; é um guia definitivo para quem deseja dominar a arte de defender ideias com brilho, ética e precisão.\n\nNeste livro, você será conduzido por uma jornada de autoconhecimento e aprimoramento técnico. O autor desmistifica a ideia de que bons debatedores nascem prontos, demonstrando que a capacidade de argumentar é uma ciência e uma arte que podem ser treinadas e aperfeiçoadas. Desde os primeiros capítulos, você aprenderá a diagnosticar seu próprio estilo de argumentação, identificando pontos fortes e áreas de melhoria.\n\nA obra aprofunda-se na engenharia dos argumentos, ensinando como construir premissas sólidas e conclusões irrefutáveis. Você descobrirá como identificar e desarmar falácias lógicas, protegendo-se de armadilhas discursivas, e aprenderá os segredos de uma preparação minuciosa, que antecipa objeções e domina os dados. Mas o grande diferencial deste livro é o equilíbrio entre a força e a compostura. Gerald Scheid ensina que a verdadeira vitória em um debate não vem da destruição do oponente, mas da elegância na refutação e da sabedoria na concessão estratégica.\n\nVocê aprenderá técnicas avançadas para a contra-argumentação, o momento exato de ceder para vencer e como construir um fechamento persuasivo que ecoe na mente da audiência. Acima de tudo, \"A Arte do Debate\" é um manifesto pela ética: debater é um exercício de respeito e esclarecimento, onde a inteligência prevalece sobre a agressão. Com uma rotina prática de treinos, este livro o capacitará a transformar qualquer discussão em uma oportunidade de brilhar, influenciar e conquistar o respeito de todos.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794354440166.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": null,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "arte do debate",
+   "oratória e argumentação",
+   "falácias lógicas",
+   "comunicação persuasiva",
+   "debate ético"
+  ],
+  "criado": "2026-11-10T23:50:26.719Z",
+  "atualizado": "2026-11-10T23:50:26.719Z"
+ },
+ {
   "slug": "auto-defesa-mental",
   "titulo": "AUTO DEFESA MENTAL",
   "subtitulo": "BLINDANDO SUA MENTE CONTRA MANIPULAÇÃO, PÂNICO E COLAPSO",
