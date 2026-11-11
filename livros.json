@@ -1,5 +1,33 @@
 [
  {
+  "slug": "gestao-editorial-inteligente",
+  "titulo": "GESTÃO EDITORIAL INTELIGENTE",
+  "subtitulo": "PROCESSOS QUE PRODUZEM LUCRO E QUALIDADE",
+  "sinopse": "Ter uma editora é o sonho de muitos apaixonados por livros, mas transformar esse sonho em um negócio lucrativo e sustentável exige mais do que amor pela literatura. Exige gestão. Em \"Gestão Editorial Inteligente\", Elias Roth revela os processos e as estratégias que permitem a uma pequena editora não apenas sobreviver, mas prosperar, unindo a excelência na produção de livros à inteligência financeira e operacional.\n\nO livro começa resgatando a paixão como motor inicial, mas rapidamente conduz o leitor à realidade dos recursos disponíveis. Roth ensina a fazer um diagnóstico honesto de tempo, dinheiro e contatos, e a definir um nicho editorial claro que diferencie a editora no mercado. A grande virada de chave está na estrutura enxuta: você aprenderá a operar sem escritório físico, terceirizando serviços e utilizando ferramentas digitais para reduzir custos sem perder qualidade.\n\nA obra detalha a criação de processos de produção padronizados, com checklists que evitam erros e garantem a excelência em cada etapa. Você descobrirá como construir um catálogo inicial coeso e atraente, como contratar e gerenciar freelancers de forma justa e como distribuir seus livros por múltiplos canais, desde a Amazon KDP até parcerias com livrarias físicas e um site próprio.\n\nMas o grande diferencial deste livro é a gestão financeira. Roth ensina a separar as finanças pessoais das empresariais, controlar o fluxo de caixa e reinvestir os lucros de forma inteligente. Na parte final, o autor aborda a escalabilidade: como crescer sem comprometer a qualidade, automatizando processos e delegando funções. A mensagem central é clara: uma editora inteligente é aquela que trata o livro como arte, mas o negócio como ciência. Este é o manual definitivo para quem quer viver de livros com lucratividade e propósito.",
+  "autor": "ELIAS ROTH",
+  "colecao": "GESTÃO EDITORIAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794356100509.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "gestão editorial",
+   "como administrar uma editora",
+   "processos editoriais",
+   "lucratividade no mercado editorial",
+   "pequena editora"
+  ],
+  "criado": "2026-11-11T00:17:55.692Z",
+  "atualizado": "2026-11-11T00:17:55.692Z"
+ },
+ {
   "slug": "escrita-produtiva-para-autores",
   "titulo": "ESCRITA PRODUTIVA PARA AUTORES",
   "subtitulo": "MÉTODO DIÁRIO QUE TERMINA QUALQUER LIVRO",
