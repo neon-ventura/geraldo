@@ -1,5 +1,33 @@
 [
  {
+  "slug": "o-empreendedor-intelectual",
+  "titulo": "O EMPREENDEDOR INTELECTUAL",
+  "subtitulo": "MONETIZE O QUE VOCÊ DOMINA, COMECE PEQUENO",
+  "sinopse": "O modelo tradicional de empreendedorismo, que exige grandes investimentos e estruturas físicas, está com os dias contados. Na nova economia, o ativo mais valioso é o conhecimento. Em \"O Empreendedor Intelectual\", Gerald Scheid apresenta o guia definitivo para quem deseja transformar o que domina em um negócio lucrativo, escalável e com baixo investimento inicial.\n\nO livro começa com um convite à reflexão: você é um empreendedor intelectual? Através de um diagnóstico profundo, você identificará suas competências, talentos e conhecimentos que podem ser monetizados. Scheid ensina a mapear suas oportunidades e a identificar as dores do mercado, transformando problemas reais em soluções inovadoras e lucrativas.\n\nA obra explora os diversos modelos de negócio intelectual, como cursos online, livros, mentorias e consultorias, ajudando você a escolher o que mais se alinha ao seu perfil. Você aprenderá a validar suas ideias antes de investir pesado, testando conceitos e coletando feedbacks valiosos. A mentalidade enxuta é destacada: comece pequeno, use ferramentas gratuitas e foque na ação, não na perfeição.\n\nScheid também ensina a produzir conteúdo de valor para atrair clientes, a fazer marketing intelectual com orçamento reduzido e a vender de forma ética, transformando a venda em um ato de serviço. Na parte final, o autor aborda a gestão financeira, a escalabilidade do negócio e a importância de uma rotina que equilibre aprendizado, produção e vendas. Este é o manual essencial para quem quer viver do próprio conhecimento, com propósito e prosperidade.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EMPREENDEDORISMO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794357072131.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "empreendedorismo intelectual",
+   "negócios digitais",
+   "monetização de conhecimento",
+   "empreendedorismo enxuto",
+   "infoprodutos"
+  ],
+  "criado": "2026-11-11T00:33:16.645Z",
+  "atualizado": "2026-11-11T00:33:16.645Z"
+ },
+ {
   "slug": "neurocomunicacao",
   "titulo": "NEUROCOMUNICAÇÃO",
   "subtitulo": "FALE A LÍNGUA QUE O CÉREBRO ENTENDE",
