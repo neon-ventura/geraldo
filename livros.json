@@ -1,5 +1,33 @@
 [
  {
+  "slug": "publicacao-independente-de-sucesso",
+  "titulo": "PUBLICAÇÃO INDEPENDENTE, DE SUCESSO",
+  "subtitulo": "PUBLIQUE SOZINHO COM QUALIDADE E RESULTADO",
+  "sinopse": "O sonho de publicar um livro nunca foi tão acessível. Com o advento da publicação independente, autores de todo o mundo têm a chance de levar suas obras diretamente aos leitores, sem intermediários. Mas como fazer isso com qualidade e alcançar o sucesso? Em \"Publicação Independente de Sucesso\", Elias Roth revela o caminho das pedras para quem deseja publicar sozinho, com profissionalismo e resultados.\n\nO livro começa contextualizando a revolução da publicação independente, destacando a autonomia e o controle total que o autor exerce sobre seu processo criativo. Através de um diagnóstico pessoal, você avaliará suas competências e identificará áreas que precisam ser desenvolvidas. A partir daí, Roth ensina o planejamento da obra: como escolher um tema que ressoe com seu propósito, definir o público-alvo e estruturar os capítulos antes mesmo de começar a escrever.\n\nA escrita produtiva é abordada com técnicas para vencer a procrastinação e estabelecer uma rotina diária. Você aprenderá a importância da revisão e edição, seja fazendo uma autocrítica rigorosa ou contratando um revisor profissional. A capa e a diagramação são destacadas como elementos cruciais para a primeira impressão e para a legibilidade da obra.\n\nNa parte prática, Roth desvenda as principais plataformas de publicação, com foco na Amazon KDP, além de explicar tudo sobre ISBN, direitos autorais e precificação. O lançamento é tratado como um evento estratégico, com dicas de marketing digital, uso de redes sociais e e-mail marketing. Por fim, o autor propõe uma rotina para o autor independente, baseada na constância e no aprendizado contínuo. Este é o guia completo para transformar seu manuscrito em um livro de sucesso.",
+  "autor": "ELIAS ROTH",
+  "colecao": "AUTOPUBLICAÇÃO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794357534669.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "publicação independente",
+   "autopublicação",
+   "Amazon KDP",
+   "como publicar um livro",
+   "marketing para autores"
+  ],
+  "criado": "2026-11-11T00:42:31.757Z",
+  "atualizado": "2026-11-11T00:42:31.757Z"
+ },
+ {
   "slug": "producao-de-conteudo-educacional",
   "titulo": "PRODUÇÃO DE CONTEÚDO EDUCACIONAL",
   "subtitulo": "ENSINE, ENGAJE E CONSTRUA CREDIBILIDADE",
