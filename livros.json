@@ -1,5 +1,33 @@
 [
  {
+  "slug": "lideranca-intelectual",
+  "titulo": "LIDERANÇA INTELECTUAL",
+  "subtitulo": "AUTORIDADE QUE NASCE DO CONHECIMENTO",
+  "sinopse": "Em um mundo saturado de gestores focados apenas em metas e hierarquias, surge uma nova forma de liderar: aquela que nasce do conhecimento, da sabedoria e da influência genuína. Em \"Liderança Intelectual\", Gerald Scheid revela como transformar o saber em autoridade, inspirando equipes e gerando resultados duradouros sem a necessidade de impor o cargo.\n\nO livro parte de uma premissa fundamental: a verdadeira liderança não é um título, mas uma consequência do domínio técnico e da capacidade de aplicar o conhecimento na prática. Scheid guia o leitor por um autodiagnóstico profundo, convidando-o a identificar seu estilo de liderança, suas forças e fraquezas, e a ouvir o que a equipe não diz. A partir daí, você aprenderá a construir uma autoridade que silencia críticas improcedentes e conquista o respeito natural.\n\nA obra aprofunda-se em pilares essenciais, como a competência técnica, a visão estratégica e a comunicação clara. O autor ensina que um líder intelectual não apenas fala, mas escuta ativamente; não apenas decide, mas reflete e assume a responsabilidade por suas escolhas. A influência ética é destacada como a linha que separa o líder do manipulador, construindo uma base de confiança inabalável.\n\nUm dos pontos altos é a abordagem sobre a formação de sucessores. Scheid argumenta que o verdadeiro sucesso de um líder é medido pela sua capacidade de multiplicar o conhecimento e desenvolver novos líderes. Na parte final, o autor demonstra como aplicar esses princípios em qualquer contexto — empresas, escolas ou ONGs — e propõe uma rotina prática para o líder intelectual, baseada no estudo diário e na escuta ativa. Este é o guia definitivo para quem deseja liderar não pelo poder, mas pela sabedoria.",
+  "autor": "GERALD SCHEID",
+  "colecao": "GESTÃO DE EQUIPES",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794356485354.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "liderança intelectual",
+   "liderança baseada em conhecimento",
+   "formação de sucessores",
+   "influência ética",
+   "gestão de equipes"
+  ],
+  "criado": "2026-11-11T00:24:22.216Z",
+  "atualizado": "2026-11-11T00:24:22.216Z"
+ },
+ {
   "slug": "influencia-digital-inteligente",
   "titulo": "INFLUÊNCIA DIGITAL INTELIGENTE",
   "subtitulo": "TRANSFORME CONHECIMENTO EM AUTORIDADE ONLINE",
