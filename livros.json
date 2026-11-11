@@ -1,5 +1,33 @@
 [
  {
+  "slug": "marketing-editorial-moderno",
+  "titulo": "MARKETING EDITORIAL MODERNO",
+  "subtitulo": "VENDA MAIS LIVROS COM ESTRATÉGIA E MÉTODO",
+  "sinopse": "Você escreveu um livro incrível, mas ele não está vendendo como deveria. O problema não está na qualidade da sua obra, mas na falta de uma estratégia de marketing eficaz. Em \"Marketing Editorial Moderno\", Elias Roth apresenta o método definitivo para transformar seu livro em um sucesso de vendas, unindo a arte da escrita à ciência da divulgação.\n\nO livro parte da premissa de que todo autor precisa ser, também, um divulgador capacitado. Roth ensina como fazer um diagnóstico de mercado, identificando seu público-leitor ideal, mapeando a concorrência e encontrando lacunas que podem ser exploradas. A partir daí, você aprenderá a posicionar seu livro de forma única, destacando seu valor e sua diferenciação.\n\nA obra desvenda os segredos da identidade visual: como criar capas atraentes, títulos que vendem e uma coerência visual que fortalece sua marca de autor. Você também dominará a arte da descrição persuasiva, aprendendo a identificar as dores do público e a apresentar seu livro como a solução que ele procura.\n\nMas o marketing moderno vai além do livro em si. Roth explora o poder das redes sociais (Instagram, TikTok, YouTube) para autores, o e-mail marketing como ferramenta de relacionamento e conversão, e a importância de parcerias e resenhas para amplificar o alcance. Você aprenderá a planejar um lançamento como um evento, a usar anúncios pagos de forma inteligente e a medir suas métricas para ajustar suas campanhas. Por fim, o autor propõe uma rotina de marketing editorial, mostrando que a consistência é a chave para o sucesso a longo prazo. Este é o manual essencial para quem quer viver de escrever.",
+  "autor": "ELIAS ROTH",
+  "colecao": "MARKETING EDITORIAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794356688685.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "marketing editorial",
+   "como vender livros",
+   "divulgação de livros",
+   "marketing digital para autores",
+   "lançamento de livro"
+  ],
+  "criado": "2026-11-11T00:27:05.500Z",
+  "atualizado": "2026-11-11T00:27:05.500Z"
+ },
+ {
   "slug": "lideranca-intelectual",
   "titulo": "LIDERANÇA INTELECTUAL",
   "subtitulo": "AUTORIDADE QUE NASCE DO CONHECIMENTO",
