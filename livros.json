@@ -1,5 +1,33 @@
 [
  {
+  "slug": "neurocomunicacao",
+  "titulo": "NEUROCOMUNICAÇÃO",
+  "subtitulo": "FALE A LÍNGUA QUE O CÉREBRO ENTENDE",
+  "sinopse": "Você já se perguntou por que algumas mensagens são instantaneamente compreendidas e memorizadas, enquanto outras caem no esquecimento? A resposta está no cérebro. Em \"Neurocomunicação\", Geraldo Scheid revela os segredos da neurociência aplicada à comunicação, ensinando como alinhar sua fala à mecânica natural da mente para palestras, aulas e liderança de alto impacto.\n\nO livro começa desvendando como o cérebro processa as informações. Você aprenderá que a atenção é o primeiro filtro, que as emoções influenciam as decisões antes mesmo da razão e que a memória retém apenas o que é significativo. A partir desse diagnóstico, Scheid apresenta os gatilhos neurais da atenção: novidade, contraste e, acima de tudo, o storytelling. Você descobrirá como as histórias ativam áreas cerebrais profundas, criando conexões emocionais duradouras.\n\nA obra explora o poder da linguagem sensorial, mostrando como palavras que evocam imagens e sensações têm um impacto muito maior do que a lógica fria. Você aprenderá a usar metáforas que simplificam conceitos complexos e a estruturar mensagens que respeitam os padrões mentais do público, quebrando-os estrategicamente quando necessário para gerar surpresa e impacto.\n\nMas a neurocomunicação exige responsabilidade. Scheid dedica um capítulo à ética, diferenciando a influência saudável da manipulação. O livro conclui com aplicações práticas em apresentações, aulas e negociações, além de uma rotina completa para incorporar essas técnicas ao seu dia a dia. Este é o guia definitivo para quem quer se comunicar não apenas com clareza, mas com a ciência a seu favor.",
+  "autor": "GERALD SCHEID",
+  "colecao": "ORATÓRIA E NEUROCIÊNCIA APLICADA",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794356864617.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "neurocomunicação",
+   "neurociência aplicada",
+   "storytelling e persuasão",
+   "comunicação de alto impacto",
+   "gatilhos mentais"
+  ],
+  "criado": "2026-11-11T00:30:24.526Z",
+  "atualizado": "2026-11-11T00:30:24.526Z"
+ },
+ {
   "slug": "marketing-editorial-moderno",
   "titulo": "MARKETING EDITORIAL MODERNO",
   "subtitulo": "VENDA MAIS LIVROS COM ESTRATÉGIA E MÉTODO",
