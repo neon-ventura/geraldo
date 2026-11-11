@@ -1,5 +1,33 @@
 [
  {
+  "slug": "editoracao-para-iniciantes",
+  "titulo": "EDITORAÇÃO PARA INICIANTES",
+  "subtitulo": "PRODUZA LIVROS COM PADRÃO PROFISSIONAL",
+  "sinopse": "Você terminou de escrever seu livro. E agora? Muitos autores acreditam que a jornada acaba no ponto final do último capítulo, mas é justamente aí que começa a verdadeira transformação de um manuscrito em um livro de qualidade profissional. Em \"Editoração para Iniciantes\", Elias Roth apresenta um guia completo e acessível sobre o universo da editoração, capacitando autores independentes a produzirem obras com padrão de mercado.\n\nO livro parte do princípio de que editorar não é apenas \"passar um corretor ortográfico\", mas sim um processo complexo que envolve revisão, design, produção e distribuição. Roth conduz o leitor por um diagnóstico do mercado editorial atual, mostrando como a ascensão da autopublicação abriu portas, mas também elevou o nível de exigência dos leitores.\n\nA obra desvenda as etapas de produção de forma didática. Você aprenderá a preparar os originais com revisão gramatical e normalização técnica, entendendo que um texto limpo é a base para tudo. Em seguida, o autor explora o projeto gráfico: a importância de uma capa atrativa, a diagramação que facilita a leitura e a harmonia entre forma e conteúdo. Você também entenderá a burocracia necessária, como a obtenção do ISBN e da ficha catalográfica, além de dominar as opções de impressão, acabamento e os formatos digitais (EPUB, MOBI, PDF).\n\nMas um livro profissional não termina na gráfica. Roth aborda estratégias de distribuição em livrarias e marketplaces, a proteção dos direitos autorais e a importância do marketing editorial para construir credibilidade. Por fim, o autor propõe uma rotina de editoração, enfatizando o planejamento e a busca por profissionais qualificados. Este é o manual essencial para quem deseja que o seu livro não seja apenas mais um, mas sim uma obra que respeita o leitor e encanta pela qualidade.",
+  "autor": "ELIAS ROTH",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794355767131.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "edição de livros",
+   "revisão e diagramação",
+   "autopublicação profissional",
+   "projeto gráfico",
+   "ISBN e direitos autorais"
+  ],
+  "criado": "2026-11-11T00:12:03.555Z",
+  "atualizado": "2026-11-11T00:12:03.555Z"
+ },
+ {
   "slug": "comunicacao-de-alto-impacto",
   "titulo": "COMUNICAÇÃO DE ALTO IMPACTO",
   "subtitulo": "FALE COM CLAREZA, ELEGÂNCIA E PODER",
