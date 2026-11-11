@@ -1,5 +1,33 @@
 [
  {
+  "slug": "producao-de-conteudo-educacional",
+  "titulo": "PRODUÇÃO DE CONTEÚDO EDUCACIONAL",
+  "subtitulo": "ENSINE, ENGAJE E CONSTRUA CREDIBILIDADE",
+  "sinopse": "Vivemos na era da informação, mas informação sem propósito não transforma ninguém. Em \"Produção de Conteúdo Educacional\", Gerald Scheid apresenta o guia definitivo para criar materiais que não apenas informam, mas educam e transformam a vida de quem consome. Este livro é um convite para criadores, professores e especialistas que desejam fazer a diferença através do conhecimento.\n\nO livro parte da premissa de que todo conteúdo educacional deve ter uma intenção clara: ensinar e gerar valor. Scheid começa com um diagnóstico de produção, ajudando você a avaliar a qualidade e a frequência do que cria, identificando lacunas e oportunidades de melhoria. A partir daí, você aprenderá a conhecer profundamente seu público-alvo, entendendo suas dores e desejos para falar a mesma língua que ele.\n\nA obra desvenda a estrutura ideal de um conteúdo educacional, desde a definição de objetivos de aprendizagem até a organização do material do simples ao complexo. Você descobrirá como escolher os formatos certos (textos, vídeos, áudios, infográficos) e como usar uma linguagem didática que simplifica conceitos complexos sem perder a profundidade. Os recursos visuais são apresentados como aliados poderosos para a retenção do conhecimento.\n\nScheid também aborda a avaliação da aprendizagem, ensinando a criar métricas e feedbacks construtivos que realmente meçam o progresso dos alunos. E, claro, a distribuição: como levar seu conteúdo a quem mais precisa dele, usando múltiplos canais. Por fim, o autor propõe uma rotina de produção educacional, baseada em método, constância e melhoria contínua. Este é o manual essencial para quem quer transformar vidas através do ensino.",
+  "autor": "GERALD SCHEID",
+  "colecao": "EDUCAÇÃO PARA O FUTURO",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794357369697.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "produção de conteúdo educacional",
+   "criação de cursos",
+   "didática e ensino",
+   "conteúdo de valor",
+   "educação digital"
+  ],
+  "criado": "2026-11-11T00:38:35.130Z",
+  "atualizado": "2026-11-11T00:38:35.130Z"
+ },
+ {
   "slug": "persuasao-inteligente",
   "titulo": "PERSUASÃO INTELIGENTE",
   "subtitulo": "CONVENÇA SEM MANIPULAR, INFLUENCIE COM ÉTICA",
