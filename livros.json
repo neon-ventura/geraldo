@@ -1,5 +1,33 @@
 [
  {
+  "slug": "escrita-produtiva-para-autores",
+  "titulo": "ESCRITA PRODUTIVA PARA AUTORES",
+  "subtitulo": "MÉTODO DIÁRIO QUE TERMINA QUALQUER LIVRO",
+  "sinopse": "Você tem uma ideia brilhante para um livro, mas senta para escrever e a página permanece em branco. A inspiração não vem, a rotina atrapalha e o projeto é abandonado. Se essa história parece familiar, \"Escrita Produtiva para Autores\" é o antídoto que você precisa. Gerald Scheid apresenta um método diário e infalível para transformar qualquer ideia em um livro concluído, provando que a produtividade é mais importante que a inspiração.\n\nO livro começa com um diagnóstico honesto da sua produtividade. Você será convidado a analisar quantas palavras escreve por dia, identificar seus bloqueios e reconhecer padrões de abandono. A partir daí, Scheid ensina a definir metas claras e mensuráveis, dividindo grandes objetivos em pequenas conquistas diárias. A chave do sucesso, segundo o autor, está na criação de uma rotina de escrita inegociável, tratada com o mesmo compromisso de um trabalho ou de uma consulta médica.\n\nVocê aprenderá a otimizar seu ambiente de escrita, eliminando distrações e criando um espaço que favoreça o fluxo criativo. O autor também apresenta técnicas de fluidez, como escrever o primeiro rascunho sem censura, deixando a correção para um segundo momento. Os temidos bloqueios criativos são desmistificados e tratados como resultado do perfeccionismo, com estratégias práticas para vencê-los.\n\nNa parte final, a obra aborda a gestão do livro como um projeto: cronogramas, prazos e a importância da colaboração de editores e beta readers. Scheid enfatiza que a verdadeira identidade de um autor não está em começar, mas em concluir. Com uma rotina diária proposta, este livro é o empurrão final para você sair do papel e se tornar um autor produtivo e realizado.",
+  "autor": "GERALD SCHEID",
+  "colecao": "METODOLOGIA DO DESENVOLVIMENTO INTELECTUAL",
+  "preco": null,
+  "capa": "https://raw.githubusercontent.com/neon-ventura/geraldo/main/uploads/capa-1794355949304.webp",
+  "galeria": [],
+  "publicado": true,
+  "destaque": false,
+  "ordem": 0,
+  "paginas": 120,
+  "ano": 2026,
+  "isbn": "",
+  "formato": "",
+  "idioma": "pt-BR",
+  "tags": [
+   "escrita produtiva",
+   "rotina de escritor",
+   "bloqueio criativo",
+   "metas de escrita",
+   "como terminar um livro"
+  ],
+  "criado": "2026-11-11T00:14:42.099Z",
+  "atualizado": "2026-11-11T00:14:42.099Z"
+ },
+ {
   "slug": "editoracao-para-iniciantes",
   "titulo": "EDITORAÇÃO PARA INICIANTES",
   "subtitulo": "PRODUZA LIVROS COM PADRÃO PROFISSIONAL",
